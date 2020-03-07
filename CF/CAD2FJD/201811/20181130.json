@@ -1,0 +1,13 @@
+{
+  "exchangeRateId" : 1329532,
+  "curDate" : 1543507200000,
+  "baseCurrency" : "CAD",
+  "transactionCurrency" : "FJD",
+  "exchangeRate" : 0.632143798,
+  "createDate" : 1543507200000,
+  "createUser" : 55,
+  "updateDate" : 1543507200000,
+  "updateUser" : 55,
+  "effectiveDate" : 1543566716000,
+  "transactionCurrencyOption" : null
+}

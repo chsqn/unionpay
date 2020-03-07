@@ -1,0 +1,13 @@
+{
+  "exchangeRateId" : 1180618,
+  "curDate" : 1534089600000,
+  "baseCurrency" : "AUD",
+  "transactionCurrency" : "BTN",
+  "exchangeRate" : 0.020106502,
+  "createDate" : 1534089600000,
+  "createUser" : 55,
+  "updateDate" : 1534089600000,
+  "updateUser" : 55,
+  "effectiveDate" : 1534149059000,
+  "transactionCurrencyOption" : null
+}

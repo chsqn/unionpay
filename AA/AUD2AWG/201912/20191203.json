@@ -1,0 +1,13 @@
+{
+  "exchangeRateId" : 1831245,
+  "curDate" : 1575302400000,
+  "baseCurrency" : "AUD",
+  "transactionCurrency" : "AWG",
+  "exchangeRate" : 0.815271111,
+  "createDate" : 1575302400000,
+  "createUser" : 55,
+  "updateDate" : 1575302400000,
+  "updateUser" : 55,
+  "effectiveDate" : 1575361349000,
+  "transactionCurrencyOption" : null
+}

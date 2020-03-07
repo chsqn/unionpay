@@ -1,0 +1,13 @@
+{
+  "exchangeRateId" : 1869485,
+  "curDate" : 1577721600000,
+  "baseCurrency" : "AUD",
+  "transactionCurrency" : "EGP",
+  "exchangeRate" : 0.08947292,
+  "createDate" : 1577721600000,
+  "createUser" : 55,
+  "updateDate" : 1577721600000,
+  "updateUser" : 55,
+  "effectiveDate" : 1577780681000,
+  "transactionCurrencyOption" : null
+}

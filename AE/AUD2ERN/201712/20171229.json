@@ -1,0 +1,13 @@
+{
+  "exchangeRateId" : 875270,
+  "curDate" : 1514476800000,
+  "baseCurrency" : "AUD",
+  "transactionCurrency" : "ERN",
+  "exchangeRate" : 0.085622529,
+  "createDate" : 1514476800000,
+  "createUser" : 55,
+  "updateDate" : 1514476800000,
+  "updateUser" : 55,
+  "effectiveDate" : 1514535959000,
+  "transactionCurrencyOption" : null
+}

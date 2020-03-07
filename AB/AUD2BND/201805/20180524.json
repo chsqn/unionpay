@@ -1,0 +1,13 @@
+{
+  "exchangeRateId" : 1072522,
+  "curDate" : 1527091200000,
+  "baseCurrency" : "AUD",
+  "transactionCurrency" : "BND",
+  "exchangeRate" : 0.991334341,
+  "createDate" : 1527091200000,
+  "createUser" : 55,
+  "updateDate" : 1527091200000,
+  "updateUser" : 55,
+  "effectiveDate" : 1527150391000,
+  "transactionCurrencyOption" : null
+}

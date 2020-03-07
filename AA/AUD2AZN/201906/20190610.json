@@ -1,0 +1,13 @@
+{
+  "exchangeRateId" : 1590766,
+  "curDate" : 1560096000000,
+  "baseCurrency" : "AUD",
+  "transactionCurrency" : "AZN",
+  "exchangeRate" : 0.849078179,
+  "createDate" : 1560096000000,
+  "createUser" : 55,
+  "updateDate" : 1560096000000,
+  "updateUser" : 55,
+  "effectiveDate" : 1560155139000,
+  "transactionCurrencyOption" : null
+}

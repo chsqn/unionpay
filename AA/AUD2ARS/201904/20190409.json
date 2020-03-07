@@ -1,0 +1,13 @@
+{
+  "exchangeRateId" : 1506811,
+  "curDate" : 1554739200000,
+  "baseCurrency" : "AUD",
+  "transactionCurrency" : "ARS",
+  "exchangeRate" : 0.032294265,
+  "createDate" : 1554739200000,
+  "createUser" : 55,
+  "updateDate" : 1554739200000,
+  "updateUser" : 55,
+  "effectiveDate" : 1554798266000,
+  "transactionCurrencyOption" : null
+}

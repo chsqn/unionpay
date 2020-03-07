@@ -1,0 +1,13 @@
+{
+  "exchangeRateId" : 983401,
+  "curDate" : 1521475200000,
+  "baseCurrency" : "AUD",
+  "transactionCurrency" : "BYR",
+  "exchangeRate" : 6.674E-5,
+  "createDate" : 1521475200000,
+  "createUser" : 55,
+  "updateDate" : 1521475200000,
+  "updateUser" : 55,
+  "effectiveDate" : 1521534191000,
+  "transactionCurrencyOption" : null
+}

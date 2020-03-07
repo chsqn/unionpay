@@ -1,0 +1,13 @@
+{
+  "exchangeRateId" : 1512566,
+  "curDate" : 1554998400000,
+  "baseCurrency" : "AUD",
+  "transactionCurrency" : "DKK",
+  "exchangeRate" : 0.213545939,
+  "createDate" : 1554998400000,
+  "createUser" : 55,
+  "updateDate" : 1554998400000,
+  "updateUser" : 55,
+  "effectiveDate" : 1555057577000,
+  "transactionCurrencyOption" : null
+}

@@ -1,0 +1,13 @@
+{
+  "exchangeRateId" : 1733910,
+  "curDate" : 1569168000000,
+  "baseCurrency" : "AUD",
+  "transactionCurrency" : "CUC",
+  "exchangeRate" : 1.525531601,
+  "createDate" : 1569168000000,
+  "createUser" : 55,
+  "updateDate" : 1569168000000,
+  "updateUser" : 55,
+  "effectiveDate" : 1569227244000,
+  "transactionCurrencyOption" : null
+}

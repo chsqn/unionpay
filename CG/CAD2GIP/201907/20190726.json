@@ -1,0 +1,13 @@
+{
+  "exchangeRateId" : 1655837,
+  "curDate" : 1564070400000,
+  "baseCurrency" : "CAD",
+  "transactionCurrency" : "GIP",
+  "exchangeRate" : 1.651778151,
+  "createDate" : 1564070400000,
+  "createUser" : 55,
+  "updateDate" : 1564070400000,
+  "updateUser" : 55,
+  "effectiveDate" : 1564129587000,
+  "transactionCurrencyOption" : null
+}

@@ -1,0 +1,13 @@
+{
+  "exchangeRateId" : 1321736,
+  "curDate" : 1543161600000,
+  "baseCurrency" : "AUD",
+  "transactionCurrency" : "DZD",
+  "exchangeRate" : 0.011721742,
+  "createDate" : 1543161600000,
+  "createUser" : 55,
+  "updateDate" : 1543161600000,
+  "updateUser" : 55,
+  "effectiveDate" : 1543221001000,
+  "transactionCurrencyOption" : null
+}

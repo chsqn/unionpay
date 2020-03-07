@@ -1,0 +1,13 @@
+{
+  "exchangeRateId" : 2016201173,
+  "curDate" : 1447948800000,
+  "baseCurrency" : "JPY",
+  "transactionCurrency" : "USD",
+  "exchangeRate" : 123.3339,
+  "createDate" : 1447948800000,
+  "createUser" : 744090,
+  "updateDate" : 1447948800000,
+  "updateUser" : 744090,
+  "effectiveDate" : null,
+  "transactionCurrencyOption" : null
+}

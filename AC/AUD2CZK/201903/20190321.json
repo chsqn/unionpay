@@ -1,0 +1,13 @@
+{
+  "exchangeRateId" : 1480112,
+  "curDate" : 1553097600000,
+  "baseCurrency" : "AUD",
+  "transactionCurrency" : "CZK",
+  "exchangeRate" : 0.062636107,
+  "createDate" : 1553097600000,
+  "createUser" : 55,
+  "updateDate" : 1553097600000,
+  "updateUser" : 55,
+  "effectiveDate" : 1553157152000,
+  "transactionCurrencyOption" : null
+}

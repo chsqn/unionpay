@@ -1,0 +1,13 @@
+{
+  "exchangeRateId" : 1560256,
+  "curDate" : 1558022400000,
+  "baseCurrency" : "AUD",
+  "transactionCurrency" : "CDF",
+  "exchangeRate" : 8.85834E-4,
+  "createDate" : 1558022400000,
+  "createUser" : 55,
+  "updateDate" : 1558022400000,
+  "updateUser" : 55,
+  "effectiveDate" : 1558081368000,
+  "transactionCurrencyOption" : null
+}

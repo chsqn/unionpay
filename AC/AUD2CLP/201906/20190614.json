@@ -1,0 +1,13 @@
+{
+  "exchangeRateId" : 1598418,
+  "curDate" : 1560441600000,
+  "baseCurrency" : "AUD",
+  "transactionCurrency" : "CLP",
+  "exchangeRate" : 0.002095879,
+  "createDate" : 1560441600000,
+  "createUser" : 55,
+  "updateDate" : 1560441600000,
+  "updateUser" : 55,
+  "effectiveDate" : 1560500763000,
+  "transactionCurrencyOption" : null
+}

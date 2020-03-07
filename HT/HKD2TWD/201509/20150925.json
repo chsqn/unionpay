@@ -1,0 +1,13 @@
+{
+  "exchangeRateId" : 2016058574,
+  "curDate" : 1443110400000,
+  "baseCurrency" : "HKD",
+  "transactionCurrency" : "TWD",
+  "exchangeRate" : 0.2353,
+  "createDate" : 1443110400000,
+  "createUser" : 55,
+  "updateDate" : 1443110400000,
+  "updateUser" : 55,
+  "effectiveDate" : null,
+  "transactionCurrencyOption" : null
+}

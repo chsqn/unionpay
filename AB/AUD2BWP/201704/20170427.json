@@ -1,0 +1,13 @@
+{
+  "exchangeRateId" : 273415,
+  "curDate" : 1493222400000,
+  "baseCurrency" : "AUD",
+  "transactionCurrency" : "BWP",
+  "exchangeRate" : 0.129328828,
+  "createDate" : 1493222400000,
+  "createUser" : 55,
+  "updateDate" : 1493222400000,
+  "updateUser" : 55,
+  "effectiveDate" : null,
+  "transactionCurrencyOption" : null
+}

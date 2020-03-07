@@ -1,0 +1,13 @@
+{
+  "exchangeRateId" : 1785431,
+  "curDate" : 1572364800000,
+  "baseCurrency" : "AUD",
+  "transactionCurrency" : "DOP",
+  "exchangeRate" : 0.027820413,
+  "createDate" : 1572364800000,
+  "createUser" : 55,
+  "updateDate" : 1572364800000,
+  "updateUser" : 55,
+  "effectiveDate" : 1572424264000,
+  "transactionCurrencyOption" : null
+}

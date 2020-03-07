@@ -1,0 +1,13 @@
+{
+  "exchangeRateId" : 1333356,
+  "curDate" : 1543852800000,
+  "baseCurrency" : "CAD",
+  "transactionCurrency" : "GTQ",
+  "exchangeRate" : 0.171605655,
+  "createDate" : 1543852800000,
+  "createUser" : 55,
+  "updateDate" : 1543852800000,
+  "updateUser" : 55,
+  "effectiveDate" : 1543912275000,
+  "transactionCurrencyOption" : null
+}

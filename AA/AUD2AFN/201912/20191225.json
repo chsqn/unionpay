@@ -1,0 +1,13 @@
+{
+  "exchangeRateId" : 1861814,
+  "curDate" : 1577203200000,
+  "baseCurrency" : "AUD",
+  "transactionCurrency" : "AFN",
+  "exchangeRate" : 0.01851443,
+  "createDate" : 1577203200000,
+  "createUser" : 55,
+  "updateDate" : 1577203200000,
+  "updateUser" : 55,
+  "effectiveDate" : 1577262129000,
+  "transactionCurrencyOption" : null
+}

@@ -1,0 +1,13 @@
+{
+  "exchangeRateId" : 324811,
+  "curDate" : 1494950400000,
+  "baseCurrency" : "AUD",
+  "transactionCurrency" : "BAM",
+  "exchangeRate" : 0.770130661,
+  "createDate" : 1494950400000,
+  "createUser" : 55,
+  "updateDate" : 1494950400000,
+  "updateUser" : 55,
+  "effectiveDate" : null,
+  "transactionCurrencyOption" : null
+}

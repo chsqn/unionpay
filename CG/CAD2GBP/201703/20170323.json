@@ -1,0 +1,13 @@
+{
+  "exchangeRateId" : 181789,
+  "curDate" : 1490198400000,
+  "baseCurrency" : "CAD",
+  "transactionCurrency" : "GBP",
+  "exchangeRate" : 1.673244358,
+  "createDate" : 1490198400000,
+  "createUser" : 55,
+  "updateDate" : 1490198400000,
+  "updateUser" : 55,
+  "effectiveDate" : null,
+  "transactionCurrencyOption" : null
+}

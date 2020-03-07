@@ -1,0 +1,13 @@
+{
+  "exchangeRateId" : 1804508,
+  "curDate" : 1573574400000,
+  "baseCurrency" : "AUD",
+  "transactionCurrency" : "BBD",
+  "exchangeRate" : 0.728436744,
+  "createDate" : 1573574400000,
+  "createUser" : 55,
+  "updateDate" : 1573574400000,
+  "updateUser" : 55,
+  "effectiveDate" : 1573633801000,
+  "transactionCurrencyOption" : null
+}

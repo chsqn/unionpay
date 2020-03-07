@@ -1,0 +1,13 @@
+{
+  "exchangeRateId" : 666333,
+  "curDate" : 1506268800000,
+  "baseCurrency" : "AUD",
+  "transactionCurrency" : "DJF",
+  "exchangeRate" : 0.007067135,
+  "createDate" : 1506268800000,
+  "createUser" : 55,
+  "updateDate" : 1506268800000,
+  "updateUser" : 55,
+  "effectiveDate" : null,
+  "transactionCurrencyOption" : null
+}

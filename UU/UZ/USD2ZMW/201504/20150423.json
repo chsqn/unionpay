@@ -1,0 +1,13 @@
+{
+  "exchangeRateId" : 2015543916,
+  "curDate" : 1429718400000,
+  "baseCurrency" : "USD",
+  "transactionCurrency" : "ZMW",
+  "exchangeRate" : 0.1367,
+  "createDate" : 1429718400000,
+  "createUser" : 55,
+  "updateDate" : 1429718400000,
+  "updateUser" : 55,
+  "effectiveDate" : null,
+  "transactionCurrencyOption" : null
+}

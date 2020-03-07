@@ -1,0 +1,13 @@
+{
+  "exchangeRateId" : 1520193,
+  "curDate" : 1555516800000,
+  "baseCurrency" : "AUD",
+  "transactionCurrency" : "CRC",
+  "exchangeRate" : 0.002365269,
+  "createDate" : 1555516800000,
+  "createUser" : 55,
+  "updateDate" : 1555516800000,
+  "updateUser" : 55,
+  "effectiveDate" : 1555576946000,
+  "transactionCurrencyOption" : null
+}

@@ -1,0 +1,13 @@
+{
+  "exchangeRateId" : 1237947,
+  "curDate" : 1537718400000,
+  "baseCurrency" : "CAD",
+  "transactionCurrency" : "GNF",
+  "exchangeRate" : 1.4381E-4,
+  "createDate" : 1537718400000,
+  "createUser" : 55,
+  "updateDate" : 1537718400000,
+  "updateUser" : 55,
+  "effectiveDate" : 1537777200000,
+  "transactionCurrencyOption" : null
+}

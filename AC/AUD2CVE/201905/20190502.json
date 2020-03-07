@@ -1,0 +1,13 @@
+{
+  "exchangeRateId" : 1539275,
+  "curDate" : 1556726400000,
+  "baseCurrency" : "AUD",
+  "transactionCurrency" : "CVE",
+  "exchangeRate" : 0.014511366,
+  "createDate" : 1556726400000,
+  "createUser" : 55,
+  "updateDate" : 1556726400000,
+  "updateUser" : 55,
+  "effectiveDate" : 1556785151000,
+  "transactionCurrencyOption" : null
+}

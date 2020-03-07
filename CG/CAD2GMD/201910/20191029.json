@@ -1,0 +1,13 @@
+{
+  "exchangeRateId" : 1783694,
+  "curDate" : 1572278400000,
+  "baseCurrency" : "CAD",
+  "transactionCurrency" : "GMD",
+  "exchangeRate" : 0.025727853,
+  "createDate" : 1572278400000,
+  "createUser" : 55,
+  "updateDate" : 1572278400000,
+  "updateUser" : 55,
+  "effectiveDate" : 1572337490000,
+  "transactionCurrencyOption" : null
+}

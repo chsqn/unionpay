@@ -1,0 +1,13 @@
+{
+  "exchangeRateId" : 412960,
+  "curDate" : 1497888000000,
+  "baseCurrency" : "AUD",
+  "transactionCurrency" : "COP",
+  "exchangeRate" : 4.44842E-4,
+  "createDate" : 1497888000000,
+  "createUser" : 55,
+  "updateDate" : 1497888000000,
+  "updateUser" : 55,
+  "effectiveDate" : null,
+  "transactionCurrencyOption" : null
+}

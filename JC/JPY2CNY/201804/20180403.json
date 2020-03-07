@@ -1,0 +1,13 @@
+{
+  "exchangeRateId" : 1003331,
+  "curDate" : 1522684800000,
+  "baseCurrency" : "JPY",
+  "transactionCurrency" : "CNY",
+  "exchangeRate" : 16.918183664,
+  "createDate" : 1522684800000,
+  "createUser" : 55,
+  "updateDate" : 1522684800000,
+  "updateUser" : 55,
+  "effectiveDate" : 1522743844000,
+  "transactionCurrencyOption" : null
+}

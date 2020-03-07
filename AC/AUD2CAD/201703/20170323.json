@@ -1,0 +1,13 @@
+{
+  "exchangeRateId" : 181617,
+  "curDate" : 1490198400000,
+  "baseCurrency" : "AUD",
+  "transactionCurrency" : "CAD",
+  "exchangeRate" : 0.987289237,
+  "createDate" : 1490198400000,
+  "createUser" : 55,
+  "updateDate" : 1490198400000,
+  "updateUser" : 55,
+  "effectiveDate" : null,
+  "transactionCurrencyOption" : null
+}

@@ -1,0 +1,13 @@
+{
+  "exchangeRateId" : 1691904,
+  "curDate" : 1566403200000,
+  "baseCurrency" : "AUD",
+  "transactionCurrency" : "BYN",
+  "exchangeRate" : 0.725867939,
+  "createDate" : 1566403200000,
+  "createUser" : 55,
+  "updateDate" : 1566403200000,
+  "updateUser" : 55,
+  "effectiveDate" : 1566462351000,
+  "transactionCurrencyOption" : null
+}

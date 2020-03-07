@@ -1,0 +1,13 @@
+{
+  "exchangeRateId" : 1403945,
+  "curDate" : 1548172800000,
+  "baseCurrency" : "CAD",
+  "transactionCurrency" : "FKP",
+  "exchangeRate" : 1.727301209,
+  "createDate" : 1548172800000,
+  "createUser" : 55,
+  "updateDate" : 1548172800000,
+  "updateUser" : 55,
+  "effectiveDate" : 1548232286000,
+  "transactionCurrencyOption" : null
+}

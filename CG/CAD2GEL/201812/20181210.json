@@ -1,0 +1,13 @@
+{
+  "exchangeRateId" : 1340983,
+  "curDate" : 1544371200000,
+  "baseCurrency" : "CAD",
+  "transactionCurrency" : "GEL",
+  "exchangeRate" : 0.503994205,
+  "createDate" : 1544371200000,
+  "createUser" : 55,
+  "updateDate" : 1544371200000,
+  "updateUser" : 55,
+  "effectiveDate" : 1544430404000,
+  "transactionCurrencyOption" : null
+}

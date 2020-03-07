@@ -1,0 +1,13 @@
+{
+  "exchangeRateId" : 1758709,
+  "curDate" : 1570636800000,
+  "baseCurrency" : "AUD",
+  "transactionCurrency" : "CHF",
+  "exchangeRate" : 1.500521838,
+  "createDate" : 1570636800000,
+  "createUser" : 55,
+  "updateDate" : 1570636800000,
+  "updateUser" : 55,
+  "effectiveDate" : 1570696107000,
+  "transactionCurrencyOption" : null
+}

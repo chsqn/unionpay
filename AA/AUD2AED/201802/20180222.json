@@ -1,0 +1,13 @@
+{
+  "exchangeRateId" : 949241,
+  "curDate" : 1519228800000,
+  "baseCurrency" : "AUD",
+  "transactionCurrency" : "AED",
+  "exchangeRate" : 0.351070962,
+  "createDate" : 1519228800000,
+  "createUser" : 55,
+  "updateDate" : 1519228800000,
+  "updateUser" : 55,
+  "effectiveDate" : 1519288530000,
+  "transactionCurrencyOption" : null
+}

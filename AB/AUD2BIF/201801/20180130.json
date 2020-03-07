@@ -1,0 +1,13 @@
+{
+  "exchangeRateId" : 917008,
+  "curDate" : 1517241600000,
+  "baseCurrency" : "AUD",
+  "transactionCurrency" : "BIF",
+  "exchangeRate" : 7.06814E-4,
+  "createDate" : 1517241600000,
+  "createUser" : 55,
+  "updateDate" : 1517241600000,
+  "updateUser" : 55,
+  "effectiveDate" : 1517301038000,
+  "transactionCurrencyOption" : null
+}

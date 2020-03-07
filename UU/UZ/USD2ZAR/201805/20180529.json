@@ -1,0 +1,13 @@
+{
+  "exchangeRateId" : 1080086,
+  "curDate" : 1527523200000,
+  "baseCurrency" : "USD",
+  "transactionCurrency" : "ZAR",
+  "exchangeRate" : 0.08046409,
+  "createDate" : 1527523200000,
+  "createUser" : 55,
+  "updateDate" : 1527523200000,
+  "updateUser" : 55,
+  "effectiveDate" : 1527582473000,
+  "transactionCurrencyOption" : null
+}

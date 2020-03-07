@@ -1,0 +1,13 @@
+{
+  "exchangeRateId" : 2015353894,
+  "curDate" : 1422460800000,
+  "baseCurrency" : "SGD",
+  "transactionCurrency" : "CNY",
+  "exchangeRate" : 0.2173,
+  "createDate" : 1422460800000,
+  "createUser" : 55,
+  "updateDate" : 1422460800000,
+  "updateUser" : 55,
+  "effectiveDate" : null,
+  "transactionCurrencyOption" : null
+}

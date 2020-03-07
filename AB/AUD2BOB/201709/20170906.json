@@ -1,0 +1,13 @@
+{
+  "exchangeRateId" : 618579,
+  "curDate" : 1504627200000,
+  "baseCurrency" : "AUD",
+  "transactionCurrency" : "BOB",
+  "exchangeRate" : 0.180357608,
+  "createDate" : 1504627200000,
+  "createUser" : 55,
+  "updateDate" : 1504627200000,
+  "updateUser" : 55,
+  "effectiveDate" : null,
+  "transactionCurrencyOption" : null
+}

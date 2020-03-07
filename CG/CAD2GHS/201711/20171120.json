@@ -1,0 +1,13 @@
+{
+  "exchangeRateId" : 813377,
+  "curDate" : 1511107200000,
+  "baseCurrency" : "CAD",
+  "transactionCurrency" : "GHS",
+  "exchangeRate" : 0.281344032,
+  "createDate" : 1511107200000,
+  "createUser" : 55,
+  "updateDate" : 1511107200000,
+  "updateUser" : 55,
+  "effectiveDate" : null,
+  "transactionCurrencyOption" : null
+}

@@ -1,0 +1,13 @@
+{
+  "exchangeRateId" : 2016274877,
+  "curDate" : 1450713600000,
+  "baseCurrency" : "THB",
+  "transactionCurrency" : "CNY",
+  "exchangeRate" : 5.5978,
+  "createDate" : 1450713600000,
+  "createUser" : 55,
+  "updateDate" : 1450713600000,
+  "updateUser" : 55,
+  "effectiveDate" : null,
+  "transactionCurrencyOption" : null
+}

@@ -1,0 +1,13 @@
+{
+  "exchangeRateId" : 1472483,
+  "curDate" : 1552492800000,
+  "baseCurrency" : "AUD",
+  "transactionCurrency" : "ETB",
+  "exchangeRate" : 0.050121031,
+  "createDate" : 1552492800000,
+  "createUser" : 55,
+  "updateDate" : 1552492800000,
+  "updateUser" : 55,
+  "effectiveDate" : 1552552438000,
+  "transactionCurrencyOption" : null
+}

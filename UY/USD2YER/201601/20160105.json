@@ -1,0 +1,13 @@
+{
+  "exchangeRateId" : 2016307382,
+  "curDate" : 1451923200000,
+  "baseCurrency" : "USD",
+  "transactionCurrency" : "YER",
+  "exchangeRate" : 0.0047,
+  "createDate" : 1451923200000,
+  "createUser" : 55,
+  "updateDate" : 1451923200000,
+  "updateUser" : 55,
+  "effectiveDate" : null,
+  "transactionCurrencyOption" : null
+}
