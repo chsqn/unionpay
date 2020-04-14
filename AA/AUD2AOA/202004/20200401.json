@@ -1,0 +1,13 @@
+{
+  "exchangeRateId" : 1997298,
+  "curDate" : 1585670400000,
+  "baseCurrency" : "AUD",
+  "transactionCurrency" : "AOA",
+  "exchangeRate" : 0.00317108,
+  "createDate" : 1585670400000,
+  "createUser" : 55,
+  "updateDate" : 1585670400000,
+  "updateUser" : 55,
+  "effectiveDate" : 1585729107000,
+  "transactionCurrencyOption" : null
+}

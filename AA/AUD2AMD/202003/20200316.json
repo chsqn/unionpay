@@ -1,0 +1,13 @@
+{
+  "exchangeRateId" : 1974400,
+  "curDate" : 1584288000000,
+  "baseCurrency" : "AUD",
+  "transactionCurrency" : "AMD",
+  "exchangeRate" : 0.00336444,
+  "createDate" : 1584288000000,
+  "createUser" : 55,
+  "updateDate" : 1584288000000,
+  "updateUser" : 55,
+  "effectiveDate" : 1584347604000,
+  "transactionCurrencyOption" : null
+}
