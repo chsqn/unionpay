@@ -1,0 +1,13 @@
+{
+  "exchangeRateId" : 1228241,
+  "curDate" : 1537113600000,
+  "baseCurrency" : "AUD",
+  "transactionCurrency" : "FJD",
+  "exchangeRate" : 0.661043323,
+  "createDate" : 1537113600000,
+  "createUser" : 55,
+  "updateDate" : 1537113600000,
+  "updateUser" : 55,
+  "effectiveDate" : 1537173137000,
+  "transactionCurrencyOption" : null
+}

@@ -1,0 +1,13 @@
+{
+  "exchangeRateId" : 1283582,
+  "curDate" : 1540742400000,
+  "baseCurrency" : "AUD",
+  "transactionCurrency" : "FKP",
+  "exchangeRate" : 1.817062019,
+  "createDate" : 1540742400000,
+  "createUser" : 55,
+  "updateDate" : 1540742400000,
+  "updateUser" : 55,
+  "effectiveDate" : 1540801826000,
+  "transactionCurrencyOption" : null
+}
