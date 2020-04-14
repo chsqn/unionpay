@@ -1,0 +1,13 @@
+{
+  "exchangeRateId" : 1331285,
+  "curDate" : 1543766400000,
+  "baseCurrency" : "AUD",
+  "transactionCurrency" : "GHS",
+  "exchangeRate" : 0.279010367,
+  "createDate" : 1543766400000,
+  "createUser" : 55,
+  "updateDate" : 1543766400000,
+  "updateUser" : 55,
+  "effectiveDate" : 1543825801000,
+  "transactionCurrencyOption" : null
+}

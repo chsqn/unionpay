@@ -1,0 +1,13 @@
+{
+  "exchangeRateId" : 1861865,
+  "curDate" : 1577203200000,
+  "baseCurrency" : "AUD",
+  "transactionCurrency" : "GTQ",
+  "exchangeRate" : 0.18862629,
+  "createDate" : 1577203200000,
+  "createUser" : 55,
+  "updateDate" : 1577203200000,
+  "updateUser" : 55,
+  "effectiveDate" : 1577262129000,
+  "transactionCurrencyOption" : null
+}

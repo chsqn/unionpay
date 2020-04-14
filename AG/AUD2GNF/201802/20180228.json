@@ -1,0 +1,13 @@
+{
+  "exchangeRateId" : 956880,
+  "curDate" : 1519747200000,
+  "baseCurrency" : "AUD",
+  "transactionCurrency" : "GNF",
+  "exchangeRate" : 1.42925E-4,
+  "createDate" : 1519747200000,
+  "createUser" : 55,
+  "updateDate" : 1519747200000,
+  "updateUser" : 55,
+  "effectiveDate" : 1519806167000,
+  "transactionCurrencyOption" : null
+}

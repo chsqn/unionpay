@@ -1,0 +1,13 @@
+{
+  "exchangeRateId" : 1000506,
+  "curDate" : 1522598400000,
+  "baseCurrency" : "AUD",
+  "transactionCurrency" : "GIP",
+  "exchangeRate" : 1.838049773,
+  "createDate" : 1522598400000,
+  "createUser" : 55,
+  "updateDate" : 1522598400000,
+  "updateUser" : 55,
+  "effectiveDate" : 1522657412000,
+  "transactionCurrencyOption" : null
+}

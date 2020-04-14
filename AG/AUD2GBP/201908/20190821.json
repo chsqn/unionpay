@@ -1,0 +1,13 @@
+{
+  "exchangeRateId" : 1690019,
+  "curDate" : 1566316800000,
+  "baseCurrency" : "AUD",
+  "transactionCurrency" : "GBP",
+  "exchangeRate" : 1.804234442,
+  "createDate" : 1566316800000,
+  "createUser" : 55,
+  "updateDate" : 1566316800000,
+  "updateUser" : 55,
+  "effectiveDate" : 1566376156000,
+  "transactionCurrencyOption" : null
+}

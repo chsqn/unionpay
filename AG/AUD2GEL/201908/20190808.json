@@ -1,0 +1,13 @@
+{
+  "exchangeRateId" : 1672848,
+  "curDate" : 1565193600000,
+  "baseCurrency" : "AUD",
+  "transactionCurrency" : "GEL",
+  "exchangeRate" : 0.506230552,
+  "createDate" : 1565193600000,
+  "createUser" : 55,
+  "updateDate" : 1565193600000,
+  "updateUser" : 55,
+  "effectiveDate" : 1565252869000,
+  "transactionCurrencyOption" : null
+}

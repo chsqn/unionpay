@@ -1,0 +1,13 @@
+{
+  "exchangeRateId" : 1800727,
+  "curDate" : 1573401600000,
+  "baseCurrency" : "AUD",
+  "transactionCurrency" : "GMD",
+  "exchangeRate" : 0.028562329,
+  "createDate" : 1573401600000,
+  "createUser" : 55,
+  "updateDate" : 1573401600000,
+  "updateUser" : 55,
+  "effectiveDate" : 1573460679000,
+  "transactionCurrencyOption" : null
+}

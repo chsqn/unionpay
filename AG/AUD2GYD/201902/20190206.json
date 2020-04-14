@@ -1,0 +1,13 @@
+{
+  "exchangeRateId" : 1422886,
+  "curDate" : 1549382400000,
+  "baseCurrency" : "AUD",
+  "transactionCurrency" : "GYD",
+  "exchangeRate" : 0.006694768,
+  "createDate" : 1549382400000,
+  "createUser" : 55,
+  "updateDate" : 1549382400000,
+  "updateUser" : 55,
+  "effectiveDate" : 1549440232000,
+  "transactionCurrencyOption" : null
+}
