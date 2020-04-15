@@ -1,0 +1,13 @@
+{
+  "exchangeRateId" : 1909568,
+  "curDate" : 1580227200000,
+  "baseCurrency" : "AUD",
+  "transactionCurrency" : "HNL",
+  "exchangeRate" : 0.06039271,
+  "createDate" : 1580227200000,
+  "createUser" : 55,
+  "updateDate" : 1580227200000,
+  "updateUser" : 55,
+  "effectiveDate" : 1580285046000,
+  "transactionCurrencyOption" : null
+}

@@ -1,0 +1,13 @@
+{
+  "exchangeRateId" : 600256,
+  "curDate" : 1504022400000,
+  "baseCurrency" : "AUD",
+  "transactionCurrency" : "HRK",
+  "exchangeRate" : 0.203568465,
+  "createDate" : 1504022400000,
+  "createUser" : 55,
+  "updateDate" : 1504022400000,
+  "updateUser" : 55,
+  "effectiveDate" : null,
+  "transactionCurrencyOption" : null
+}

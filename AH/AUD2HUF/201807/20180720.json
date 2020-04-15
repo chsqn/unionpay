@@ -1,0 +1,13 @@
+{
+  "exchangeRateId" : 1150319,
+  "curDate" : 1532016000000,
+  "baseCurrency" : "AUD",
+  "transactionCurrency" : "HUF",
+  "exchangeRate" : 0.004884952,
+  "createDate" : 1532016000000,
+  "createUser" : 55,
+  "updateDate" : 1532016000000,
+  "updateUser" : 55,
+  "effectiveDate" : 1532077507000,
+  "transactionCurrencyOption" : null
+}

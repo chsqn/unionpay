@@ -1,0 +1,13 @@
+{
+  "exchangeRateId" : 1369451,
+  "curDate" : 1546185600000,
+  "baseCurrency" : "AUD",
+  "transactionCurrency" : "HKD",
+  "exchangeRate" : 0.182131123,
+  "createDate" : 1546185600000,
+  "createUser" : 55,
+  "updateDate" : 1546185600000,
+  "updateUser" : 55,
+  "effectiveDate" : 1546243919000,
+  "transactionCurrencyOption" : null
+}

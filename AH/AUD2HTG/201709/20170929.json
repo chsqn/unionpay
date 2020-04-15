@@ -1,0 +1,13 @@
+{
+  "exchangeRateId" : 681041,
+  "curDate" : 1506614400000,
+  "baseCurrency" : "AUD",
+  "transactionCurrency" : "HTG",
+  "exchangeRate" : 0.020330826,
+  "createDate" : 1506614400000,
+  "createUser" : 55,
+  "updateDate" : 1506614400000,
+  "updateUser" : 55,
+  "effectiveDate" : null,
+  "transactionCurrencyOption" : null
+}
