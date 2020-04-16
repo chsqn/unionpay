@@ -1,0 +1,13 @@
+{
+  "exchangeRateId" : 1831304,
+  "curDate" : 1575302400000,
+  "baseCurrency" : "AUD",
+  "transactionCurrency" : "JPY",
+  "exchangeRate" : 0.013527439,
+  "createDate" : 1575302400000,
+  "createUser" : 55,
+  "updateDate" : 1575302400000,
+  "updateUser" : 55,
+  "effectiveDate" : 1575361349000,
+  "transactionCurrencyOption" : null
+}

@@ -1,0 +1,13 @@
+{
+  "exchangeRateId" : 1203458,
+  "curDate" : 1535472000000,
+  "baseCurrency" : "AUD",
+  "transactionCurrency" : "JMD",
+  "exchangeRate" : 0.010029728,
+  "createDate" : 1535472000000,
+  "createUser" : 55,
+  "updateDate" : 1535472000000,
+  "updateUser" : 55,
+  "effectiveDate" : 1535531296000,
+  "transactionCurrencyOption" : null
+}

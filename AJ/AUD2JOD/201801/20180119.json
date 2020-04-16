@@ -1,0 +1,13 @@
+{
+  "exchangeRateId" : 903767,
+  "curDate" : 1516291200000,
+  "baseCurrency" : "AUD",
+  "transactionCurrency" : "JOD",
+  "exchangeRate" : 1.76861616,
+  "createDate" : 1516291200000,
+  "createUser" : 55,
+  "updateDate" : 1516291200000,
+  "updateUser" : 55,
+  "effectiveDate" : 1516350560000,
+  "transactionCurrencyOption" : null
+}
