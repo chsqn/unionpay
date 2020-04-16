@@ -1,0 +1,13 @@
+{
+  "exchangeRateId" : 1076357,
+  "curDate" : 1527436800000,
+  "baseCurrency" : "AUD",
+  "transactionCurrency" : "ILS",
+  "exchangeRate" : 0.373599685,
+  "createDate" : 1527436800000,
+  "createUser" : 55,
+  "updateDate" : 1527436800000,
+  "updateUser" : 55,
+  "effectiveDate" : 1527496886000,
+  "transactionCurrencyOption" : null
+}

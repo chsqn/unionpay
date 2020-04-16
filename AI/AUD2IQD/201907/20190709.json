@@ -1,0 +1,13 @@
+{
+  "exchangeRateId" : 1630887,
+  "curDate" : 1562601600000,
+  "baseCurrency" : "AUD",
+  "transactionCurrency" : "IQD",
+  "exchangeRate" : 0.001210677,
+  "createDate" : 1562601600000,
+  "createUser" : 55,
+  "updateDate" : 1562601600000,
+  "updateUser" : 55,
+  "effectiveDate" : 1562661010000,
+  "transactionCurrencyOption" : null
+}

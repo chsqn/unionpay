@@ -1,0 +1,13 @@
+{
+  "exchangeRateId" : 1078257,
+  "curDate" : 1527523200000,
+  "baseCurrency" : "AUD",
+  "transactionCurrency" : "ISK",
+  "exchangeRate" : 0.012623549,
+  "createDate" : 1527523200000,
+  "createUser" : 55,
+  "updateDate" : 1527523200000,
+  "updateUser" : 55,
+  "effectiveDate" : 1527582473000,
+  "transactionCurrencyOption" : null
+}

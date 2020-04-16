@@ -1,0 +1,13 @@
+{
+  "exchangeRateId" : 1541210,
+  "curDate" : 1556812800000,
+  "baseCurrency" : "AUD",
+  "transactionCurrency" : "INR",
+  "exchangeRate" : 0.020721853,
+  "createDate" : 1556812800000,
+  "createUser" : 55,
+  "updateDate" : 1556812800000,
+  "updateUser" : 55,
+  "effectiveDate" : 1556871150000,
+  "transactionCurrencyOption" : null
+}
