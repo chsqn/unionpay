@@ -1,0 +1,13 @@
+{
+  "exchangeRateId" : 1957313,
+  "curDate" : 1583164800000,
+  "baseCurrency" : "AUD",
+  "transactionCurrency" : "MNT",
+  "exchangeRate" : 5.6164E-4,
+  "createDate" : 1583164800000,
+  "createUser" : 55,
+  "updateDate" : 1583164800000,
+  "updateUser" : 55,
+  "effectiveDate" : 1583223842000,
+  "transactionCurrencyOption" : null
+}

@@ -1,0 +1,13 @@
+{
+  "exchangeRateId" : 1785480,
+  "curDate" : 1572364800000,
+  "baseCurrency" : "AUD",
+  "transactionCurrency" : "MMK",
+  "exchangeRate" : 9.58703E-4,
+  "createDate" : 1572364800000,
+  "createUser" : 55,
+  "updateDate" : 1572364800000,
+  "updateUser" : 55,
+  "effectiveDate" : 1572424264000,
+  "transactionCurrencyOption" : null
+}

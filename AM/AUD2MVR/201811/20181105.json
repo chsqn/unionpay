@@ -1,0 +1,13 @@
+{
+  "exchangeRateId" : 1293170,
+  "curDate" : 1541347200000,
+  "baseCurrency" : "AUD",
+  "transactionCurrency" : "MVR",
+  "exchangeRate" : 0.090497628,
+  "createDate" : 1541347200000,
+  "createUser" : 55,
+  "updateDate" : 1541347200000,
+  "updateUser" : 55,
+  "effectiveDate" : 1541406674000,
+  "transactionCurrencyOption" : null
+}

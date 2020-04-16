@@ -1,0 +1,13 @@
+{
+  "exchangeRateId" : 1720613,
+  "curDate" : 1568217600000,
+  "baseCurrency" : "AUD",
+  "transactionCurrency" : "MUR",
+  "exchangeRate" : 0.040521558,
+  "createDate" : 1568217600000,
+  "createUser" : 55,
+  "updateDate" : 1568217600000,
+  "updateUser" : 55,
+  "effectiveDate" : 1568276802000,
+  "transactionCurrencyOption" : null
+}

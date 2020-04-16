@@ -1,0 +1,13 @@
+{
+  "exchangeRateId" : 1997383,
+  "curDate" : 1585670400000,
+  "baseCurrency" : "AUD",
+  "transactionCurrency" : "MRO",
+  "exchangeRate" : 0.0045981,
+  "createDate" : 1585670400000,
+  "createUser" : 55,
+  "updateDate" : 1585670400000,
+  "updateUser" : 55,
+  "effectiveDate" : 1585729107000,
+  "transactionCurrencyOption" : null
+}

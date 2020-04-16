@@ -1,0 +1,13 @@
+{
+  "exchangeRateId" : 941742,
+  "curDate" : 1518710400000,
+  "baseCurrency" : "AUD",
+  "transactionCurrency" : "MGA",
+  "exchangeRate" : 4.05616E-4,
+  "createDate" : 1518710400000,
+  "createUser" : 55,
+  "updateDate" : 1518710400000,
+  "updateUser" : 55,
+  "effectiveDate" : 1518769209000,
+  "transactionCurrencyOption" : null
+}

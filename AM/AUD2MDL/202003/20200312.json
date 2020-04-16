@@ -1,0 +1,13 @@
+{
+  "exchangeRateId" : 1970665,
+  "curDate" : 1583942400000,
+  "baseCurrency" : "AUD",
+  "transactionCurrency" : "MDL",
+  "exchangeRate" : 0.08952949,
+  "createDate" : 1583942400000,
+  "createUser" : 55,
+  "updateDate" : 1583942400000,
+  "updateUser" : 55,
+  "effectiveDate" : 1584001205000,
+  "transactionCurrencyOption" : null
+}

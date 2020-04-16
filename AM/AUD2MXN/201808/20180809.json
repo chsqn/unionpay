@@ -1,0 +1,13 @@
+{
+  "exchangeRateId" : 1176900,
+  "curDate" : 1533744000000,
+  "baseCurrency" : "AUD",
+  "transactionCurrency" : "MXN",
+  "exchangeRate" : 0.073357846,
+  "createDate" : 1533744000000,
+  "createUser" : 55,
+  "updateDate" : 1533744000000,
+  "updateUser" : 55,
+  "effectiveDate" : 1533803015000,
+  "transactionCurrencyOption" : null
+}

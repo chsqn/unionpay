@@ -1,0 +1,13 @@
+{
+  "exchangeRateId" : 939858,
+  "curDate" : 1518624000000,
+  "baseCurrency" : "AUD",
+  "transactionCurrency" : "MZN",
+  "exchangeRate" : 0.020987813,
+  "createDate" : 1518624000000,
+  "createUser" : 55,
+  "updateDate" : 1518624000000,
+  "updateUser" : 55,
+  "effectiveDate" : 1518683403000,
+  "transactionCurrencyOption" : null
+}

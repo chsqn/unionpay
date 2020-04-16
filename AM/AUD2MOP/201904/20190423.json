@@ -1,0 +1,13 @@
+{
+  "exchangeRateId" : 1525974,
+  "curDate" : 1555948800000,
+  "baseCurrency" : "AUD",
+  "transactionCurrency" : "MOP",
+  "exchangeRate" : 0.174531525,
+  "createDate" : 1555948800000,
+  "createUser" : 55,
+  "updateDate" : 1555948800000,
+  "updateUser" : 55,
+  "effectiveDate" : 1556007971000,
+  "transactionCurrencyOption" : null
+}

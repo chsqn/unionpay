@@ -1,0 +1,13 @@
+{
+  "exchangeRateId" : 1373299,
+  "curDate" : 1546358400000,
+  "baseCurrency" : "AUD",
+  "transactionCurrency" : "MKD",
+  "exchangeRate" : 0.026616213,
+  "createDate" : 1546358400000,
+  "createUser" : 55,
+  "updateDate" : 1546358400000,
+  "updateUser" : 55,
+  "effectiveDate" : 1546417800000,
+  "transactionCurrencyOption" : null
+}
