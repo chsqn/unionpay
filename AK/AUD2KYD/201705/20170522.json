@@ -1,0 +1,13 @@
+{
+  "exchangeRateId" : 335890,
+  "curDate" : 1495382400000,
+  "baseCurrency" : "AUD",
+  "transactionCurrency" : "KYD",
+  "exchangeRate" : 1.638889622,
+  "createDate" : 1495382400000,
+  "createUser" : 55,
+  "updateDate" : 1495382400000,
+  "updateUser" : 55,
+  "effectiveDate" : null,
+  "transactionCurrencyOption" : null
+}

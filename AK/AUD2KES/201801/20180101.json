@@ -1,0 +1,13 @@
+{
+  "exchangeRateId" : 877205,
+  "curDate" : 1514736000000,
+  "baseCurrency" : "AUD",
+  "transactionCurrency" : "KES",
+  "exchangeRate" : 0.01249774,
+  "createDate" : 1514736000000,
+  "createUser" : 55,
+  "updateDate" : 1514736000000,
+  "updateUser" : 55,
+  "effectiveDate" : 1514795579000,
+  "transactionCurrencyOption" : null
+}

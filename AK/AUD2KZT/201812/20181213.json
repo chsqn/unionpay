@@ -1,0 +1,13 @@
+{
+  "exchangeRateId" : 1346576,
+  "curDate" : 1544630400000,
+  "baseCurrency" : "AUD",
+  "transactionCurrency" : "KZT",
+  "exchangeRate" : 0.003757418,
+  "createDate" : 1544630400000,
+  "createUser" : 55,
+  "updateDate" : 1544630400000,
+  "updateUser" : 55,
+  "effectiveDate" : 1544689801000,
+  "transactionCurrencyOption" : null
+}

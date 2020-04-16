@@ -1,0 +1,13 @@
+{
+  "exchangeRateId" : 1293149,
+  "curDate" : 1541347200000,
+  "baseCurrency" : "AUD",
+  "transactionCurrency" : "KRW",
+  "exchangeRate" : 0.001247913,
+  "createDate" : 1541347200000,
+  "createUser" : 55,
+  "updateDate" : 1541347200000,
+  "updateUser" : 55,
+  "effectiveDate" : 1541406674000,
+  "transactionCurrencyOption" : null
+}

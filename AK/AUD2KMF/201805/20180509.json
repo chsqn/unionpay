@@ -1,0 +1,13 @@
+{
+  "exchangeRateId" : 1051720,
+  "curDate" : 1525795200000,
+  "baseCurrency" : "AUD",
+  "transactionCurrency" : "KMF",
+  "exchangeRate" : 0.003262186,
+  "createDate" : 1525795200000,
+  "createUser" : 55,
+  "updateDate" : 1525795200000,
+  "updateUser" : 55,
+  "effectiveDate" : 1525854557000,
+  "transactionCurrencyOption" : null
+}

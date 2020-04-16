@@ -1,0 +1,13 @@
+{
+  "exchangeRateId" : 1173082,
+  "curDate" : 1533571200000,
+  "baseCurrency" : "AUD",
+  "transactionCurrency" : "KGS",
+  "exchangeRate" : 0.019952563,
+  "createDate" : 1533571200000,
+  "createUser" : 55,
+  "updateDate" : 1533571200000,
+  "updateUser" : 55,
+  "effectiveDate" : 1533630170000,
+  "transactionCurrencyOption" : null
+}

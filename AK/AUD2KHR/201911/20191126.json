@@ -1,0 +1,13 @@
+{
+  "exchangeRateId" : 1821739,
+  "curDate" : 1574697600000,
+  "baseCurrency" : "AUD",
+  "transactionCurrency" : "KHR",
+  "exchangeRate" : 3.65576E-4,
+  "createDate" : 1574697600000,
+  "createUser" : 55,
+  "updateDate" : 1574697600000,
+  "updateUser" : 55,
+  "effectiveDate" : 1574756595000,
+  "transactionCurrencyOption" : null
+}
