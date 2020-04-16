@@ -1,0 +1,13 @@
+{
+  "exchangeRateId" : 1112414,
+  "curDate" : 1529596800000,
+  "baseCurrency" : "AUD",
+  "transactionCurrency" : "LBP",
+  "exchangeRate" : 9.00726E-4,
+  "createDate" : 1529596800000,
+  "createUser" : 55,
+  "updateDate" : 1529596800000,
+  "updateUser" : 55,
+  "effectiveDate" : 1529655902000,
+  "transactionCurrencyOption" : null
+}

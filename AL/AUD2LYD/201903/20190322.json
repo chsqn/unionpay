@@ -1,0 +1,13 @@
+{
+  "exchangeRateId" : 1483975,
+  "curDate" : 1553184000000,
+  "baseCurrency" : "AUD",
+  "transactionCurrency" : "LYD",
+  "exchangeRate" : 1.024104544,
+  "createDate" : 1553184000000,
+  "createUser" : 55,
+  "updateDate" : 1553184000000,
+  "updateUser" : 55,
+  "effectiveDate" : 1553243402000,
+  "transactionCurrencyOption" : null
+}

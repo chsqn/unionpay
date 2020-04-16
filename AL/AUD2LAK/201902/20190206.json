@@ -1,0 +1,13 @@
+{
+  "exchangeRateId" : 1422909,
+  "curDate" : 1549382400000,
+  "baseCurrency" : "AUD",
+  "transactionCurrency" : "LAK",
+  "exchangeRate" : 1.63593E-4,
+  "createDate" : 1549382400000,
+  "createUser" : 55,
+  "updateDate" : 1549382400000,
+  "updateUser" : 55,
+  "effectiveDate" : 1549440232000,
+  "transactionCurrencyOption" : null
+}

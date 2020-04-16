@@ -1,0 +1,13 @@
+{
+  "exchangeRateId" : 1898145,
+  "curDate" : 1579536000000,
+  "baseCurrency" : "AUD",
+  "transactionCurrency" : "LSL",
+  "exchangeRate" : 0.10094812,
+  "createDate" : 1579536000000,
+  "createUser" : 55,
+  "updateDate" : 1579536000000,
+  "updateUser" : 55,
+  "effectiveDate" : 1579594998000,
+  "transactionCurrencyOption" : null
+}

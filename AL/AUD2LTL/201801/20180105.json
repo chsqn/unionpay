@@ -1,0 +1,13 @@
+{
+  "exchangeRateId" : 884814,
+  "curDate" : 1515081600000,
+  "baseCurrency" : "AUD",
+  "transactionCurrency" : "LTL",
+  "exchangeRate" : 0.449224434,
+  "createDate" : 1515081600000,
+  "createUser" : 55,
+  "updateDate" : 1515081600000,
+  "updateUser" : 55,
+  "effectiveDate" : 1515140870000,
+  "transactionCurrencyOption" : null
+}

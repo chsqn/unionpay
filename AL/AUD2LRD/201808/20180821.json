@@ -1,0 +1,13 @@
+{
+  "exchangeRateId" : 1192060,
+  "curDate" : 1534780800000,
+  "baseCurrency" : "AUD",
+  "transactionCurrency" : "LRD",
+  "exchangeRate" : 0.008869068,
+  "createDate" : 1534780800000,
+  "createUser" : 55,
+  "updateDate" : 1534780800000,
+  "updateUser" : 55,
+  "effectiveDate" : 1534841042000,
+  "transactionCurrencyOption" : null
+}
