@@ -1,0 +1,13 @@
+{
+  "exchangeRateId" : 1548918,
+  "curDate" : 1557331200000,
+  "baseCurrency" : "AUD",
+  "transactionCurrency" : "TRY",
+  "exchangeRate" : 0.233974109,
+  "createDate" : 1557331200000,
+  "createUser" : 55,
+  "updateDate" : 1557331200000,
+  "updateUser" : 55,
+  "effectiveDate" : 1557390198000,
+  "transactionCurrencyOption" : null
+}

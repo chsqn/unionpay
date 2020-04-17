@@ -1,0 +1,13 @@
+{
+  "exchangeRateId" : 1902015,
+  "curDate" : 1579708800000,
+  "baseCurrency" : "AUD",
+  "transactionCurrency" : "TMT",
+  "exchangeRate" : 0.4188968,
+  "createDate" : 1579708800000,
+  "createUser" : 55,
+  "updateDate" : 1579708800000,
+  "updateUser" : 55,
+  "effectiveDate" : 1579768006000,
+  "transactionCurrencyOption" : null
+}

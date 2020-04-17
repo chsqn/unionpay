@@ -1,0 +1,13 @@
+{
+  "exchangeRateId" : 1902014,
+  "curDate" : 1579708800000,
+  "baseCurrency" : "AUD",
+  "transactionCurrency" : "TJS",
+  "exchangeRate" : 0.15134813,
+  "createDate" : 1579708800000,
+  "createUser" : 55,
+  "updateDate" : 1579708800000,
+  "updateUser" : 55,
+  "effectiveDate" : 1579768006000,
+  "transactionCurrencyOption" : null
+}

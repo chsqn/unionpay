@@ -1,0 +1,13 @@
+{
+  "exchangeRateId" : 1619517,
+  "curDate" : 1561910400000,
+  "baseCurrency" : "AUD",
+  "transactionCurrency" : "TZS",
+  "exchangeRate" : 6.24588E-4,
+  "createDate" : 1561910400000,
+  "createUser" : 55,
+  "updateDate" : 1561910400000,
+  "updateUser" : 55,
+  "effectiveDate" : 1561971892000,
+  "transactionCurrencyOption" : null
+}

@@ -1,0 +1,13 @@
+{
+  "exchangeRateId" : 873465,
+  "curDate" : 1514390400000,
+  "baseCurrency" : "AUD",
+  "transactionCurrency" : "THB",
+  "exchangeRate" : 0.039603538,
+  "createDate" : 1514390400000,
+  "createUser" : 55,
+  "updateDate" : 1514390400000,
+  "updateUser" : 55,
+  "effectiveDate" : 1514449947000,
+  "transactionCurrencyOption" : null
+}

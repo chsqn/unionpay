@@ -1,0 +1,13 @@
+{
+  "exchangeRateId" : 1506944,
+  "curDate" : 1554739200000,
+  "baseCurrency" : "AUD",
+  "transactionCurrency" : "TWD",
+  "exchangeRate" : 0.045892613,
+  "createDate" : 1554739200000,
+  "createUser" : 55,
+  "updateDate" : 1554739200000,
+  "updateUser" : 55,
+  "effectiveDate" : 1554798266000,
+  "transactionCurrencyOption" : null
+}

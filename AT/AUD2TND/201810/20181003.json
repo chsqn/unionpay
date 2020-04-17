@@ -1,0 +1,13 @@
+{
+  "exchangeRateId" : 1251228,
+  "curDate" : 1538496000000,
+  "baseCurrency" : "AUD",
+  "transactionCurrency" : "TND",
+  "exchangeRate" : 0.49828957,
+  "createDate" : 1538496000000,
+  "createUser" : 55,
+  "updateDate" : 1538496000000,
+  "updateUser" : 55,
+  "effectiveDate" : 1538553643000,
+  "transactionCurrencyOption" : null
+}
