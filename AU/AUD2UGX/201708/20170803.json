@@ -1,0 +1,13 @@
+{
+  "exchangeRateId" : 530570,
+  "curDate" : 1501689600000,
+  "baseCurrency" : "AUD",
+  "transactionCurrency" : "UGX",
+  "exchangeRate" : 3.5118E-4,
+  "createDate" : 1501689600000,
+  "createUser" : 55,
+  "updateDate" : 1501689600000,
+  "updateUser" : 55,
+  "effectiveDate" : null,
+  "transactionCurrencyOption" : null
+}

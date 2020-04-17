@@ -1,0 +1,13 @@
+{
+  "exchangeRateId" : 1011978,
+  "curDate" : 1523289600000,
+  "baseCurrency" : "AUD",
+  "transactionCurrency" : "UZS",
+  "exchangeRate" : 1.63879E-4,
+  "createDate" : 1523289600000,
+  "createUser" : 55,
+  "updateDate" : 1523289600000,
+  "updateUser" : 55,
+  "effectiveDate" : 1523348652000,
+  "transactionCurrencyOption" : null
+}

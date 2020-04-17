@@ -1,0 +1,13 @@
+{
+  "exchangeRateId" : 1844782,
+  "curDate" : 1576080000000,
+  "baseCurrency" : "AUD",
+  "transactionCurrency" : "UAH",
+  "exchangeRate" : 0.062076456,
+  "createDate" : 1576080000000,
+  "createUser" : 55,
+  "updateDate" : 1576080000000,
+  "updateUser" : 55,
+  "effectiveDate" : 1576139539000,
+  "transactionCurrencyOption" : null
+}
