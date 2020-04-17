@@ -1,0 +1,13 @@
+{
+  "exchangeRateId" : 1703493,
+  "curDate" : 1567094400000,
+  "baseCurrency" : "AUD",
+  "transactionCurrency" : "ZAR",
+  "exchangeRate" : 0.097752815,
+  "createDate" : 1567094400000,
+  "createUser" : 55,
+  "updateDate" : 1567094400000,
+  "updateUser" : 55,
+  "effectiveDate" : 1567153680000,
+  "transactionCurrencyOption" : null
+}

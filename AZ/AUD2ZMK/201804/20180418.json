@@ -1,0 +1,13 @@
+{
+  "exchangeRateId" : 1023365,
+  "curDate" : 1523980800000,
+  "baseCurrency" : "AUD",
+  "transactionCurrency" : "ZMK",
+  "exchangeRate" : 2.49438E-4,
+  "createDate" : 1523980800000,
+  "createUser" : 55,
+  "updateDate" : 1523980800000,
+  "updateUser" : 55,
+  "effectiveDate" : 1524039838000,
+  "transactionCurrencyOption" : null
+}
