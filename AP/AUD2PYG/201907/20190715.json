@@ -1,0 +1,13 @@
+{
+  "exchangeRateId" : 1638568,
+  "curDate" : 1563120000000,
+  "baseCurrency" : "AUD",
+  "transactionCurrency" : "PYG",
+  "exchangeRate" : 2.38446E-4,
+  "createDate" : 1563206400000,
+  "createUser" : 55,
+  "updateDate" : 1563206400000,
+  "updateUser" : 55,
+  "effectiveDate" : 1563267564000,
+  "transactionCurrencyOption" : null
+}

@@ -1,0 +1,13 @@
+{
+  "exchangeRateId" : 1394308,
+  "curDate" : 1547654400000,
+  "baseCurrency" : "AUD",
+  "transactionCurrency" : "PGK",
+  "exchangeRate" : 0.416951384,
+  "createDate" : 1547654400000,
+  "createUser" : 55,
+  "updateDate" : 1547654400000,
+  "updateUser" : 55,
+  "effectiveDate" : 1547713837000,
+  "transactionCurrencyOption" : null
+}

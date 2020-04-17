@@ -1,0 +1,13 @@
+{
+  "exchangeRateId" : 769218,
+  "curDate" : 1509552000000,
+  "baseCurrency" : "AUD",
+  "transactionCurrency" : "PHP",
+  "exchangeRate" : 0.025325115,
+  "createDate" : 1509552000000,
+  "createUser" : 55,
+  "updateDate" : 1509552000000,
+  "updateUser" : 55,
+  "effectiveDate" : null,
+  "transactionCurrencyOption" : null
+}

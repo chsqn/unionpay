@@ -1,0 +1,13 @@
+{
+  "exchangeRateId" : 875335,
+  "curDate" : 1514476800000,
+  "baseCurrency" : "AUD",
+  "transactionCurrency" : "PEN",
+  "exchangeRate" : 0.398505597,
+  "createDate" : 1514476800000,
+  "createUser" : 55,
+  "updateDate" : 1514476800000,
+  "updateUser" : 55,
+  "effectiveDate" : 1514535959000,
+  "transactionCurrencyOption" : null
+}
