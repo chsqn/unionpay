@@ -1,0 +1,13 @@
+{
+  "exchangeRateId" : 1978367,
+  "curDate" : 1584460800000,
+  "baseCurrency" : "AUD",
+  "transactionCurrency" : "XPF",
+  "exchangeRate" : 0.01544069,
+  "createDate" : 1584460800000,
+  "createUser" : 55,
+  "updateDate" : 1584460800000,
+  "updateUser" : 55,
+  "effectiveDate" : 1584519715000,
+  "transactionCurrencyOption" : null
+}

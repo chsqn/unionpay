@@ -1,0 +1,13 @@
+{
+  "exchangeRateId" : 1337114,
+  "curDate" : 1544025600000,
+  "baseCurrency" : "AUD",
+  "transactionCurrency" : "XOF",
+  "exchangeRate" : 0.002411781,
+  "createDate" : 1544025600000,
+  "createUser" : 55,
+  "updateDate" : 1544025600000,
+  "updateUser" : 55,
+  "effectiveDate" : 1544085001000,
+  "transactionCurrencyOption" : null
+}

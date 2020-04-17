@@ -1,0 +1,13 @@
+{
+  "exchangeRateId" : 1688217,
+  "curDate" : 1566230400000,
+  "baseCurrency" : "AUD",
+  "transactionCurrency" : "XCD",
+  "exchangeRate" : 0.548377833,
+  "createDate" : 1566230400000,
+  "createUser" : 55,
+  "updateDate" : 1566230400000,
+  "updateUser" : 55,
+  "effectiveDate" : 1566289658000,
+  "transactionCurrencyOption" : null
+}
