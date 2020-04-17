@@ -1,0 +1,13 @@
+{
+  "exchangeRateId" : 1667192,
+  "curDate" : 1564934400000,
+  "baseCurrency" : "AUD",
+  "transactionCurrency" : "RUB",
+  "exchangeRate" : 0.022748127,
+  "createDate" : 1564934400000,
+  "createUser" : 55,
+  "updateDate" : 1564934400000,
+  "updateUser" : 55,
+  "effectiveDate" : 1564993540000,
+  "transactionCurrencyOption" : null
+}

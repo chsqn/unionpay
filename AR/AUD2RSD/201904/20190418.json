@@ -1,0 +1,13 @@
+{
+  "exchangeRateId" : 1520275,
+  "curDate" : 1555516800000,
+  "baseCurrency" : "AUD",
+  "transactionCurrency" : "RSD",
+  "exchangeRate" : 0.01342912,
+  "createDate" : 1555516800000,
+  "createUser" : 55,
+  "updateDate" : 1555516800000,
+  "updateUser" : 55,
+  "effectiveDate" : 1555576946000,
+  "transactionCurrencyOption" : null
+}

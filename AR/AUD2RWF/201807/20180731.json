@@ -1,0 +1,13 @@
+{
+  "exchangeRateId" : 1163649,
+  "curDate" : 1532966400000,
+  "baseCurrency" : "AUD",
+  "transactionCurrency" : "RWF",
+  "exchangeRate" : 0.001545799,
+  "createDate" : 1532966400000,
+  "createUser" : 55,
+  "updateDate" : 1532966400000,
+  "updateUser" : 55,
+  "effectiveDate" : 1533025537000,
+  "transactionCurrencyOption" : null
+}

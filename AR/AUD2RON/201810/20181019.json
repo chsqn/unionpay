@@ -1,0 +1,13 @@
+{
+  "exchangeRateId" : 1272202,
+  "curDate" : 1539878400000,
+  "baseCurrency" : "AUD",
+  "transactionCurrency" : "RON",
+  "exchangeRate" : 0.347295846,
+  "createDate" : 1539878400000,
+  "createUser" : 55,
+  "updateDate" : 1539878400000,
+  "updateUser" : 55,
+  "effectiveDate" : 1539937854000,
+  "transactionCurrencyOption" : null
+}
