@@ -1,0 +1,13 @@
+{
+  "exchangeRateId" : 530529,
+  "curDate" : 1501689600000,
+  "baseCurrency" : "AUD",
+  "transactionCurrency" : "NGN",
+  "exchangeRate" : 0.003475241,
+  "createDate" : 1501689600000,
+  "createUser" : 55,
+  "updateDate" : 1501689600000,
+  "updateUser" : 55,
+  "effectiveDate" : null,
+  "transactionCurrencyOption" : null
+}

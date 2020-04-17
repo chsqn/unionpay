@@ -1,0 +1,13 @@
+{
+  "exchangeRateId" : 1359955,
+  "curDate" : 1545580800000,
+  "baseCurrency" : "AUD",
+  "transactionCurrency" : "NAD",
+  "exchangeRate" : 0.097499011,
+  "createDate" : 1545580800000,
+  "createUser" : 55,
+  "updateDate" : 1545580800000,
+  "updateUser" : 55,
+  "effectiveDate" : 1545640200000,
+  "transactionCurrencyOption" : null
+}

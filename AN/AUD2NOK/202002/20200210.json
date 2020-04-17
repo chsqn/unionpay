@@ -1,0 +1,13 @@
+{
+  "exchangeRateId" : 1924878,
+  "curDate" : 1581264000000,
+  "baseCurrency" : "AUD",
+  "transactionCurrency" : "NOK",
+  "exchangeRate" : 0.1617801,
+  "createDate" : 1581264000000,
+  "createUser" : 55,
+  "updateDate" : 1581264000000,
+  "updateUser" : 55,
+  "effectiveDate" : 1581322944000,
+  "transactionCurrencyOption" : null
+}

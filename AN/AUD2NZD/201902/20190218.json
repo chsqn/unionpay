@@ -1,0 +1,13 @@
+{
+  "exchangeRateId" : 1438200,
+  "curDate" : 1550419200000,
+  "baseCurrency" : "AUD",
+  "transactionCurrency" : "NZD",
+  "exchangeRate" : 0.970830663,
+  "createDate" : 1550419200000,
+  "createUser" : 55,
+  "updateDate" : 1550419200000,
+  "updateUser" : 55,
+  "effectiveDate" : 1550478649000,
+  "transactionCurrencyOption" : null
+}

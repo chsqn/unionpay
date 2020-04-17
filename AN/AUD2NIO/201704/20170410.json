@@ -1,0 +1,13 @@
+{
+  "exchangeRateId" : 225754,
+  "curDate" : 1491753600000,
+  "baseCurrency" : "AUD",
+  "transactionCurrency" : "NIO",
+  "exchangeRate" : 0.045566282,
+  "createDate" : 1491753600000,
+  "createUser" : 55,
+  "updateDate" : 1491753600000,
+  "updateUser" : 55,
+  "effectiveDate" : null,
+  "transactionCurrencyOption" : null
+}

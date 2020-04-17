@@ -1,0 +1,13 @@
+{
+  "exchangeRateId" : 947447,
+  "curDate" : 1519142400000,
+  "baseCurrency" : "AUD",
+  "transactionCurrency" : "NPR",
+  "exchangeRate" : 0.012348146,
+  "createDate" : 1519142400000,
+  "createUser" : 55,
+  "updateDate" : 1519142400000,
+  "updateUser" : 55,
+  "effectiveDate" : 1519201800000,
+  "transactionCurrencyOption" : null
+}
