@@ -1,0 +1,13 @@
+{
+  "exchangeRateId" : 841396,
+  "curDate" : 1512403200000,
+  "baseCurrency" : "AUD",
+  "transactionCurrency" : "OMR",
+  "exchangeRate" : 3.41935075,
+  "createDate" : 1512403200000,
+  "createUser" : 55,
+  "updateDate" : 1512403200000,
+  "updateUser" : 55,
+  "effectiveDate" : 1512462288000,
+  "transactionCurrencyOption" : null
+}
