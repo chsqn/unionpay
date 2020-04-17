@@ -1,0 +1,13 @@
+{
+  "exchangeRateId" : 1669114,
+  "curDate" : 1565020800000,
+  "baseCurrency" : "AUD",
+  "transactionCurrency" : "SVC",
+  "exchangeRate" : 0.169446959,
+  "createDate" : 1565020800000,
+  "createUser" : 55,
+  "updateDate" : 1565020800000,
+  "updateUser" : 55,
+  "effectiveDate" : 1565080015000,
+  "transactionCurrencyOption" : null
+}

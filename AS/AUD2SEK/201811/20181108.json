@@ -1,0 +1,13 @@
+{
+  "exchangeRateId" : 1298922,
+  "curDate" : 1541606400000,
+  "baseCurrency" : "AUD",
+  "transactionCurrency" : "SEK",
+  "exchangeRate" : 0.153455307,
+  "createDate" : 1541606400000,
+  "createUser" : 55,
+  "updateDate" : 1541606400000,
+  "updateUser" : 55,
+  "effectiveDate" : 1541665545000,
+  "transactionCurrencyOption" : null
+}

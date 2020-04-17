@@ -1,0 +1,13 @@
+{
+  "exchangeRateId" : 1571797,
+  "curDate" : 1558886400000,
+  "baseCurrency" : "AUD",
+  "transactionCurrency" : "SDG",
+  "exchangeRate" : 0.03222624,
+  "createDate" : 1558886400000,
+  "createUser" : 55,
+  "updateDate" : 1558886400000,
+  "updateUser" : 55,
+  "effectiveDate" : 1558945666000,
+  "transactionCurrencyOption" : null
+}

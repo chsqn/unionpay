@@ -1,0 +1,13 @@
+{
+  "exchangeRateId" : 350621,
+  "curDate" : 1495728000000,
+  "baseCurrency" : "AUD",
+  "transactionCurrency" : "SCR",
+  "exchangeRate" : 0.098858364,
+  "createDate" : 1495728000000,
+  "createUser" : 55,
+  "updateDate" : 1495728000000,
+  "updateUser" : 55,
+  "effectiveDate" : null,
+  "transactionCurrencyOption" : null
+}

@@ -1,0 +1,13 @@
+{
+  "exchangeRateId" : 1340900,
+  "curDate" : 1544371200000,
+  "baseCurrency" : "AUD",
+  "transactionCurrency" : "SHP",
+  "exchangeRate" : 1.777375203,
+  "createDate" : 1544371200000,
+  "createUser" : 55,
+  "updateDate" : 1544371200000,
+  "updateUser" : 55,
+  "effectiveDate" : 1544430404000,
+  "transactionCurrencyOption" : null
+}

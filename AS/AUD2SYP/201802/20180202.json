@@ -1,0 +1,13 @@
+{
+  "exchangeRateId" : 922811,
+  "curDate" : 1517500800000,
+  "baseCurrency" : "AUD",
+  "transactionCurrency" : "SYP",
+  "exchangeRate" : 0.002435955,
+  "createDate" : 1517500800000,
+  "createUser" : 55,
+  "updateDate" : 1517500800000,
+  "updateUser" : 55,
+  "effectiveDate" : 1517560061000,
+  "transactionCurrencyOption" : null
+}

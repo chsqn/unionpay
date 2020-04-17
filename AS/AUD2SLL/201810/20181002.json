@@ -1,0 +1,13 @@
+{
+  "exchangeRateId" : 1249309,
+  "curDate" : 1538409600000,
+  "baseCurrency" : "AUD",
+  "transactionCurrency" : "SLL",
+  "exchangeRate" : 1.62754E-4,
+  "createDate" : 1538409600000,
+  "createUser" : 55,
+  "updateDate" : 1538409600000,
+  "updateUser" : 55,
+  "effectiveDate" : 1538468224000,
+  "transactionCurrencyOption" : null
+}

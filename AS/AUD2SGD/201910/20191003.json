@@ -1,0 +1,13 @@
+{
+  "exchangeRateId" : 1749263,
+  "curDate" : 1570032000000,
+  "baseCurrency" : "AUD",
+  "transactionCurrency" : "SGD",
+  "exchangeRate" : 1.083650835,
+  "createDate" : 1570032000000,
+  "createUser" : 55,
+  "updateDate" : 1570032000000,
+  "updateUser" : 55,
+  "effectiveDate" : 1570090349000,
+  "transactionCurrencyOption" : null
+}

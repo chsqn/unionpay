@@ -1,0 +1,13 @@
+{
+  "exchangeRateId" : 1339000,
+  "curDate" : 1544112000000,
+  "baseCurrency" : "AUD",
+  "transactionCurrency" : "SZL",
+  "exchangeRate" : 0.099090853,
+  "createDate" : 1544112000000,
+  "createUser" : 55,
+  "updateDate" : 1544112000000,
+  "updateUser" : 55,
+  "effectiveDate" : 1544171561000,
+  "transactionCurrencyOption" : null
+}

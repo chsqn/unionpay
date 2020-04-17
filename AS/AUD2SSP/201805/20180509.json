@@ -1,0 +1,13 @@
+{
+  "exchangeRateId" : 1051776,
+  "curDate" : 1525795200000,
+  "baseCurrency" : "AUD",
+  "transactionCurrency" : "SSP",
+  "exchangeRate" : 0.010081251,
+  "createDate" : 1525795200000,
+  "createUser" : 55,
+  "updateDate" : 1525795200000,
+  "updateUser" : 55,
+  "effectiveDate" : 1525854557000,
+  "transactionCurrencyOption" : null
+}

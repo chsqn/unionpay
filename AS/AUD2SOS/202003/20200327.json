@@ -1,0 +1,13 @@
+{
+  "exchangeRateId" : 1991694,
+  "curDate" : 1585238400000,
+  "baseCurrency" : "AUD",
+  "transactionCurrency" : "SOS",
+  "exchangeRate" : 0.0028574,
+  "createDate" : 1585238400000,
+  "createUser" : 55,
+  "updateDate" : 1585238400000,
+  "updateUser" : 55,
+  "effectiveDate" : 1585296525000,
+  "transactionCurrencyOption" : null
+}
