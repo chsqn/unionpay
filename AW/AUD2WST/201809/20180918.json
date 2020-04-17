@@ -1,0 +1,13 @@
+{
+  "exchangeRateId" : 1230255,
+  "curDate" : 1537200000000,
+  "baseCurrency" : "AUD",
+  "transactionCurrency" : "WST",
+  "exchangeRate" : 0.535701106,
+  "createDate" : 1537200000000,
+  "createUser" : 55,
+  "updateDate" : 1537200000000,
+  "updateUser" : 55,
+  "effectiveDate" : 1537259607000,
+  "transactionCurrencyOption" : null
+}
