@@ -1,0 +1,13 @@
+{
+  "exchangeRateId" : 1945914,
+  "curDate" : 1582473600000,
+  "baseCurrency" : "AUD",
+  "transactionCurrency" : "VUV",
+  "exchangeRate" : 0.01283924,
+  "createDate" : 1582473600000,
+  "createUser" : 55,
+  "updateDate" : 1582473600000,
+  "updateUser" : 55,
+  "effectiveDate" : 1582532914000,
+  "transactionCurrencyOption" : null
+}

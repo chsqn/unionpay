@@ -1,0 +1,13 @@
+{
+  "exchangeRateId" : 1825632,
+  "curDate" : 1574870400000,
+  "baseCurrency" : "AUD",
+  "transactionCurrency" : "VES",
+  "exchangeRate" : 4.0457E-5,
+  "createDate" : 1574870400000,
+  "createUser" : 55,
+  "updateDate" : 1574870400000,
+  "updateUser" : 55,
+  "effectiveDate" : 1574929573000,
+  "transactionCurrencyOption" : null
+}

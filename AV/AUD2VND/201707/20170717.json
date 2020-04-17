@@ -1,0 +1,13 @@
+{
+  "exchangeRateId" : 482839,
+  "curDate" : 1500220800000,
+  "baseCurrency" : "AUD",
+  "transactionCurrency" : "VND",
+  "exchangeRate" : 5.6642E-5,
+  "createDate" : 1500220800000,
+  "createUser" : 55,
+  "updateDate" : 1500220800000,
+  "updateUser" : 55,
+  "effectiveDate" : null,
+  "transactionCurrencyOption" : null
+}

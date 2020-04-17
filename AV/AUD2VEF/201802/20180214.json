@@ -1,0 +1,13 @@
+{
+  "exchangeRateId" : 938011,
+  "curDate" : 1518537600000,
+  "baseCurrency" : "AUD",
+  "transactionCurrency" : "VEF",
+  "exchangeRate" : 5.1223E-5,
+  "createDate" : 1518537600000,
+  "createUser" : 55,
+  "updateDate" : 1518537600000,
+  "updateUser" : 55,
+  "effectiveDate" : 1518597951000,
+  "transactionCurrencyOption" : null
+}
