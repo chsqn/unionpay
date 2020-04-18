@@ -1,0 +1,13 @@
+{
+  "exchangeRateId" : 2016064255,
+  "curDate" : 1443456000000,
+  "baseCurrency" : "CNY",
+  "transactionCurrency" : "AFN",
+  "exchangeRate" : 0.0991,
+  "createDate" : 1443456000000,
+  "createUser" : 55,
+  "updateDate" : 1443456000000,
+  "updateUser" : 55,
+  "effectiveDate" : null,
+  "transactionCurrencyOption" : null
+}

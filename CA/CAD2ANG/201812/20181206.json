@@ -1,0 +1,13 @@
+{
+  "exchangeRateId" : 1337124,
+  "curDate" : 1544025600000,
+  "baseCurrency" : "CAD",
+  "transactionCurrency" : "ANG",
+  "exchangeRate" : 0.758820998,
+  "createDate" : 1544025600000,
+  "createUser" : 55,
+  "updateDate" : 1544025600000,
+  "updateUser" : 55,
+  "effectiveDate" : 1544085001000,
+  "transactionCurrencyOption" : null
+}

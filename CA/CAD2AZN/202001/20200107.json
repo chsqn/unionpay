@@ -1,0 +1,13 @@
+{
+  "exchangeRateId" : 1879153,
+  "curDate" : 1578326400000,
+  "baseCurrency" : "CAD",
+  "transactionCurrency" : "AZN",
+  "exchangeRate" : 0.76861203,
+  "createDate" : 1578326400000,
+  "createUser" : 55,
+  "updateDate" : 1578326400000,
+  "updateUser" : 55,
+  "effectiveDate" : 1578385326000,
+  "transactionCurrencyOption" : null
+}

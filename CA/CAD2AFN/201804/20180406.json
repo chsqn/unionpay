@@ -1,0 +1,13 @@
+{
+  "exchangeRateId" : 1008200,
+  "curDate" : 1522944000000,
+  "baseCurrency" : "CAD",
+  "transactionCurrency" : "AFN",
+  "exchangeRate" : 0.018425369,
+  "createDate" : 1522944000000,
+  "createUser" : 55,
+  "updateDate" : 1522944000000,
+  "updateUser" : 55,
+  "effectiveDate" : 1523001581000,
+  "transactionCurrencyOption" : null
+}

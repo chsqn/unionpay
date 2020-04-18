@@ -1,0 +1,13 @@
+{
+  "exchangeRateId" : 2017123935,
+  "curDate" : 1467129600000,
+  "baseCurrency" : "CNY",
+  "transactionCurrency" : "AZN",
+  "exchangeRate" : 4.3533,
+  "createDate" : 1467129600000,
+  "createUser" : 55,
+  "updateDate" : 1467129600000,
+  "updateUser" : 55,
+  "effectiveDate" : null,
+  "transactionCurrencyOption" : null
+}

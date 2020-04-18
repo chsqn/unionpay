@@ -1,0 +1,13 @@
+{
+  "exchangeRateId" : 2017509596,
+  "curDate" : 1480521600000,
+  "baseCurrency" : "CNY",
+  "transactionCurrency" : "AUD",
+  "exchangeRate" : 5.1216,
+  "createDate" : 1480521600000,
+  "createUser" : 55,
+  "updateDate" : 1480521600000,
+  "updateUser" : 55,
+  "effectiveDate" : null,
+  "transactionCurrencyOption" : null
+}

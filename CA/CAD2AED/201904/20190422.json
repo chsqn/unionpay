@@ -1,0 +1,13 @@
+{
+  "exchangeRateId" : 1524136,
+  "curDate" : 1555862400000,
+  "baseCurrency" : "CAD",
+  "transactionCurrency" : "AED",
+  "exchangeRate" : 0.366087427,
+  "createDate" : 1555862400000,
+  "createUser" : 55,
+  "updateDate" : 1555862400000,
+  "updateUser" : 55,
+  "effectiveDate" : 1555921537000,
+  "transactionCurrencyOption" : null
+}

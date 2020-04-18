@@ -1,0 +1,13 @@
+{
+  "exchangeRateId" : 736223,
+  "curDate" : 1508428800000,
+  "baseCurrency" : "CAD",
+  "transactionCurrency" : "AOA",
+  "exchangeRate" : 0.007584015,
+  "createDate" : 1508428800000,
+  "createUser" : 55,
+  "updateDate" : 1508428800000,
+  "updateUser" : 55,
+  "effectiveDate" : null,
+  "transactionCurrencyOption" : null
+}

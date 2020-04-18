@@ -1,0 +1,13 @@
+{
+  "exchangeRateId" : 2016029975,
+  "curDate" : 1442160000000,
+  "baseCurrency" : "CNY",
+  "transactionCurrency" : "ANG",
+  "exchangeRate" : 3.5988,
+  "createDate" : 1442160000000,
+  "createUser" : 55,
+  "updateDate" : 1442160000000,
+  "updateUser" : 55,
+  "effectiveDate" : null,
+  "transactionCurrencyOption" : null
+}

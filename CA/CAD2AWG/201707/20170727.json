@@ -1,0 +1,13 @@
+{
+  "exchangeRateId" : 512234,
+  "curDate" : 1501084800000,
+  "baseCurrency" : "CAD",
+  "transactionCurrency" : "AWG",
+  "exchangeRate" : 0.699210649,
+  "createDate" : 1501084800000,
+  "createUser" : 55,
+  "updateDate" : 1501084800000,
+  "updateUser" : 55,
+  "effectiveDate" : null,
+  "transactionCurrencyOption" : null
+}

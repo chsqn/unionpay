@@ -1,0 +1,13 @@
+{
+  "exchangeRateId" : 1243626,
+  "curDate" : 1537977600000,
+  "baseCurrency" : "CAD",
+  "transactionCurrency" : "ARS",
+  "exchangeRate" : 0.034022948,
+  "createDate" : 1537977600000,
+  "createUser" : 55,
+  "updateDate" : 1537977600000,
+  "updateUser" : 55,
+  "effectiveDate" : 1538036798000,
+  "transactionCurrencyOption" : null
+}

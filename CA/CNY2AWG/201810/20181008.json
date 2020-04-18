@@ -1,0 +1,13 @@
+{
+  "exchangeRateId" : 1257143,
+  "curDate" : 1538928000000,
+  "baseCurrency" : "CNY",
+  "transactionCurrency" : "AWG",
+  "exchangeRate" : 3.829277889,
+  "createDate" : 1538928000000,
+  "createUser" : 55,
+  "updateDate" : 1538928000000,
+  "updateUser" : 55,
+  "effectiveDate" : 1538987470000,
+  "transactionCurrencyOption" : null
+}

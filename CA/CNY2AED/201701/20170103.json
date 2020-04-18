@@ -1,0 +1,13 @@
+{
+  "exchangeRateId" : 2017580001,
+  "curDate" : 1483372800000,
+  "baseCurrency" : "CNY",
+  "transactionCurrency" : "AED",
+  "exchangeRate" : 1.9065,
+  "createDate" : 1483372800000,
+  "createUser" : 744090,
+  "updateDate" : 1483372800000,
+  "updateUser" : 744090,
+  "effectiveDate" : null,
+  "transactionCurrencyOption" : null
+}

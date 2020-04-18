@@ -1,0 +1,13 @@
+{
+  "exchangeRateId" : 2016968967,
+  "curDate" : 1461859200000,
+  "baseCurrency" : "CNY",
+  "transactionCurrency" : "AMD",
+  "exchangeRate" : 0.0136,
+  "createDate" : 1461859200000,
+  "createUser" : 55,
+  "updateDate" : 1461859200000,
+  "updateUser" : 55,
+  "effectiveDate" : null,
+  "transactionCurrencyOption" : null
+}

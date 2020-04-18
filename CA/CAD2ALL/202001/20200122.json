@@ -1,0 +1,13 @@
+{
+  "exchangeRateId" : 1900134,
+  "curDate" : 1579622400000,
+  "baseCurrency" : "CAD",
+  "transactionCurrency" : "ALL",
+  "exchangeRate" : 0.01194564,
+  "createDate" : 1579622400000,
+  "createUser" : 55,
+  "updateDate" : 1579622400000,
+  "updateUser" : 55,
+  "effectiveDate" : 1579681579000,
+  "transactionCurrencyOption" : null
+}

@@ -1,0 +1,13 @@
+{
+  "exchangeRateId" : 2017222062,
+  "curDate" : 1470758400000,
+  "baseCurrency" : "CNY",
+  "transactionCurrency" : "ARS",
+  "exchangeRate" : 0.4518,
+  "createDate" : 1470758400000,
+  "createUser" : 55,
+  "updateDate" : 1470758400000,
+  "updateUser" : 55,
+  "effectiveDate" : null,
+  "transactionCurrencyOption" : null
+}

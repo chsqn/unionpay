@@ -1,0 +1,13 @@
+{
+  "exchangeRateId" : 1911744,
+  "curDate" : 1580313600000,
+  "baseCurrency" : "CNY",
+  "transactionCurrency" : "AOA",
+  "exchangeRate" : 0.01423871,
+  "createDate" : 1580313600000,
+  "createUser" : 55,
+  "updateDate" : 1580313600000,
+  "updateUser" : 55,
+  "effectiveDate" : 1580371769000,
+  "transactionCurrencyOption" : null
+}
