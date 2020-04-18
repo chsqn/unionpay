@@ -1,0 +1,13 @@
+{
+  "exchangeRateId" : 1974595,
+  "curDate" : 1584288000000,
+  "baseCurrency" : "CAD",
+  "transactionCurrency" : "DZD",
+  "exchangeRate" : 0.01154801,
+  "createDate" : 1584288000000,
+  "createUser" : 55,
+  "updateDate" : 1584288000000,
+  "updateUser" : 55,
+  "effectiveDate" : 1584347604000,
+  "transactionCurrencyOption" : null
+}

@@ -1,0 +1,13 @@
+{
+  "exchangeRateId" : 1222668,
+  "curDate" : 1536681600000,
+  "baseCurrency" : "CAD",
+  "transactionCurrency" : "DJF",
+  "exchangeRate" : 0.007389239,
+  "createDate" : 1536681600000,
+  "createUser" : 55,
+  "updateDate" : 1536681600000,
+  "updateUser" : 55,
+  "effectiveDate" : 1536741031000,
+  "transactionCurrencyOption" : null
+}

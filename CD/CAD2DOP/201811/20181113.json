@@ -1,0 +1,13 @@
+{
+  "exchangeRateId" : 1304722,
+  "curDate" : 1542038400000,
+  "baseCurrency" : "CAD",
+  "transactionCurrency" : "DOP",
+  "exchangeRate" : 0.026558154,
+  "createDate" : 1542038400000,
+  "createUser" : 55,
+  "updateDate" : 1542038400000,
+  "updateUser" : 55,
+  "effectiveDate" : 1542097706000,
+  "transactionCurrencyOption" : null
+}

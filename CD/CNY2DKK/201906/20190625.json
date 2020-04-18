@@ -1,0 +1,13 @@
+{
+  "exchangeRateId" : 1612100,
+  "curDate" : 1561392000000,
+  "baseCurrency" : "CNY",
+  "transactionCurrency" : "DKK",
+  "exchangeRate" : 1.056672424,
+  "createDate" : 1561392000000,
+  "createUser" : 55,
+  "updateDate" : 1561392000000,
+  "updateUser" : 55,
+  "effectiveDate" : 1561452065000,
+  "transactionCurrencyOption" : null
+}

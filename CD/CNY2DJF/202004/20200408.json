@@ -1,0 +1,13 @@
+{
+  "exchangeRateId" : 2007187,
+  "curDate" : 1586275200000,
+  "baseCurrency" : "CNY",
+  "transactionCurrency" : "DJF",
+  "exchangeRate" : 0.03989838,
+  "createDate" : 1586275200000,
+  "createUser" : 55,
+  "updateDate" : 1586275200000,
+  "updateUser" : 55,
+  "effectiveDate" : 1586334514000,
+  "transactionCurrencyOption" : null
+}

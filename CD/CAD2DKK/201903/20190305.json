@@ -1,0 +1,13 @@
+{
+  "exchangeRateId" : 1459281,
+  "curDate" : 1551715200000,
+  "baseCurrency" : "CAD",
+  "transactionCurrency" : "DKK",
+  "exchangeRate" : 0.203587431,
+  "createDate" : 1551715200000,
+  "createUser" : 55,
+  "updateDate" : 1551715200000,
+  "updateUser" : 55,
+  "effectiveDate" : 1551774278000,
+  "transactionCurrencyOption" : null
+}

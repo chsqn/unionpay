@@ -1,0 +1,13 @@
+{
+  "exchangeRateId" : 2016210933,
+  "curDate" : 1448380800000,
+  "baseCurrency" : "CNY",
+  "transactionCurrency" : "DOP",
+  "exchangeRate" : 0.1419,
+  "createDate" : 1448380800000,
+  "createUser" : 55,
+  "updateDate" : 1448380800000,
+  "updateUser" : 55,
+  "effectiveDate" : null,
+  "transactionCurrencyOption" : null
+}
