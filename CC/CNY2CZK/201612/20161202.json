@@ -1,0 +1,13 @@
+{
+  "exchangeRateId" : 2017512676,
+  "curDate" : 1480608000000,
+  "baseCurrency" : "CNY",
+  "transactionCurrency" : "CZK",
+  "exchangeRate" : 0.2735,
+  "createDate" : 1480608000000,
+  "createUser" : 55,
+  "updateDate" : 1480608000000,
+  "updateUser" : 55,
+  "effectiveDate" : null,
+  "transactionCurrencyOption" : null
+}

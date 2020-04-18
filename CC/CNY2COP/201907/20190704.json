@@ -1,0 +1,13 @@
+{
+  "exchangeRateId" : 1625450,
+  "curDate" : 1562169600000,
+  "baseCurrency" : "CNY",
+  "transactionCurrency" : "COP",
+  "exchangeRate" : 0.002161746,
+  "createDate" : 1562169600000,
+  "createUser" : 55,
+  "updateDate" : 1562169600000,
+  "updateUser" : 55,
+  "effectiveDate" : 1562229106000,
+  "transactionCurrencyOption" : null
+}

@@ -1,0 +1,13 @@
+{
+  "exchangeRateId" : 1915425,
+  "curDate" : 1580659200000,
+  "baseCurrency" : "CAD",
+  "transactionCurrency" : "CLP",
+  "exchangeRate" : 0.00166426,
+  "createDate" : 1580659200000,
+  "createUser" : 55,
+  "updateDate" : 1580659200000,
+  "updateUser" : 55,
+  "effectiveDate" : 1580717953000,
+  "transactionCurrencyOption" : null
+}

@@ -1,0 +1,13 @@
+{
+  "exchangeRateId" : 2015705034,
+  "curDate" : 1432051200000,
+  "baseCurrency" : "CNY",
+  "transactionCurrency" : "CLP",
+  "exchangeRate" : 0.0103,
+  "createDate" : 1432051200000,
+  "createUser" : 55,
+  "updateDate" : 1432051200000,
+  "updateUser" : 55,
+  "effectiveDate" : null,
+  "transactionCurrencyOption" : null
+}

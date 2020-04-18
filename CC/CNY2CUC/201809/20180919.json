@@ -1,0 +1,13 @@
+{
+  "exchangeRateId" : 1232364,
+  "curDate" : 1537286400000,
+  "baseCurrency" : "CNY",
+  "transactionCurrency" : "CUC",
+  "exchangeRate" : 7.082383,
+  "createDate" : 1537286400000,
+  "createUser" : 55,
+  "updateDate" : 1537286400000,
+  "updateUser" : 55,
+  "effectiveDate" : 1537345930000,
+  "transactionCurrencyOption" : null
+}

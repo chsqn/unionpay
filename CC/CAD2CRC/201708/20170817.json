@@ -1,0 +1,13 @@
+{
+  "exchangeRateId" : 567338,
+  "curDate" : 1502899200000,
+  "baseCurrency" : "CAD",
+  "transactionCurrency" : "CRC",
+  "exchangeRate" : 0.002195186,
+  "createDate" : 1502899200000,
+  "createUser" : 55,
+  "updateDate" : 1502899200000,
+  "updateUser" : 55,
+  "effectiveDate" : null,
+  "transactionCurrencyOption" : null
+}

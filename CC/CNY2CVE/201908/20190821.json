@@ -1,0 +1,13 @@
+{
+  "exchangeRateId" : 1690325,
+  "curDate" : 1566316800000,
+  "baseCurrency" : "CNY",
+  "transactionCurrency" : "CVE",
+  "exchangeRate" : 0.07111981,
+  "createDate" : 1566316800000,
+  "createUser" : 55,
+  "updateDate" : 1566316800000,
+  "updateUser" : 55,
+  "effectiveDate" : 1566376156000,
+  "transactionCurrencyOption" : null
+}

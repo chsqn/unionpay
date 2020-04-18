@@ -1,0 +1,13 @@
+{
+  "exchangeRateId" : 2016180912,
+  "curDate" : 1447344000000,
+  "baseCurrency" : "CNY",
+  "transactionCurrency" : "CHF",
+  "exchangeRate" : 6.3858,
+  "createDate" : 1447344000000,
+  "createUser" : 55,
+  "updateDate" : 1447344000000,
+  "updateUser" : 55,
+  "effectiveDate" : null,
+  "transactionCurrencyOption" : null
+}

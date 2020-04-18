@@ -1,0 +1,13 @@
+{
+  "exchangeRateId" : 1447827,
+  "curDate" : 1551024000000,
+  "baseCurrency" : "CAD",
+  "transactionCurrency" : "COP",
+  "exchangeRate" : 4.2462E-4,
+  "createDate" : 1551024000000,
+  "createUser" : 55,
+  "updateDate" : 1551024000000,
+  "updateUser" : 55,
+  "effectiveDate" : 1551083389000,
+  "transactionCurrencyOption" : null
+}

@@ -1,0 +1,13 @@
+{
+  "exchangeRateId" : 871641,
+  "curDate" : 1514304000000,
+  "baseCurrency" : "CAD",
+  "transactionCurrency" : "CZK",
+  "exchangeRate" : 0.058738369,
+  "createDate" : 1514304000000,
+  "createUser" : 55,
+  "updateDate" : 1514304000000,
+  "updateUser" : 55,
+  "effectiveDate" : 1514363378000,
+  "transactionCurrencyOption" : null
+}

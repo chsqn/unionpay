@@ -1,0 +1,13 @@
+{
+  "exchangeRateId" : 1659637,
+  "curDate" : 1564416000000,
+  "baseCurrency" : "CAD",
+  "transactionCurrency" : "CUC",
+  "exchangeRate" : 1.360734494,
+  "createDate" : 1564416000000,
+  "createUser" : 55,
+  "updateDate" : 1564416000000,
+  "updateUser" : 55,
+  "effectiveDate" : 1564475174000,
+  "transactionCurrencyOption" : null
+}

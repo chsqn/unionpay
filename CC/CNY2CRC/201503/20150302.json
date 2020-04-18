@@ -1,0 +1,13 @@
+{
+  "exchangeRateId" : 2015428806,
+  "curDate" : 1425225600000,
+  "baseCurrency" : "CNY",
+  "transactionCurrency" : "CRC",
+  "exchangeRate" : 0.0117,
+  "createDate" : 1425225600000,
+  "createUser" : 55,
+  "updateDate" : 1425225600000,
+  "updateUser" : 55,
+  "effectiveDate" : null,
+  "transactionCurrencyOption" : null
+}

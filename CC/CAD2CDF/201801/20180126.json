@@ -1,0 +1,13 @@
+{
+  "exchangeRateId" : 913374,
+  "curDate" : 1516896000000,
+  "baseCurrency" : "CAD",
+  "transactionCurrency" : "CDF",
+  "exchangeRate" : 7.67819E-4,
+  "createDate" : 1516896000000,
+  "createUser" : 55,
+  "updateDate" : 1516896000000,
+  "updateUser" : 55,
+  "effectiveDate" : 1516955453000,
+  "transactionCurrencyOption" : null
+}

@@ -1,0 +1,13 @@
+{
+  "exchangeRateId" : 2017521899,
+  "curDate" : 1481040000000,
+  "baseCurrency" : "CNY",
+  "transactionCurrency" : "CDF",
+  "exchangeRate" : 0.0062,
+  "createDate" : 1481040000000,
+  "createUser" : 55,
+  "updateDate" : 1481040000000,
+  "updateUser" : 55,
+  "effectiveDate" : null,
+  "transactionCurrencyOption" : null
+}
