@@ -1,0 +1,13 @@
+{
+  "exchangeRateId" : 1055609,
+  "curDate" : 1525968000000,
+  "baseCurrency" : "CAD",
+  "transactionCurrency" : "BAM",
+  "exchangeRate" : 0.782243799,
+  "createDate" : 1525968000000,
+  "createUser" : 55,
+  "updateDate" : 1525968000000,
+  "updateUser" : 55,
+  "effectiveDate" : 1526027257000,
+  "transactionCurrencyOption" : null
+}

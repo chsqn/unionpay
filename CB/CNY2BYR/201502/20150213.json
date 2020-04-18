@@ -1,0 +1,13 @@
+{
+  "exchangeRateId" : 2015395450,
+  "curDate" : 1423756800000,
+  "baseCurrency" : "CNY",
+  "transactionCurrency" : "BYR",
+  "exchangeRate" : 4.0E-4,
+  "createDate" : 1423756800000,
+  "createUser" : 55,
+  "updateDate" : 1423756800000,
+  "updateUser" : 55,
+  "effectiveDate" : null,
+  "transactionCurrencyOption" : null
+}

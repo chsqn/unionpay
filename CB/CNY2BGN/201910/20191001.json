@@ -1,0 +1,13 @@
+{
+  "exchangeRateId" : 1745656,
+  "curDate" : 1569859200000,
+  "baseCurrency" : "CNY",
+  "transactionCurrency" : "BGN",
+  "exchangeRate" : 4.005221847,
+  "createDate" : 1569859200000,
+  "createUser" : 55,
+  "updateDate" : 1569859200000,
+  "updateUser" : 55,
+  "effectiveDate" : 1569917266000,
+  "transactionCurrencyOption" : null
+}

@@ -1,0 +1,13 @@
+{
+  "exchangeRateId" : 2007161,
+  "curDate" : 1586275200000,
+  "baseCurrency" : "CNY",
+  "transactionCurrency" : "BAM",
+  "exchangeRate" : 3.94797711,
+  "createDate" : 1586275200000,
+  "createUser" : 55,
+  "updateDate" : 1586275200000,
+  "updateUser" : 55,
+  "effectiveDate" : 1586334514000,
+  "transactionCurrencyOption" : null
+}

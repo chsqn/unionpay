@@ -1,0 +1,13 @@
+{
+  "exchangeRateId" : 1388649,
+  "curDate" : 1547395200000,
+  "baseCurrency" : "CAD",
+  "transactionCurrency" : "BGN",
+  "exchangeRate" : 0.782366692,
+  "createDate" : 1547395200000,
+  "createUser" : 55,
+  "updateDate" : 1547395200000,
+  "updateUser" : 55,
+  "effectiveDate" : 1547454600000,
+  "transactionCurrencyOption" : null
+}

@@ -1,0 +1,13 @@
+{
+  "exchangeRateId" : 240666,
+  "curDate" : 1492099200000,
+  "baseCurrency" : "CNY",
+  "transactionCurrency" : "BIF",
+  "exchangeRate" : 0.004066327,
+  "createDate" : 1492099200000,
+  "createUser" : 55,
+  "updateDate" : 1492099200000,
+  "updateUser" : 55,
+  "effectiveDate" : null,
+  "transactionCurrencyOption" : null
+}

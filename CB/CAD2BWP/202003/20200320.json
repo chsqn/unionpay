@@ -1,0 +1,13 @@
+{
+  "exchangeRateId" : 1982210,
+  "curDate" : 1584633600000,
+  "baseCurrency" : "CAD",
+  "transactionCurrency" : "BWP",
+  "exchangeRate" : 0.1226333,
+  "createDate" : 1584633600000,
+  "createUser" : 55,
+  "updateDate" : 1584633600000,
+  "updateUser" : 55,
+  "effectiveDate" : 1584692724000,
+  "transactionCurrencyOption" : null
+}

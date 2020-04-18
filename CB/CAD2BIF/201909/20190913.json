@@ -1,0 +1,13 @@
+{
+  "exchangeRateId" : 1722603,
+  "curDate" : 1568304000000,
+  "baseCurrency" : "CAD",
+  "transactionCurrency" : "BIF",
+  "exchangeRate" : 7.20389E-4,
+  "createDate" : 1568304000000,
+  "createUser" : 55,
+  "updateDate" : 1568304000000,
+  "updateUser" : 55,
+  "effectiveDate" : 1568363031000,
+  "transactionCurrencyOption" : null
+}

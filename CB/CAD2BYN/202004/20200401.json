@@ -1,0 +1,13 @@
+{
+  "exchangeRateId" : 1997475,
+  "curDate" : 1585670400000,
+  "baseCurrency" : "CAD",
+  "transactionCurrency" : "BYN",
+  "exchangeRate" : 0.54990569,
+  "createDate" : 1585670400000,
+  "createUser" : 55,
+  "updateDate" : 1585670400000,
+  "updateUser" : 55,
+  "effectiveDate" : 1585729107000,
+  "transactionCurrencyOption" : null
+}

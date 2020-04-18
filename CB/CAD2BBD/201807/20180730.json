@@ -1,0 +1,13 @@
+{
+  "exchangeRateId" : 1161806,
+  "curDate" : 1532880000000,
+  "baseCurrency" : "CAD",
+  "transactionCurrency" : "BBD",
+  "exchangeRate" : 0.656907273,
+  "createDate" : 1532880000000,
+  "createUser" : 55,
+  "updateDate" : 1532880000000,
+  "updateUser" : 55,
+  "effectiveDate" : 1532939469000,
+  "transactionCurrencyOption" : null
+}

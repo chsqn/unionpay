@@ -1,0 +1,13 @@
+{
+  "exchangeRateId" : 1329667,
+  "curDate" : 1543507200000,
+  "baseCurrency" : "CNY",
+  "transactionCurrency" : "BSD",
+  "exchangeRate" : 6.980240722,
+  "createDate" : 1543507200000,
+  "createUser" : 55,
+  "updateDate" : 1543507200000,
+  "updateUser" : 55,
+  "effectiveDate" : 1543566716000,
+  "transactionCurrencyOption" : null
+}

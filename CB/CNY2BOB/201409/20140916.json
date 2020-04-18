@@ -1,0 +1,13 @@
+{
+  "exchangeRateId" : 2014745510,
+  "curDate" : 1410796800000,
+  "baseCurrency" : "CNY",
+  "transactionCurrency" : "BOB",
+  "exchangeRate" : 0.8945,
+  "createDate" : 1410796800000,
+  "createUser" : 744090,
+  "updateDate" : 1410796800000,
+  "updateUser" : 744090,
+  "effectiveDate" : null,
+  "transactionCurrencyOption" : null
+}

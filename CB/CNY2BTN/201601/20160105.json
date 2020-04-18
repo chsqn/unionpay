@@ -1,0 +1,13 @@
+{
+  "exchangeRateId" : 2016306093,
+  "curDate" : 1451923200000,
+  "baseCurrency" : "CNY",
+  "transactionCurrency" : "BTN",
+  "exchangeRate" : 0.0986,
+  "createDate" : 1451923200000,
+  "createUser" : 55,
+  "updateDate" : 1451923200000,
+  "updateUser" : 55,
+  "effectiveDate" : null,
+  "transactionCurrencyOption" : null
+}

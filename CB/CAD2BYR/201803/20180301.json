@@ -1,0 +1,13 @@
+{
+  "exchangeRateId" : 958907,
+  "curDate" : 1519833600000,
+  "baseCurrency" : "CAD",
+  "transactionCurrency" : "BYR",
+  "exchangeRate" : 6.6081E-5,
+  "createDate" : 1519833600000,
+  "createUser" : 55,
+  "updateDate" : 1519833600000,
+  "updateUser" : 55,
+  "effectiveDate" : 1519892675000,
+  "transactionCurrencyOption" : null
+}

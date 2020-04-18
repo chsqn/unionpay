@@ -1,0 +1,13 @@
+{
+  "exchangeRateId" : 2017206785,
+  "curDate" : 1470153600000,
+  "baseCurrency" : "CNY",
+  "transactionCurrency" : "BWP",
+  "exchangeRate" : 0.63,
+  "createDate" : 1470153600000,
+  "createUser" : 55,
+  "updateDate" : 1470153600000,
+  "updateUser" : 55,
+  "effectiveDate" : null,
+  "transactionCurrencyOption" : null
+}

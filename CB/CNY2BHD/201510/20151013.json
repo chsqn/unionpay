@@ -1,0 +1,13 @@
+{
+  "exchangeRateId" : 2016108317,
+  "curDate" : 1444665600000,
+  "baseCurrency" : "CNY",
+  "transactionCurrency" : "BHD",
+  "exchangeRate" : 16.867,
+  "createDate" : 1444665600000,
+  "createUser" : 55,
+  "updateDate" : 1444665600000,
+  "updateUser" : 55,
+  "effectiveDate" : null,
+  "transactionCurrencyOption" : null
+}

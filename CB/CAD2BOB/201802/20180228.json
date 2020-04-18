@@ -1,0 +1,13 @@
+{
+  "exchangeRateId" : 957005,
+  "curDate" : 1519747200000,
+  "baseCurrency" : "CAD",
+  "transactionCurrency" : "BOB",
+  "exchangeRate" : 0.185326368,
+  "createDate" : 1519747200000,
+  "createUser" : 55,
+  "updateDate" : 1519747200000,
+  "updateUser" : 55,
+  "effectiveDate" : 1519806167000,
+  "transactionCurrencyOption" : null
+}
