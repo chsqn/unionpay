@@ -1,0 +1,13 @@
+{
+  "exchangeRateId" : 1453721,
+  "curDate" : 1551283200000,
+  "baseCurrency" : "CNY",
+  "transactionCurrency" : "ETB",
+  "exchangeRate" : 0.235974966,
+  "createDate" : 1551283200000,
+  "createUser" : 55,
+  "updateDate" : 1551283200000,
+  "updateUser" : 55,
+  "effectiveDate" : 1551342403000,
+  "transactionCurrencyOption" : null
+}

@@ -1,0 +1,13 @@
+{
+  "exchangeRateId" : 2010850,
+  "curDate" : 1586448000000,
+  "baseCurrency" : "CAD",
+  "transactionCurrency" : "ETB",
+  "exchangeRate" : 0.04246823,
+  "createDate" : 1586448000000,
+  "createUser" : 55,
+  "updateDate" : 1586448000000,
+  "updateUser" : 55,
+  "effectiveDate" : 1586507219000,
+  "transactionCurrencyOption" : null
+}

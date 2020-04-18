@@ -1,0 +1,13 @@
+{
+  "exchangeRateId" : 845259,
+  "curDate" : 1512576000000,
+  "baseCurrency" : "CAD",
+  "transactionCurrency" : "ERN",
+  "exchangeRate" : 0.085423112,
+  "createDate" : 1512576000000,
+  "createUser" : 55,
+  "updateDate" : 1512576000000,
+  "updateUser" : 55,
+  "effectiveDate" : 1512634977000,
+  "transactionCurrencyOption" : null
+}

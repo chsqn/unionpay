@@ -1,0 +1,13 @@
+{
+  "exchangeRateId" : 1896516,
+  "curDate" : 1579449600000,
+  "baseCurrency" : "CNY",
+  "transactionCurrency" : "ERN",
+  "exchangeRate" : 0.45726566,
+  "createDate" : 1579449600000,
+  "createUser" : 55,
+  "updateDate" : 1579449600000,
+  "updateUser" : 55,
+  "effectiveDate" : 1579508312000,
+  "transactionCurrencyOption" : null
+}

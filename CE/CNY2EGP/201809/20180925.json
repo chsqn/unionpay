@@ -1,0 +1,13 @@
+{
+  "exchangeRateId" : 1240003,
+  "curDate" : 1537804800000,
+  "baseCurrency" : "CNY",
+  "transactionCurrency" : "EGP",
+  "exchangeRate" : 0.384944955,
+  "createDate" : 1537804800000,
+  "createUser" : 55,
+  "updateDate" : 1537804800000,
+  "updateUser" : 55,
+  "effectiveDate" : 1537864414000,
+  "transactionCurrencyOption" : null
+}

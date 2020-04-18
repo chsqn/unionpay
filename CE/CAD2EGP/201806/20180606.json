@@ -1,0 +1,13 @@
+{
+  "exchangeRateId" : 1087887,
+  "curDate" : 1528214400000,
+  "baseCurrency" : "CAD",
+  "transactionCurrency" : "EGP",
+  "exchangeRate" : 0.07270869,
+  "createDate" : 1528214400000,
+  "createUser" : 55,
+  "updateDate" : 1528214400000,
+  "updateUser" : 55,
+  "effectiveDate" : 1528273669000,
+  "transactionCurrencyOption" : null
+}
