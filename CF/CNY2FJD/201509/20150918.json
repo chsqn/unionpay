@@ -1,0 +1,13 @@
+{
+  "exchangeRateId" : 2016043399,
+  "curDate" : 1442505600000,
+  "baseCurrency" : "CNY",
+  "transactionCurrency" : "FJD",
+  "exchangeRate" : 2.9865,
+  "createDate" : 1442505600000,
+  "createUser" : 55,
+  "updateDate" : 1442505600000,
+  "updateUser" : 55,
+  "effectiveDate" : null,
+  "transactionCurrencyOption" : null
+}
