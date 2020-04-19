@@ -1,0 +1,13 @@
+{
+  "exchangeRateId" : 2015912106,
+  "curDate" : 1438876800000,
+  "baseCurrency" : "CNY",
+  "transactionCurrency" : "FKP",
+  "exchangeRate" : 9.7505,
+  "createDate" : 1438876800000,
+  "createUser" : 55,
+  "updateDate" : 1438876800000,
+  "updateUser" : 55,
+  "effectiveDate" : null,
+  "transactionCurrencyOption" : null
+}
