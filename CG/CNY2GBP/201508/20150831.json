@@ -1,0 +1,13 @@
+{
+  "exchangeRateId" : 2015999989,
+  "curDate" : 1440950400000,
+  "baseCurrency" : "CNY",
+  "transactionCurrency" : "GBP",
+  "exchangeRate" : 9.8745,
+  "createDate" : 1440950400000,
+  "createUser" : 55,
+  "updateDate" : 1440950400000,
+  "updateUser" : 55,
+  "effectiveDate" : null,
+  "transactionCurrencyOption" : null
+}
