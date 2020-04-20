@@ -1,0 +1,13 @@
+{
+  "exchangeRateId" : 1110806,
+  "curDate" : 1529510400000,
+  "baseCurrency" : "CNY",
+  "transactionCurrency" : "GIP",
+  "exchangeRate" : 8.564250752,
+  "createDate" : 1529510400000,
+  "createUser" : 55,
+  "updateDate" : 1529510400000,
+  "updateUser" : 55,
+  "effectiveDate" : 1529569432000,
+  "transactionCurrencyOption" : null
+}
