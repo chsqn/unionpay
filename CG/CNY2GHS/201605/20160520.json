@@ -1,0 +1,13 @@
+{
+  "exchangeRateId" : 2017026990,
+  "curDate" : 1463673600000,
+  "baseCurrency" : "CNY",
+  "transactionCurrency" : "GHS",
+  "exchangeRate" : 1.7172,
+  "createDate" : 1463673600000,
+  "createUser" : 55,
+  "updateDate" : 1463673600000,
+  "updateUser" : 55,
+  "effectiveDate" : null,
+  "transactionCurrencyOption" : null
+}
