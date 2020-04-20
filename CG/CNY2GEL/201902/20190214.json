@@ -1,0 +1,13 @@
+{
+  "exchangeRateId" : 1434646,
+  "curDate" : 1550073600000,
+  "baseCurrency" : "CNY",
+  "transactionCurrency" : "GEL",
+  "exchangeRate" : 2.578204667,
+  "createDate" : 1550073600000,
+  "createUser" : 55,
+  "updateDate" : 1550073600000,
+  "updateUser" : 55,
+  "effectiveDate" : 1550133000000,
+  "transactionCurrencyOption" : null
+}
