@@ -1,0 +1,13 @@
+{
+  "exchangeRateId" : 1799126,
+  "curDate" : 1573142400000,
+  "baseCurrency" : "CNY",
+  "transactionCurrency" : "GNF",
+  "exchangeRate" : 7.67096E-4,
+  "createDate" : 1573142400000,
+  "createUser" : 55,
+  "updateDate" : 1573142400000,
+  "updateUser" : 55,
+  "effectiveDate" : 1573201601000,
+  "transactionCurrencyOption" : null
+}
