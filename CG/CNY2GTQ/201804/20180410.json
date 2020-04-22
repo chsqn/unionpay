@@ -1,0 +1,13 @@
+{
+  "exchangeRateId" : 1012201,
+  "curDate" : 1523289600000,
+  "baseCurrency" : "CNY",
+  "transactionCurrency" : "GTQ",
+  "exchangeRate" : 0.854305417,
+  "createDate" : 1523289600000,
+  "createUser" : 55,
+  "updateDate" : 1523289600000,
+  "updateUser" : 55,
+  "effectiveDate" : 1523348652000,
+  "transactionCurrencyOption" : null
+}
