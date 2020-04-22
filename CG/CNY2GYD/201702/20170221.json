@@ -1,0 +1,13 @@
+{
+  "exchangeRateId" : 111263,
+  "curDate" : 1487606400000,
+  "baseCurrency" : "CNY",
+  "transactionCurrency" : "GYD",
+  "exchangeRate" : 0.033686239,
+  "createDate" : 1487606400000,
+  "createUser" : 2,
+  "updateDate" : 1487606400000,
+  "updateUser" : 2,
+  "effectiveDate" : null,
+  "transactionCurrencyOption" : null
+}
