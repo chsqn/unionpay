@@ -1,0 +1,13 @@
+{
+  "exchangeRateId" : 1268498,
+  "curDate" : 1539705600000,
+  "baseCurrency" : "CAD",
+  "transactionCurrency" : "JOD",
+  "exchangeRate" : 1.836213362,
+  "createDate" : 1539705600000,
+  "createUser" : 55,
+  "updateDate" : 1539705600000,
+  "updateUser" : 55,
+  "effectiveDate" : 1539765180000,
+  "transactionCurrencyOption" : null
+}
