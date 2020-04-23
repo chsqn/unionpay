@@ -1,0 +1,13 @@
+{
+  "exchangeRateId" : 1489850,
+  "curDate" : 1553616000000,
+  "baseCurrency" : "CAD",
+  "transactionCurrency" : "HUF",
+  "exchangeRate" : 0.004757944,
+  "createDate" : 1553616000000,
+  "createUser" : 55,
+  "updateDate" : 1553616000000,
+  "updateUser" : 55,
+  "effectiveDate" : 1553675413000,
+  "transactionCurrencyOption" : null
+}

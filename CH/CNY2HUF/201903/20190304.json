@@ -1,0 +1,13 @@
+{
+  "exchangeRateId" : 1457553,
+  "curDate" : 1551628800000,
+  "baseCurrency" : "CNY",
+  "transactionCurrency" : "HUF",
+  "exchangeRate" : 0.024249312,
+  "createDate" : 1551628800000,
+  "createUser" : 55,
+  "updateDate" : 1551628800000,
+  "updateUser" : 55,
+  "effectiveDate" : 1551688197000,
+  "transactionCurrencyOption" : null
+}

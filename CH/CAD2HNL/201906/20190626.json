@@ -1,0 +1,13 @@
+{
+  "exchangeRateId" : 1613867,
+  "curDate" : 1561478400000,
+  "baseCurrency" : "CAD",
+  "transactionCurrency" : "HNL",
+  "exchangeRate" : 0.05420398,
+  "createDate" : 1561478400000,
+  "createUser" : 55,
+  "updateDate" : 1561478400000,
+  "updateUser" : 55,
+  "effectiveDate" : 1561537400000,
+  "transactionCurrencyOption" : null
+}

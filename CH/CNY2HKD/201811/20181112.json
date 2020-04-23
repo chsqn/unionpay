@@ -1,0 +1,13 @@
+{
+  "exchangeRateId" : 1302989,
+  "curDate" : 1541952000000,
+  "baseCurrency" : "CNY",
+  "transactionCurrency" : "HKD",
+  "exchangeRate" : 0.889,
+  "createDate" : 1541952000000,
+  "createUser" : 55,
+  "updateDate" : 1541952000000,
+  "updateUser" : 55,
+  "effectiveDate" : 1542011340000,
+  "transactionCurrencyOption" : null
+}

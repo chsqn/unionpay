@@ -1,0 +1,13 @@
+{
+  "exchangeRateId" : 1159955,
+  "curDate" : 1532620800000,
+  "baseCurrency" : "CAD",
+  "transactionCurrency" : "HRK",
+  "exchangeRate" : 0.206794402,
+  "createDate" : 1532620800000,
+  "createUser" : 55,
+  "updateDate" : 1532620800000,
+  "updateUser" : 55,
+  "effectiveDate" : 1532680874000,
+  "transactionCurrencyOption" : null
+}

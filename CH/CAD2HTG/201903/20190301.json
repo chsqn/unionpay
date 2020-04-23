@@ -1,0 +1,13 @@
+{
+  "exchangeRateId" : 1455485,
+  "curDate" : 1551369600000,
+  "baseCurrency" : "CAD",
+  "transactionCurrency" : "HTG",
+  "exchangeRate" : 0.015940641,
+  "createDate" : 1551369600000,
+  "createUser" : 55,
+  "updateDate" : 1551369600000,
+  "updateUser" : 55,
+  "effectiveDate" : 1551428744000,
+  "transactionCurrencyOption" : null
+}

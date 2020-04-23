@@ -1,0 +1,13 @@
+{
+  "exchangeRateId" : 1340990,
+  "curDate" : 1544371200000,
+  "baseCurrency" : "CAD",
+  "transactionCurrency" : "HKD",
+  "exchangeRate" : 0.17121055,
+  "createDate" : 1544371200000,
+  "createUser" : 55,
+  "updateDate" : 1544371200000,
+  "updateUser" : 55,
+  "effectiveDate" : 1544430404000,
+  "transactionCurrencyOption" : null
+}

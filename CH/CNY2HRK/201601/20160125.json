@@ -1,0 +1,13 @@
+{
+  "exchangeRateId" : 2016353264,
+  "curDate" : 1453651200000,
+  "baseCurrency" : "CNY",
+  "transactionCurrency" : "HRK",
+  "exchangeRate" : 0.9308,
+  "createDate" : 1453651200000,
+  "createUser" : 55,
+  "updateDate" : 1453651200000,
+  "updateUser" : 55,
+  "effectiveDate" : null,
+  "transactionCurrencyOption" : null
+}

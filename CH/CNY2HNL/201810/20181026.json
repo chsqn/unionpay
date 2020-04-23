@@ -1,0 +1,13 @@
+{
+  "exchangeRateId" : 1282002,
+  "curDate" : 1540483200000,
+  "baseCurrency" : "CNY",
+  "transactionCurrency" : "HNL",
+  "exchangeRate" : 0.290459456,
+  "createDate" : 1540483200000,
+  "createUser" : 55,
+  "updateDate" : 1540483200000,
+  "updateUser" : 55,
+  "effectiveDate" : 1540543287000,
+  "transactionCurrencyOption" : null
+}

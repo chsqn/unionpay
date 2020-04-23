@@ -1,0 +1,13 @@
+{
+  "exchangeRateId" : 2015840007,
+  "curDate" : 1437408000000,
+  "baseCurrency" : "CNY",
+  "transactionCurrency" : "HTG",
+  "exchangeRate" : 0.1095,
+  "createDate" : 1437408000000,
+  "createUser" : 55,
+  "updateDate" : 1437408000000,
+  "updateUser" : 55,
+  "effectiveDate" : null,
+  "transactionCurrencyOption" : null
+}
