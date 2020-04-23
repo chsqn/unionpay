@@ -1,0 +1,13 @@
+{
+  "exchangeRateId" : 1453587,
+  "curDate" : 1551283200000,
+  "baseCurrency" : "CAD",
+  "transactionCurrency" : "JPY",
+  "exchangeRate" : 0.01192988,
+  "createDate" : 1551283200000,
+  "createUser" : 55,
+  "updateDate" : 1551283200000,
+  "updateUser" : 55,
+  "effectiveDate" : 1551342403000,
+  "transactionCurrencyOption" : null
+}
