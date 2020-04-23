@@ -1,0 +1,13 @@
+{
+  "exchangeRateId" : 413142,
+  "curDate" : 1497888000000,
+  "baseCurrency" : "CAD",
+  "transactionCurrency" : "INR",
+  "exchangeRate" : 0.020601186,
+  "createDate" : 1497888000000,
+  "createUser" : 55,
+  "updateDate" : 1497888000000,
+  "updateUser" : 55,
+  "effectiveDate" : null,
+  "transactionCurrencyOption" : null
+}

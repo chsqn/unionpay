@@ -1,0 +1,13 @@
+{
+  "exchangeRateId" : 1070987,
+  "curDate" : 1527004800000,
+  "baseCurrency" : "CNY",
+  "transactionCurrency" : "IQD",
+  "exchangeRate" : 0.005368031,
+  "createDate" : 1527004800000,
+  "createUser" : 55,
+  "updateDate" : 1527004800000,
+  "updateUser" : 55,
+  "effectiveDate" : 1527063950000,
+  "transactionCurrencyOption" : null
+}

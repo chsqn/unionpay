@@ -1,0 +1,13 @@
+{
+  "exchangeRateId" : 1493668,
+  "curDate" : 1553788800000,
+  "baseCurrency" : "CAD",
+  "transactionCurrency" : "ILS",
+  "exchangeRate" : 0.372769892,
+  "createDate" : 1553788800000,
+  "createUser" : 55,
+  "updateDate" : 1553788800000,
+  "updateUser" : 55,
+  "effectiveDate" : 1553848200000,
+  "transactionCurrencyOption" : null
+}

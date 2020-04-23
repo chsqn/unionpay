@@ -1,0 +1,13 @@
+{
+  "exchangeRateId" : 1262766,
+  "curDate" : 1539273600000,
+  "baseCurrency" : "CAD",
+  "transactionCurrency" : "IQD",
+  "exchangeRate" : 0.001099423,
+  "createDate" : 1539273600000,
+  "createUser" : 55,
+  "updateDate" : 1539273600000,
+  "updateUser" : 55,
+  "effectiveDate" : 1539333172000,
+  "transactionCurrencyOption" : null
+}

@@ -1,0 +1,13 @@
+{
+  "exchangeRateId" : 1048237,
+  "curDate" : 1525622400000,
+  "baseCurrency" : "CNY",
+  "transactionCurrency" : "ISK",
+  "exchangeRate" : 0.062843782,
+  "createDate" : 1525622400000,
+  "createUser" : 55,
+  "updateDate" : 1525622400000,
+  "updateUser" : 55,
+  "effectiveDate" : 1525681296000,
+  "transactionCurrencyOption" : null
+}

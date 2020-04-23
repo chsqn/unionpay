@@ -1,0 +1,13 @@
+{
+  "exchangeRateId" : 2015322540,
+  "curDate" : 1421164800000,
+  "baseCurrency" : "CNY",
+  "transactionCurrency" : "INR",
+  "exchangeRate" : 0.1003,
+  "createDate" : 1421164800000,
+  "createUser" : 744090,
+  "updateDate" : 1421164800000,
+  "updateUser" : 744090,
+  "effectiveDate" : null,
+  "transactionCurrencyOption" : null
+}

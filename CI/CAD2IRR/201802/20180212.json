@@ -1,0 +1,13 @@
+{
+  "exchangeRateId" : 934294,
+  "curDate" : 1518364800000,
+  "baseCurrency" : "CAD",
+  "transactionCurrency" : "IRR",
+  "exchangeRate" : 3.4218E-5,
+  "createDate" : 1518364800000,
+  "createUser" : 55,
+  "updateDate" : 1518364800000,
+  "updateUser" : 55,
+  "effectiveDate" : 1518424201000,
+  "transactionCurrencyOption" : null
+}

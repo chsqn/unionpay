@@ -1,0 +1,13 @@
+{
+  "exchangeRateId" : 640809,
+  "curDate" : 1505318400000,
+  "baseCurrency" : "CAD",
+  "transactionCurrency" : "ISK",
+  "exchangeRate" : 0.011445247,
+  "createDate" : 1505318400000,
+  "createUser" : 55,
+  "updateDate" : 1505318400000,
+  "updateUser" : 55,
+  "effectiveDate" : null,
+  "transactionCurrencyOption" : null
+}

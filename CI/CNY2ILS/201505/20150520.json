@@ -1,0 +1,13 @@
+{
+  "exchangeRateId" : 2015705044,
+  "curDate" : 1432051200000,
+  "baseCurrency" : "CNY",
+  "transactionCurrency" : "ILS",
+  "exchangeRate" : 1.6132,
+  "createDate" : 1432051200000,
+  "createUser" : 55,
+  "updateDate" : 1432051200000,
+  "updateUser" : 55,
+  "effectiveDate" : null,
+  "transactionCurrencyOption" : null
+}
