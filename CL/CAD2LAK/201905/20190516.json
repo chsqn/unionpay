@@ -1,0 +1,13 @@
+{
+  "exchangeRateId" : 1558556,
+  "curDate" : 1557936000000,
+  "baseCurrency" : "CAD",
+  "transactionCurrency" : "LAK",
+  "exchangeRate" : 1.55621E-4,
+  "createDate" : 1557936000000,
+  "createUser" : 55,
+  "updateDate" : 1557936000000,
+  "updateUser" : 55,
+  "effectiveDate" : 1557995527000,
+  "transactionCurrencyOption" : null
+}

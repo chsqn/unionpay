@@ -1,0 +1,13 @@
+{
+  "exchangeRateId" : 1835471,
+  "curDate" : 1575475200000,
+  "baseCurrency" : "CNY",
+  "transactionCurrency" : "LAK",
+  "exchangeRate" : 7.99941E-4,
+  "createDate" : 1575475200000,
+  "createUser" : 55,
+  "updateDate" : 1575475200000,
+  "updateUser" : 55,
+  "effectiveDate" : 1575534402000,
+  "transactionCurrencyOption" : null
+}

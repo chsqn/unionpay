@@ -1,0 +1,13 @@
+{
+  "exchangeRateId" : 2016038915,
+  "curDate" : 1442419200000,
+  "baseCurrency" : "CNY",
+  "transactionCurrency" : "LBP",
+  "exchangeRate" : 0.0042,
+  "createDate" : 1442419200000,
+  "createUser" : 55,
+  "updateDate" : 1442419200000,
+  "updateUser" : 55,
+  "effectiveDate" : null,
+  "transactionCurrencyOption" : null
+}

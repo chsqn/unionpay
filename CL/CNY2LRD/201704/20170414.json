@@ -1,0 +1,13 @@
+{
+  "exchangeRateId" : 240729,
+  "curDate" : 1492099200000,
+  "baseCurrency" : "CNY",
+  "transactionCurrency" : "LRD",
+  "exchangeRate" : 0.073956977,
+  "createDate" : 1492099200000,
+  "createUser" : 55,
+  "updateDate" : 1492099200000,
+  "updateUser" : 55,
+  "effectiveDate" : null,
+  "transactionCurrencyOption" : null
+}

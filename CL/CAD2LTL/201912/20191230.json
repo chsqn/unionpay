@@ -1,0 +1,13 @@
+{
+  "exchangeRateId" : 1867777,
+  "curDate" : 1577635200000,
+  "baseCurrency" : "CAD",
+  "transactionCurrency" : "LTL",
+  "exchangeRate" : 0.46074351,
+  "createDate" : 1577635200000,
+  "createUser" : 55,
+  "updateDate" : 1577635200000,
+  "updateUser" : 55,
+  "effectiveDate" : 1577694732000,
+  "transactionCurrencyOption" : null
+}

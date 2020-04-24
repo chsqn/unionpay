@@ -1,0 +1,13 @@
+{
+  "exchangeRateId" : 1014126,
+  "curDate" : 1523376000000,
+  "baseCurrency" : "CNY",
+  "transactionCurrency" : "LTL",
+  "exchangeRate" : 2.213023316,
+  "createDate" : 1523376000000,
+  "createUser" : 55,
+  "updateDate" : 1523376000000,
+  "updateUser" : 55,
+  "effectiveDate" : 1523434764000,
+  "transactionCurrencyOption" : null
+}

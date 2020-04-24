@@ -1,0 +1,13 @@
+{
+  "exchangeRateId" : 2005321,
+  "curDate" : 1586188800000,
+  "baseCurrency" : "CNY",
+  "transactionCurrency" : "LKR",
+  "exchangeRate" : 0.0368276,
+  "createDate" : 1586188800000,
+  "createUser" : 55,
+  "updateDate" : 1586188800000,
+  "updateUser" : 55,
+  "effectiveDate" : 1586248031000,
+  "transactionCurrencyOption" : null
+}

@@ -1,0 +1,13 @@
+{
+  "exchangeRateId" : 203853,
+  "curDate" : 1490889600000,
+  "baseCurrency" : "CAD",
+  "transactionCurrency" : "LKR",
+  "exchangeRate" : 0.008811676,
+  "createDate" : 1490889600000,
+  "createUser" : 55,
+  "updateDate" : 1490889600000,
+  "updateUser" : 55,
+  "effectiveDate" : null,
+  "transactionCurrencyOption" : null
+}

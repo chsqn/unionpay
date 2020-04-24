@@ -1,0 +1,13 @@
+{
+  "exchangeRateId" : 1171355,
+  "curDate" : 1533484800000,
+  "baseCurrency" : "CAD",
+  "transactionCurrency" : "LSL",
+  "exchangeRate" : 0.098104089,
+  "createDate" : 1533484800000,
+  "createUser" : 55,
+  "updateDate" : 1533484800000,
+  "updateUser" : 55,
+  "effectiveDate" : 1533544045000,
+  "transactionCurrencyOption" : null
+}

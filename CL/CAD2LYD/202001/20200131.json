@@ -1,0 +1,13 @@
+{
+  "exchangeRateId" : 1913570,
+  "curDate" : 1580400000000,
+  "baseCurrency" : "CAD",
+  "transactionCurrency" : "LYD",
+  "exchangeRate" : 0.94617016,
+  "createDate" : 1580400000000,
+  "createUser" : 55,
+  "updateDate" : 1580400000000,
+  "updateUser" : 55,
+  "effectiveDate" : 1580458235000,
+  "transactionCurrencyOption" : null
+}

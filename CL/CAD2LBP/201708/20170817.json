@@ -1,0 +1,13 @@
+{
+  "exchangeRateId" : 567382,
+  "curDate" : 1502899200000,
+  "baseCurrency" : "CAD",
+  "transactionCurrency" : "LBP",
+  "exchangeRate" : 8.41117E-4,
+  "createDate" : 1502899200000,
+  "createUser" : 55,
+  "updateDate" : 1502899200000,
+  "updateUser" : 55,
+  "effectiveDate" : null,
+  "transactionCurrencyOption" : null
+}
