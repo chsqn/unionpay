@@ -1,0 +1,13 @@
+{
+  "exchangeRateId" : 1016016,
+  "curDate" : 1523462400000,
+  "baseCurrency" : "CNY",
+  "transactionCurrency" : "KZT",
+  "exchangeRate" : 0.019045273,
+  "createDate" : 1523462400000,
+  "createUser" : 55,
+  "updateDate" : 1523462400000,
+  "updateUser" : 55,
+  "effectiveDate" : 1523521607000,
+  "transactionCurrencyOption" : null
+}

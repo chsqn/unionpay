@@ -1,0 +1,13 @@
+{
+  "exchangeRateId" : 894441,
+  "curDate" : 1515686400000,
+  "baseCurrency" : "CAD",
+  "transactionCurrency" : "KHR",
+  "exchangeRate" : 3.12524E-4,
+  "createDate" : 1515686400000,
+  "createUser" : 55,
+  "updateDate" : 1515686400000,
+  "updateUser" : 55,
+  "effectiveDate" : 1515745822000,
+  "transactionCurrencyOption" : null
+}

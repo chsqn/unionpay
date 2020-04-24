@@ -1,0 +1,13 @@
+{
+  "exchangeRateId" : 1249574,
+  "curDate" : 1538409600000,
+  "baseCurrency" : "CNY",
+  "transactionCurrency" : "KMF",
+  "exchangeRate" : 0.016530453,
+  "createDate" : 1538409600000,
+  "createUser" : 55,
+  "updateDate" : 1538409600000,
+  "updateUser" : 55,
+  "effectiveDate" : 1538468224000,
+  "transactionCurrencyOption" : null
+}

@@ -1,0 +1,13 @@
+{
+  "exchangeRateId" : 2015801410,
+  "curDate" : 1435766400000,
+  "baseCurrency" : "CNY",
+  "transactionCurrency" : "KES",
+  "exchangeRate" : 0.0627,
+  "createDate" : 1435766400000,
+  "createUser" : 744090,
+  "updateDate" : 1435766400000,
+  "updateUser" : 744090,
+  "effectiveDate" : null,
+  "transactionCurrencyOption" : null
+}

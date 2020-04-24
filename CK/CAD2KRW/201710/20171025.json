@@ -1,0 +1,13 @@
+{
+  "exchangeRateId" : 747305,
+  "curDate" : 1508860800000,
+  "baseCurrency" : "CAD",
+  "transactionCurrency" : "KRW",
+  "exchangeRate" : 0.001132123,
+  "createDate" : 1508860800000,
+  "createUser" : 55,
+  "updateDate" : 1508860800000,
+  "updateUser" : 55,
+  "effectiveDate" : null,
+  "transactionCurrencyOption" : null
+}

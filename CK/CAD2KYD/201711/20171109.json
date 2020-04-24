@@ -1,0 +1,13 @@
+{
+  "exchangeRateId" : 787699,
+  "curDate" : 1510156800000,
+  "baseCurrency" : "CAD",
+  "transactionCurrency" : "KYD",
+  "exchangeRate" : 1.55207246,
+  "createDate" : 1510156800000,
+  "createUser" : 55,
+  "updateDate" : 1510156800000,
+  "updateUser" : 55,
+  "effectiveDate" : null,
+  "transactionCurrencyOption" : null
+}

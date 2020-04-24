@@ -1,0 +1,13 @@
+{
+  "exchangeRateId" : 2016093378,
+  "curDate" : 1444147200000,
+  "baseCurrency" : "CNY",
+  "transactionCurrency" : "KRW",
+  "exchangeRate" : 0.0055,
+  "createDate" : 1444147200000,
+  "createUser" : 55,
+  "updateDate" : 1444147200000,
+  "updateUser" : 55,
+  "effectiveDate" : null,
+  "transactionCurrencyOption" : null
+}

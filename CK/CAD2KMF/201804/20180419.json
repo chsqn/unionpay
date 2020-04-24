@@ -1,0 +1,13 @@
+{
+  "exchangeRateId" : 1025334,
+  "curDate" : 1524067200000,
+  "baseCurrency" : "CAD",
+  "transactionCurrency" : "KMF",
+  "exchangeRate" : 0.003204226,
+  "createDate" : 1524067200000,
+  "createUser" : 55,
+  "updateDate" : 1524067200000,
+  "updateUser" : 55,
+  "effectiveDate" : 1524126925000,
+  "transactionCurrencyOption" : null
+}

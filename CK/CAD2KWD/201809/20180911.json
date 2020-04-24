@@ -1,0 +1,13 @@
+{
+  "exchangeRateId" : 1220797,
+  "curDate" : 1536595200000,
+  "baseCurrency" : "CAD",
+  "transactionCurrency" : "KWD",
+  "exchangeRate" : 4.371146785,
+  "createDate" : 1536595200000,
+  "createUser" : 55,
+  "updateDate" : 1536595200000,
+  "updateUser" : 55,
+  "effectiveDate" : 1536654511000,
+  "transactionCurrencyOption" : null
+}

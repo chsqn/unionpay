@@ -1,0 +1,13 @@
+{
+  "exchangeRateId" : 1201713,
+  "curDate" : 1535385600000,
+  "baseCurrency" : "CAD",
+  "transactionCurrency" : "KGS",
+  "exchangeRate" : 0.019005168,
+  "createDate" : 1535385600000,
+  "createUser" : 55,
+  "updateDate" : 1535385600000,
+  "updateUser" : 55,
+  "effectiveDate" : 1535445228000,
+  "transactionCurrencyOption" : null
+}

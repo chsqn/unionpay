@@ -1,0 +1,13 @@
+{
+  "exchangeRateId" : 2017301561,
+  "curDate" : 1472745600000,
+  "baseCurrency" : "CNY",
+  "transactionCurrency" : "KGS",
+  "exchangeRate" : 0.0973,
+  "createDate" : 1472745600000,
+  "createUser" : 55,
+  "updateDate" : 1472745600000,
+  "updateUser" : 55,
+  "effectiveDate" : null,
+  "transactionCurrencyOption" : null
+}

@@ -1,0 +1,13 @@
+{
+  "exchangeRateId" : 1480311,
+  "curDate" : 1553097600000,
+  "baseCurrency" : "CAD",
+  "transactionCurrency" : "KZT",
+  "exchangeRate" : 0.003529408,
+  "createDate" : 1553097600000,
+  "createUser" : 55,
+  "updateDate" : 1553097600000,
+  "updateUser" : 55,
+  "effectiveDate" : 1553157152000,
+  "transactionCurrencyOption" : null
+}

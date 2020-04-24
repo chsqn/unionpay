@@ -1,0 +1,13 @@
+{
+  "exchangeRateId" : 1236220,
+  "curDate" : 1537459200000,
+  "baseCurrency" : "CNY",
+  "transactionCurrency" : "KWD",
+  "exchangeRate" : 22.743556202,
+  "createDate" : 1537459200000,
+  "createUser" : 55,
+  "updateDate" : 1537459200000,
+  "updateUser" : 55,
+  "effectiveDate" : 1537518892000,
+  "transactionCurrencyOption" : null
+}

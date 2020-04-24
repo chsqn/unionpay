@@ -1,0 +1,13 @@
+{
+  "exchangeRateId" : 830214,
+  "curDate" : 1511884800000,
+  "baseCurrency" : "CAD",
+  "transactionCurrency" : "KES",
+  "exchangeRate" : 0.012475013,
+  "createDate" : 1511884800000,
+  "createUser" : 55,
+  "updateDate" : 1511884800000,
+  "updateUser" : 55,
+  "effectiveDate" : null,
+  "transactionCurrencyOption" : null
+}
