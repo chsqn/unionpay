@@ -1,0 +1,13 @@
+{
+  "exchangeRateId" : 1720780,
+  "curDate" : 1568217600000,
+  "baseCurrency" : "CAD",
+  "transactionCurrency" : "NIO",
+  "exchangeRate" : 0.039546451,
+  "createDate" : 1568217600000,
+  "createUser" : 55,
+  "updateDate" : 1568217600000,
+  "updateUser" : 55,
+  "effectiveDate" : 1568276802000,
+  "transactionCurrencyOption" : null
+}

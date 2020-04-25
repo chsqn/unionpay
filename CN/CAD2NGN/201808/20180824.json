@@ -1,0 +1,13 @@
+{
+  "exchangeRateId" : 1197927,
+  "curDate" : 1535040000000,
+  "baseCurrency" : "CAD",
+  "transactionCurrency" : "NGN",
+  "exchangeRate" : 0.004312282,
+  "createDate" : 1535040000000,
+  "createUser" : 55,
+  "updateDate" : 1535040000000,
+  "updateUser" : 55,
+  "effectiveDate" : 1535099022000,
+  "transactionCurrencyOption" : null
+}

@@ -1,0 +1,13 @@
+{
+  "exchangeRateId" : 2016096501,
+  "curDate" : 1444233600000,
+  "baseCurrency" : "CNY",
+  "transactionCurrency" : "NAD",
+  "exchangeRate" : 0.4731,
+  "createDate" : 1444233600000,
+  "createUser" : 55,
+  "updateDate" : 1444233600000,
+  "updateUser" : 55,
+  "effectiveDate" : null,
+  "transactionCurrencyOption" : null
+}

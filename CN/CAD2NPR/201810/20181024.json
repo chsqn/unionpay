@@ -1,0 +1,13 @@
+{
+  "exchangeRateId" : 1278074,
+  "curDate" : 1540310400000,
+  "baseCurrency" : "CAD",
+  "transactionCurrency" : "NPR",
+  "exchangeRate" : 0.011206108,
+  "createDate" : 1540310400000,
+  "createUser" : 55,
+  "updateDate" : 1540310400000,
+  "updateUser" : 55,
+  "effectiveDate" : 1540369849000,
+  "transactionCurrencyOption" : null
+}

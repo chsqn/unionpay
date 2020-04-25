@@ -1,0 +1,13 @@
+{
+  "exchangeRateId" : 1833417,
+  "curDate" : 1575388800000,
+  "baseCurrency" : "CAD",
+  "transactionCurrency" : "NOK",
+  "exchangeRate" : 0.145500832,
+  "createDate" : 1575388800000,
+  "createUser" : 55,
+  "updateDate" : 1575388800000,
+  "updateUser" : 55,
+  "effectiveDate" : 1575447761000,
+  "transactionCurrencyOption" : null
+}

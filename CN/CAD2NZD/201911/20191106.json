@@ -1,0 +1,13 @@
+{
+  "exchangeRateId" : 1795195,
+  "curDate" : 1572969600000,
+  "baseCurrency" : "CAD",
+  "transactionCurrency" : "NZD",
+  "exchangeRate" : 0.845245489,
+  "createDate" : 1572969600000,
+  "createUser" : 55,
+  "updateDate" : 1572969600000,
+  "updateUser" : 55,
+  "effectiveDate" : 1573028651000,
+  "transactionCurrencyOption" : null
+}

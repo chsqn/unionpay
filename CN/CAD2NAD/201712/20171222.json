@@ -1,0 +1,13 @@
+{
+  "exchangeRateId" : 866051,
+  "curDate" : 1513872000000,
+  "baseCurrency" : "CAD",
+  "transactionCurrency" : "NAD",
+  "exchangeRate" : 0.100452018,
+  "createDate" : 1513872000000,
+  "createUser" : 55,
+  "updateDate" : 1513872000000,
+  "updateUser" : 55,
+  "effectiveDate" : 1513931481000,
+  "transactionCurrencyOption" : null
+}
