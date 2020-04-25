@@ -1,0 +1,13 @@
+{
+  "exchangeRateId" : 1514692,
+  "curDate" : 1555257600000,
+  "baseCurrency" : "CAD",
+  "transactionCurrency" : "MYR",
+  "exchangeRate" : 0.327850526,
+  "createDate" : 1555257600000,
+  "createUser" : 55,
+  "updateDate" : 1555257600000,
+  "updateUser" : 55,
+  "effectiveDate" : 1555316762000,
+  "transactionCurrencyOption" : null
+}

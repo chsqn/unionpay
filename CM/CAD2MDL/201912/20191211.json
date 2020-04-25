@@ -1,0 +1,13 @@
+{
+  "exchangeRateId" : 1842976,
+  "curDate" : 1575993600000,
+  "baseCurrency" : "CAD",
+  "transactionCurrency" : "MDL",
+  "exchangeRate" : 0.076963289,
+  "createDate" : 1575993600000,
+  "createUser" : 55,
+  "updateDate" : 1575993600000,
+  "updateUser" : 55,
+  "effectiveDate" : 1576053029000,
+  "transactionCurrencyOption" : null
+}

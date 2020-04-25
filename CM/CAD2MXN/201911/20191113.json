@@ -1,0 +1,13 @@
+{
+  "exchangeRateId" : 1804751,
+  "curDate" : 1573574400000,
+  "baseCurrency" : "CAD",
+  "transactionCurrency" : "MXN",
+  "exchangeRate" : 0.068951384,
+  "createDate" : 1573574400000,
+  "createUser" : 55,
+  "updateDate" : 1573574400000,
+  "updateUser" : 55,
+  "effectiveDate" : 1573633801000,
+  "transactionCurrencyOption" : null
+}

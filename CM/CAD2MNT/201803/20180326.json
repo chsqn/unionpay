@@ -1,0 +1,13 @@
+{
+  "exchangeRateId" : 991223,
+  "curDate" : 1521993600000,
+  "baseCurrency" : "CAD",
+  "transactionCurrency" : "MNT",
+  "exchangeRate" : 5.39458E-4,
+  "createDate" : 1521993600000,
+  "createUser" : 55,
+  "updateDate" : 1521993600000,
+  "updateUser" : 55,
+  "effectiveDate" : 1522052614000,
+  "transactionCurrencyOption" : null
+}

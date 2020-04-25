@@ -1,0 +1,13 @@
+{
+  "exchangeRateId" : 1986101,
+  "curDate" : 1584979200000,
+  "baseCurrency" : "CAD",
+  "transactionCurrency" : "MZN",
+  "exchangeRate" : 0.02190408,
+  "createDate" : 1584979200000,
+  "createUser" : 55,
+  "updateDate" : 1584979200000,
+  "updateUser" : 55,
+  "effectiveDate" : 1585038498000,
+  "transactionCurrencyOption" : null
+}

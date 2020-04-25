@@ -1,0 +1,13 @@
+{
+  "exchangeRateId" : 1203801,
+  "curDate" : 1535472000000,
+  "baseCurrency" : "CNY",
+  "transactionCurrency" : "MRO",
+  "exchangeRate" : 0.01915116,
+  "createDate" : 1535472000000,
+  "createUser" : 55,
+  "updateDate" : 1535472000000,
+  "updateUser" : 55,
+  "effectiveDate" : 1535531296000,
+  "transactionCurrencyOption" : null
+}

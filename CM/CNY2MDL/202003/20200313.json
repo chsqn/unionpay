@@ -1,0 +1,13 @@
+{
+  "exchangeRateId" : 1972891,
+  "curDate" : 1584028800000,
+  "baseCurrency" : "CNY",
+  "transactionCurrency" : "MDL",
+  "exchangeRate" : 0.40365137,
+  "createDate" : 1584028800000,
+  "createUser" : 55,
+  "updateDate" : 1584028800000,
+  "updateUser" : 55,
+  "effectiveDate" : 1584088094000,
+  "transactionCurrencyOption" : null
+}

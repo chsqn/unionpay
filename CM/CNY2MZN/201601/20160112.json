@@ -1,0 +1,13 @@
+{
+  "exchangeRateId" : 2016322814,
+  "curDate" : 1452528000000,
+  "baseCurrency" : "CNY",
+  "transactionCurrency" : "MZN",
+  "exchangeRate" : 0.1422,
+  "createDate" : 1452528000000,
+  "createUser" : 55,
+  "updateDate" : 1452528000000,
+  "updateUser" : 55,
+  "effectiveDate" : null,
+  "transactionCurrencyOption" : null
+}

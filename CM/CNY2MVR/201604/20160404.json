@@ -1,0 +1,13 @@
+{
+  "exchangeRateId" : 2016828114,
+  "curDate" : 1459699200000,
+  "baseCurrency" : "CNY",
+  "transactionCurrency" : "MVR",
+  "exchangeRate" : 0.4212,
+  "createDate" : 1459699200000,
+  "createUser" : 55,
+  "updateDate" : 1459699200000,
+  "updateUser" : 55,
+  "effectiveDate" : null,
+  "transactionCurrencyOption" : null
+}

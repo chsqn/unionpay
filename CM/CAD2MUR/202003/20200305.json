@@ -1,0 +1,13 @@
+{
+  "exchangeRateId" : 1961292,
+  "curDate" : 1583337600000,
+  "baseCurrency" : "CAD",
+  "transactionCurrency" : "MUR",
+  "exchangeRate" : 0.03616577,
+  "createDate" : 1583337600000,
+  "createUser" : 55,
+  "updateDate" : 1583337600000,
+  "updateUser" : 55,
+  "effectiveDate" : 1583396758000,
+  "transactionCurrencyOption" : null
+}

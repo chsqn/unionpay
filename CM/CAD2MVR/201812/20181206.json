@@ -1,0 +1,13 @@
+{
+  "exchangeRateId" : 1337213,
+  "curDate" : 1544025600000,
+  "baseCurrency" : "CAD",
+  "transactionCurrency" : "MVR",
+  "exchangeRate" : 0.087122075,
+  "createDate" : 1544025600000,
+  "createUser" : 55,
+  "updateDate" : 1544025600000,
+  "updateUser" : 55,
+  "effectiveDate" : 1544085001000,
+  "transactionCurrencyOption" : null
+}

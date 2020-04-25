@@ -1,0 +1,13 @@
+{
+  "exchangeRateId" : 1587347,
+  "curDate" : 1559750400000,
+  "baseCurrency" : "CNY",
+  "transactionCurrency" : "MNT",
+  "exchangeRate" : 0.002625099,
+  "createDate" : 1559750400000,
+  "createUser" : 55,
+  "updateDate" : 1559750400000,
+  "updateUser" : 55,
+  "effectiveDate" : 1559809707000,
+  "transactionCurrencyOption" : null
+}

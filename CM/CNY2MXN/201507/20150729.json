@@ -1,0 +1,13 @@
+{
+  "exchangeRateId" : 2015858344,
+  "curDate" : 1438099200000,
+  "baseCurrency" : "CNY",
+  "transactionCurrency" : "MXN",
+  "exchangeRate" : 0.3834,
+  "createDate" : 1438099200000,
+  "createUser" : 55,
+  "updateDate" : 1438099200000,
+  "updateUser" : 55,
+  "effectiveDate" : null,
+  "transactionCurrencyOption" : null
+}

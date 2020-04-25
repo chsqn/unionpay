@@ -1,0 +1,13 @@
+{
+  "exchangeRateId" : 1135341,
+  "curDate" : 1531152000000,
+  "baseCurrency" : "CAD",
+  "transactionCurrency" : "MRO",
+  "exchangeRate" : 0.003689905,
+  "createDate" : 1531152000000,
+  "createUser" : 55,
+  "updateDate" : 1531152000000,
+  "updateUser" : 55,
+  "effectiveDate" : 1531211127000,
+  "transactionCurrencyOption" : null
+}

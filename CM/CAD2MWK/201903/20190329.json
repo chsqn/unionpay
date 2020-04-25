@@ -1,0 +1,13 @@
+{
+  "exchangeRateId" : 1493702,
+  "curDate" : 1553788800000,
+  "baseCurrency" : "CAD",
+  "transactionCurrency" : "MWK",
+  "exchangeRate" : 0.001849969,
+  "createDate" : 1553788800000,
+  "createUser" : 55,
+  "updateDate" : 1553788800000,
+  "updateUser" : 55,
+  "effectiveDate" : 1553848200000,
+  "transactionCurrencyOption" : null
+}

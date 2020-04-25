@@ -1,0 +1,13 @@
+{
+  "exchangeRateId" : 2016087453,
+  "curDate" : 1444060800000,
+  "baseCurrency" : "CNY",
+  "transactionCurrency" : "MOP",
+  "exchangeRate" : 0.7993,
+  "createDate" : 1444060800000,
+  "createUser" : 55,
+  "updateDate" : 1444060800000,
+  "updateUser" : 55,
+  "effectiveDate" : null,
+  "transactionCurrencyOption" : null
+}

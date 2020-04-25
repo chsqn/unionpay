@@ -1,0 +1,13 @@
+{
+  "exchangeRateId" : 1171362,
+  "curDate" : 1533484800000,
+  "baseCurrency" : "CAD",
+  "transactionCurrency" : "MMK",
+  "exchangeRate" : 8.90712E-4,
+  "createDate" : 1533484800000,
+  "createUser" : 55,
+  "updateDate" : 1533484800000,
+  "updateUser" : 55,
+  "effectiveDate" : 1533544045000,
+  "transactionCurrencyOption" : null
+}

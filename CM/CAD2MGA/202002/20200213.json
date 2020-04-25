@@ -1,0 +1,13 @@
+{
+  "exchangeRateId" : 1930745,
+  "curDate" : 1581523200000,
+  "baseCurrency" : "CAD",
+  "transactionCurrency" : "MGA",
+  "exchangeRate" : 3.5914E-4,
+  "createDate" : 1581523200000,
+  "createUser" : 55,
+  "updateDate" : 1581523200000,
+  "updateUser" : 55,
+  "effectiveDate" : 1581582603000,
+  "transactionCurrencyOption" : null
+}

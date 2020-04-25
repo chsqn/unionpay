@@ -1,0 +1,13 @@
+{
+  "exchangeRateId" : 1757021,
+  "curDate" : 1570550400000,
+  "baseCurrency" : "CAD",
+  "transactionCurrency" : "MOP",
+  "exchangeRate" : 0.165769571,
+  "createDate" : 1570550400000,
+  "createUser" : 55,
+  "updateDate" : 1570550400000,
+  "updateUser" : 55,
+  "effectiveDate" : 1570610124000,
+  "transactionCurrencyOption" : null
+}

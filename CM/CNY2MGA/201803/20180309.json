@@ -1,0 +1,13 @@
+{
+  "exchangeRateId" : 970502,
+  "curDate" : 1520524800000,
+  "baseCurrency" : "CNY",
+  "transactionCurrency" : "MGA",
+  "exchangeRate" : 0.002085763,
+  "createDate" : 1520524800000,
+  "createUser" : 55,
+  "updateDate" : 1520524800000,
+  "updateUser" : 55,
+  "effectiveDate" : 1520584237000,
+  "transactionCurrencyOption" : null
+}

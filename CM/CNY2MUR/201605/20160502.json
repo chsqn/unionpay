@@ -1,0 +1,13 @@
+{
+  "exchangeRateId" : 2016971975,
+  "curDate" : 1462118400000,
+  "baseCurrency" : "CNY",
+  "transactionCurrency" : "MUR",
+  "exchangeRate" : 0.1868,
+  "createDate" : 1462118400000,
+  "createUser" : 55,
+  "updateDate" : 1462118400000,
+  "updateUser" : 55,
+  "effectiveDate" : null,
+  "transactionCurrencyOption" : null
+}
