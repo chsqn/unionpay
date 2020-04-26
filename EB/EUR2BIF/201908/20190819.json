@@ -1,0 +1,13 @@
+{
+  "exchangeRateId" : 1686649,
+  "curDate" : 1566144000000,
+  "baseCurrency" : "EUR",
+  "transactionCurrency" : "BIF",
+  "exchangeRate" : 4.91943E-4,
+  "createDate" : 1566144000000,
+  "createUser" : 55,
+  "updateDate" : 1566144000000,
+  "updateUser" : 55,
+  "effectiveDate" : 1566203253000,
+  "transactionCurrencyOption" : null
+}
