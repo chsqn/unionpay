@@ -1,0 +1,13 @@
+{
+  "exchangeRateId" : 2016080015,
+  "curDate" : 1443715200000,
+  "baseCurrency" : "CNY",
+  "transactionCurrency" : "JOD",
+  "exchangeRate" : 9.0218,
+  "createDate" : 1443715200000,
+  "createUser" : 55,
+  "updateDate" : 1443715200000,
+  "updateUser" : 55,
+  "effectiveDate" : null,
+  "transactionCurrencyOption" : null
+}
