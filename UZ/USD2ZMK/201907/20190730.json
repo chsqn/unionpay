@@ -1,0 +1,13 @@
+{
+  "exchangeRateId" : 1661351,
+  "curDate" : 1564416000000,
+  "baseCurrency" : "USD",
+  "transactionCurrency" : "ZMK",
+  "exchangeRate" : 1.93072E-4,
+  "createDate" : 1564416000000,
+  "createUser" : 55,
+  "updateDate" : 1564416000000,
+  "updateUser" : 55,
+  "effectiveDate" : 1564475174000,
+  "transactionCurrencyOption" : null
+}
