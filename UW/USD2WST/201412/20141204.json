@@ -1,0 +1,13 @@
+{
+  "exchangeRateId" : 2015234613,
+  "curDate" : 1417622400000,
+  "baseCurrency" : "USD",
+  "transactionCurrency" : "WST",
+  "exchangeRate" : 0.4198,
+  "createDate" : 1417622400000,
+  "createUser" : 55,
+  "updateDate" : 1417622400000,
+  "updateUser" : 55,
+  "effectiveDate" : null,
+  "transactionCurrencyOption" : null
+}
