@@ -1,0 +1,13 @@
+{
+  "exchangeRateId" : 1651795,
+  "curDate" : 1563811200000,
+  "baseCurrency" : "USD",
+  "transactionCurrency" : "UAH",
+  "exchangeRate" : 0.03911129,
+  "createDate" : 1563811200000,
+  "createUser" : 55,
+  "updateDate" : 1563811200000,
+  "updateUser" : 55,
+  "effectiveDate" : 1563870632000,
+  "transactionCurrencyOption" : null
+}

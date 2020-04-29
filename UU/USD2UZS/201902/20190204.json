@@ -1,0 +1,13 @@
+{
+  "exchangeRateId" : 1420911,
+  "curDate" : 1549209600000,
+  "baseCurrency" : "USD",
+  "transactionCurrency" : "UZS",
+  "exchangeRate" : 1.21695E-4,
+  "createDate" : 1549209600000,
+  "createUser" : 55,
+  "updateDate" : 1549209600000,
+  "updateUser" : 55,
+  "effectiveDate" : 1549267685000,
+  "transactionCurrencyOption" : null
+}

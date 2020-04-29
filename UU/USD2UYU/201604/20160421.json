@@ -1,0 +1,13 @@
+{
+  "exchangeRateId" : 2016952001,
+  "curDate" : 1461168000000,
+  "baseCurrency" : "USD",
+  "transactionCurrency" : "UYU",
+  "exchangeRate" : 0.0315,
+  "createDate" : 1461254400000,
+  "createUser" : 744090,
+  "updateDate" : 1461254400000,
+  "updateUser" : 744090,
+  "effectiveDate" : null,
+  "transactionCurrencyOption" : null
+}

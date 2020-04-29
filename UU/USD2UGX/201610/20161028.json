@@ -1,0 +1,13 @@
+{
+  "exchangeRateId" : 2017432690,
+  "curDate" : 1477584000000,
+  "baseCurrency" : "USD",
+  "transactionCurrency" : "UGX",
+  "exchangeRate" : 3.0E-4,
+  "createDate" : 1477584000000,
+  "createUser" : 55,
+  "updateDate" : 1477584000000,
+  "updateUser" : 55,
+  "effectiveDate" : null,
+  "transactionCurrencyOption" : null
+}
