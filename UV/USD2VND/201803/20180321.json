@@ -1,0 +1,13 @@
+{
+  "exchangeRateId" : 987158,
+  "curDate" : 1521561600000,
+  "baseCurrency" : "USD",
+  "transactionCurrency" : "VND",
+  "exchangeRate" : 4.4041E-5,
+  "createDate" : 1521561600000,
+  "createUser" : 55,
+  "updateDate" : 1521561600000,
+  "updateUser" : 55,
+  "effectiveDate" : 1521620747000,
+  "transactionCurrencyOption" : null
+}

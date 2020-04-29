@@ -1,0 +1,13 @@
+{
+  "exchangeRateId" : 1224371,
+  "curDate" : 1536681600000,
+  "baseCurrency" : "USD",
+  "transactionCurrency" : "VUV",
+  "exchangeRate" : 0.008861678,
+  "createDate" : 1536681600000,
+  "createUser" : 55,
+  "updateDate" : 1536681600000,
+  "updateUser" : 55,
+  "effectiveDate" : 1536741031000,
+  "transactionCurrencyOption" : null
+}

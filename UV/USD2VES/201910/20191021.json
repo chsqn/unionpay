@@ -1,0 +1,13 @@
+{
+  "exchangeRateId" : 1773933,
+  "curDate" : 1571587200000,
+  "baseCurrency" : "USD",
+  "transactionCurrency" : "VES",
+  "exchangeRate" : 5.362E-5,
+  "createDate" : 1571587200000,
+  "createUser" : 55,
+  "updateDate" : 1571587200000,
+  "updateUser" : 55,
+  "effectiveDate" : 1571646498000,
+  "transactionCurrencyOption" : null
+}

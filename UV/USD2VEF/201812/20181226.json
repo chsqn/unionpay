@@ -1,0 +1,13 @@
+{
+  "exchangeRateId" : 1365568,
+  "curDate" : 1545753600000,
+  "baseCurrency" : "USD",
+  "transactionCurrency" : "VEF",
+  "exchangeRate" : 4.032E-6,
+  "createDate" : 1545753600000,
+  "createUser" : 55,
+  "updateDate" : 1545753600000,
+  "updateUser" : 55,
+  "effectiveDate" : 1545813110000,
+  "transactionCurrencyOption" : null
+}
