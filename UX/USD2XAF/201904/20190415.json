@@ -1,0 +1,13 @@
+{
+  "exchangeRateId" : 1516337,
+  "curDate" : 1555257600000,
+  "baseCurrency" : "USD",
+  "transactionCurrency" : "XAF",
+  "exchangeRate" : 0.001634097,
+  "createDate" : 1555257600000,
+  "createUser" : 55,
+  "updateDate" : 1555257600000,
+  "updateUser" : 55,
+  "effectiveDate" : 1555316762000,
+  "transactionCurrencyOption" : null
+}

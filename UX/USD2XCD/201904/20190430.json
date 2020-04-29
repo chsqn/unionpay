@@ -1,0 +1,13 @@
+{
+  "exchangeRateId" : 1537326,
+  "curDate" : 1556553600000,
+  "baseCurrency" : "USD",
+  "transactionCurrency" : "XCD",
+  "exchangeRate" : 0.370114032,
+  "createDate" : 1556553600000,
+  "createUser" : 55,
+  "updateDate" : 1556553600000,
+  "updateUser" : 55,
+  "effectiveDate" : 1556613374000,
+  "transactionCurrencyOption" : null
+}

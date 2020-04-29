@@ -1,0 +1,13 @@
+{
+  "exchangeRateId" : 1693784,
+  "curDate" : 1566403200000,
+  "baseCurrency" : "USD",
+  "transactionCurrency" : "XPF",
+  "exchangeRate" : 0.009319419,
+  "createDate" : 1566403200000,
+  "createUser" : 55,
+  "updateDate" : 1566403200000,
+  "updateUser" : 55,
+  "effectiveDate" : 1566462351000,
+  "transactionCurrencyOption" : null
+}

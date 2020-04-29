@@ -1,0 +1,13 @@
+{
+  "exchangeRateId" : 979575,
+  "curDate" : 1521043200000,
+  "baseCurrency" : "USD",
+  "transactionCurrency" : "XOF",
+  "exchangeRate" : 0.001895331,
+  "createDate" : 1521043200000,
+  "createUser" : 55,
+  "updateDate" : 1521043200000,
+  "updateUser" : 55,
+  "effectiveDate" : 1521102149000,
+  "transactionCurrencyOption" : null
+}
