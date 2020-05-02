@@ -1,0 +1,13 @@
+{
+  "exchangeRateId" : 1409446,
+  "curDate" : 1548345600000,
+  "baseCurrency" : "USD",
+  "transactionCurrency" : "TZS",
+  "exchangeRate" : 4.34015E-4,
+  "createDate" : 1548345600000,
+  "createUser" : 55,
+  "updateDate" : 1548345600000,
+  "updateUser" : 55,
+  "effectiveDate" : 1548405087000,
+  "transactionCurrencyOption" : null
+}

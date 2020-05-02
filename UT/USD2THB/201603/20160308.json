@@ -1,0 +1,13 @@
+{
+  "exchangeRateId" : 2016763871,
+  "curDate" : 1457366400000,
+  "baseCurrency" : "USD",
+  "transactionCurrency" : "THB",
+  "exchangeRate" : 0.0284,
+  "createDate" : 1457366400000,
+  "createUser" : 55,
+  "updateDate" : 1457366400000,
+  "updateUser" : 55,
+  "effectiveDate" : null,
+  "transactionCurrencyOption" : null
+}

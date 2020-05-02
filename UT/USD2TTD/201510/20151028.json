@@ -1,0 +1,13 @@
+{
+  "exchangeRateId" : 2016146555,
+  "curDate" : 1445961600000,
+  "baseCurrency" : "USD",
+  "transactionCurrency" : "TTD",
+  "exchangeRate" : 0.1579,
+  "createDate" : 1445961600000,
+  "createUser" : 55,
+  "updateDate" : 1445961600000,
+  "updateUser" : 55,
+  "effectiveDate" : null,
+  "transactionCurrencyOption" : null
+}

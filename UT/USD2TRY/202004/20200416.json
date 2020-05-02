@@ -1,0 +1,13 @@
+{
+  "exchangeRateId" : 2020167,
+  "curDate" : 1586966400000,
+  "baseCurrency" : "USD",
+  "transactionCurrency" : "TRY",
+  "exchangeRate" : 0.14550747,
+  "createDate" : 1586966400000,
+  "createUser" : 55,
+  "updateDate" : 1586966400000,
+  "updateUser" : 55,
+  "effectiveDate" : 1587025572000,
+  "transactionCurrencyOption" : null
+}

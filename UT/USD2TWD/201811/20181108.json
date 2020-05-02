@@ -1,0 +1,13 @@
+{
+  "exchangeRateId" : 1300689,
+  "curDate" : 1541606400000,
+  "baseCurrency" : "USD",
+  "transactionCurrency" : "TWD",
+  "exchangeRate" : 0.032763655,
+  "createDate" : 1541606400000,
+  "createUser" : 55,
+  "updateDate" : 1541606400000,
+  "updateUser" : 55,
+  "effectiveDate" : 1541665545000,
+  "transactionCurrencyOption" : null
+}

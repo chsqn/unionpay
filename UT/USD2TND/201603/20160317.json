@@ -1,0 +1,13 @@
+{
+  "exchangeRateId" : 2016788315,
+  "curDate" : 1458144000000,
+  "baseCurrency" : "USD",
+  "transactionCurrency" : "TND",
+  "exchangeRate" : 0.4992,
+  "createDate" : 1458144000000,
+  "createUser" : 55,
+  "updateDate" : 1458144000000,
+  "updateUser" : 55,
+  "effectiveDate" : null,
+  "transactionCurrencyOption" : null
+}

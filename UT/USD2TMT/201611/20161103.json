@@ -1,0 +1,13 @@
+{
+  "exchangeRateId" : 2017447242,
+  "curDate" : 1478102400000,
+  "baseCurrency" : "USD",
+  "transactionCurrency" : "TMT",
+  "exchangeRate" : 0.287,
+  "createDate" : 1478102400000,
+  "createUser" : 55,
+  "updateDate" : 1478102400000,
+  "updateUser" : 55,
+  "effectiveDate" : null,
+  "transactionCurrencyOption" : null
+}

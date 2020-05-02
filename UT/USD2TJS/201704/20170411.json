@@ -1,0 +1,13 @@
+{
+  "exchangeRateId" : 231140,
+  "curDate" : 1491840000000,
+  "baseCurrency" : "USD",
+  "transactionCurrency" : "TJS",
+  "exchangeRate" : 0.119645848,
+  "createDate" : 1491840000000,
+  "createUser" : 55,
+  "updateDate" : 1491840000000,
+  "updateUser" : 55,
+  "effectiveDate" : null,
+  "transactionCurrencyOption" : null
+}
