@@ -1,0 +1,13 @@
+{
+  "exchangeRateId" : 1976263,
+  "curDate" : 1584288000000,
+  "baseCurrency" : "USD",
+  "transactionCurrency" : "SAR",
+  "exchangeRate" : 0.26695191,
+  "createDate" : 1584288000000,
+  "createUser" : 55,
+  "updateDate" : 1584288000000,
+  "updateUser" : 55,
+  "effectiveDate" : 1584347604000,
+  "transactionCurrencyOption" : null
+}

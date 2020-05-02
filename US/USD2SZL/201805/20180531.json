@@ -1,0 +1,13 @@
+{
+  "exchangeRateId" : 1095246,
+  "curDate" : 1527696000000,
+  "baseCurrency" : "USD",
+  "transactionCurrency" : "SZL",
+  "exchangeRate" : 0.079927725,
+  "createDate" : 1528646400000,
+  "createUser" : 55,
+  "updateDate" : 1528646400000,
+  "updateUser" : 55,
+  "effectiveDate" : 1528700260000,
+  "transactionCurrencyOption" : null
+}

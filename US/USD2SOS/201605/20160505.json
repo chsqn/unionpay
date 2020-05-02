@@ -1,0 +1,13 @@
+{
+  "exchangeRateId" : 2016982543,
+  "curDate" : 1462377600000,
+  "baseCurrency" : "USD",
+  "transactionCurrency" : "SOS",
+  "exchangeRate" : 0.0017,
+  "createDate" : 1462377600000,
+  "createUser" : 55,
+  "updateDate" : 1462377600000,
+  "updateUser" : 55,
+  "effectiveDate" : null,
+  "transactionCurrencyOption" : null
+}

@@ -1,0 +1,13 @@
+{
+  "exchangeRateId" : 1222434,
+  "curDate" : 1536595200000,
+  "baseCurrency" : "USD",
+  "transactionCurrency" : "SDG",
+  "exchangeRate" : 0.055630134,
+  "createDate" : 1536595200000,
+  "createUser" : 55,
+  "updateDate" : 1536595200000,
+  "updateUser" : 55,
+  "effectiveDate" : 1536654511000,
+  "transactionCurrencyOption" : null
+}

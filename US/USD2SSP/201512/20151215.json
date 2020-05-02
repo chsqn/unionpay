@@ -1,0 +1,13 @@
+{
+  "exchangeRateId" : 2016259774,
+  "curDate" : 1450108800000,
+  "baseCurrency" : "USD",
+  "transactionCurrency" : "SSP",
+  "exchangeRate" : 0.3329,
+  "createDate" : 1450108800000,
+  "createUser" : 55,
+  "updateDate" : 1450108800000,
+  "updateUser" : 55,
+  "effectiveDate" : null,
+  "transactionCurrencyOption" : null
+}

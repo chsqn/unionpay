@@ -1,0 +1,13 @@
+{
+  "exchangeRateId" : 1023174,
+  "curDate" : 1523894400000,
+  "baseCurrency" : "USD",
+  "transactionCurrency" : "SHP",
+  "exchangeRate" : 1.437612839,
+  "createDate" : 1523894400000,
+  "createUser" : 55,
+  "updateDate" : 1523894400000,
+  "updateUser" : 55,
+  "effectiveDate" : 1523953322000,
+  "transactionCurrencyOption" : null
+}

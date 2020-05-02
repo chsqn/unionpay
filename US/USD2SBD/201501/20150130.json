@@ -1,0 +1,13 @@
+{
+  "exchangeRateId" : 2015357372,
+  "curDate" : 1422547200000,
+  "baseCurrency" : "USD",
+  "transactionCurrency" : "SBD",
+  "exchangeRate" : 0.1315,
+  "createDate" : 1422547200000,
+  "createUser" : 55,
+  "updateDate" : 1422547200000,
+  "updateUser" : 55,
+  "effectiveDate" : null,
+  "transactionCurrencyOption" : null
+}

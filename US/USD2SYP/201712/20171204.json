@@ -1,0 +1,13 @@
+{
+  "exchangeRateId" : 841265,
+  "curDate" : 1512316800000,
+  "baseCurrency" : "USD",
+  "transactionCurrency" : "SYP",
+  "exchangeRate" : 0.001946456,
+  "createDate" : 1512316800000,
+  "createUser" : 55,
+  "updateDate" : 1512316800000,
+  "updateUser" : 55,
+  "effectiveDate" : 1512376234000,
+  "transactionCurrencyOption" : null
+}

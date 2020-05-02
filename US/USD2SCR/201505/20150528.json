@@ -1,0 +1,13 @@
+{
+  "exchangeRateId" : 2015724528,
+  "curDate" : 1432742400000,
+  "baseCurrency" : "USD",
+  "transactionCurrency" : "SCR",
+  "exchangeRate" : 0.0752,
+  "createDate" : 1432742400000,
+  "createUser" : 55,
+  "updateDate" : 1432742400000,
+  "updateUser" : 55,
+  "effectiveDate" : null,
+  "transactionCurrencyOption" : null
+}

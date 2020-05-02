@@ -1,0 +1,13 @@
+{
+  "exchangeRateId" : 970072,
+  "curDate" : 1520438400000,
+  "baseCurrency" : "USD",
+  "transactionCurrency" : "SVC",
+  "exchangeRate" : 0.114566755,
+  "createDate" : 1520438400000,
+  "createUser" : 55,
+  "updateDate" : 1520438400000,
+  "updateUser" : 55,
+  "effectiveDate" : 1520498268000,
+  "transactionCurrencyOption" : null
+}

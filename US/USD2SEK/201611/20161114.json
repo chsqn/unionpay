@@ -1,0 +1,13 @@
+{
+  "exchangeRateId" : 2017468574,
+  "curDate" : 1479052800000,
+  "baseCurrency" : "USD",
+  "transactionCurrency" : "SEK",
+  "exchangeRate" : 0.1098,
+  "createDate" : 1479052800000,
+  "createUser" : 744090,
+  "updateDate" : 1479052800000,
+  "updateUser" : 744090,
+  "effectiveDate" : null,
+  "transactionCurrencyOption" : null
+}

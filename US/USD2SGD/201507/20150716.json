@@ -1,0 +1,13 @@
+{
+  "exchangeRateId" : 2015832333,
+  "curDate" : 1436976000000,
+  "baseCurrency" : "USD",
+  "transactionCurrency" : "SGD",
+  "exchangeRate" : 0.7334,
+  "createDate" : 1436976000000,
+  "createUser" : 55,
+  "updateDate" : 1436976000000,
+  "updateUser" : 55,
+  "effectiveDate" : null,
+  "transactionCurrencyOption" : null
+}

@@ -1,0 +1,13 @@
+{
+  "exchangeRateId" : 1070575,
+  "curDate" : 1526918400000,
+  "baseCurrency" : "USD",
+  "transactionCurrency" : "SLL",
+  "exchangeRate" : 1.27528E-4,
+  "createDate" : 1526918400000,
+  "createUser" : 55,
+  "updateDate" : 1526918400000,
+  "updateUser" : 55,
+  "effectiveDate" : 1526977346000,
+  "transactionCurrencyOption" : null
+}

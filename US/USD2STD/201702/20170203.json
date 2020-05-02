@@ -1,0 +1,13 @@
+{
+  "exchangeRateId" : 74452,
+  "curDate" : 1486051200000,
+  "baseCurrency" : "USD",
+  "transactionCurrency" : "STD",
+  "exchangeRate" : 4.4082E-5,
+  "createDate" : 1486051200000,
+  "createUser" : 55,
+  "updateDate" : 1486051200000,
+  "updateUser" : 55,
+  "effectiveDate" : null,
+  "transactionCurrencyOption" : null
+}
