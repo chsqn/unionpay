@@ -1,0 +1,13 @@
+{
+  "exchangeRateId" : 1630780,
+  "curDate" : 1562515200000,
+  "baseCurrency" : "USD",
+  "transactionCurrency" : "RSD",
+  "exchangeRate" : 0.009565677,
+  "createDate" : 1562515200000,
+  "createUser" : 55,
+  "updateDate" : 1562515200000,
+  "updateUser" : 55,
+  "effectiveDate" : 1562574556000,
+  "transactionCurrencyOption" : null
+}

@@ -1,0 +1,13 @@
+{
+  "exchangeRateId" : 2016134043,
+  "curDate" : 1445529600000,
+  "baseCurrency" : "USD",
+  "transactionCurrency" : "RWF",
+  "exchangeRate" : 0.0014,
+  "createDate" : 1445529600000,
+  "createUser" : 55,
+  "updateDate" : 1445529600000,
+  "updateUser" : 55,
+  "effectiveDate" : null,
+  "transactionCurrencyOption" : null
+}

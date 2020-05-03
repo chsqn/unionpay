@@ -1,0 +1,13 @@
+{
+  "exchangeRateId" : 2014382219,
+  "curDate" : 1397404800000,
+  "baseCurrency" : "USD",
+  "transactionCurrency" : "RON",
+  "exchangeRate" : 0.3125,
+  "createDate" : 1397404800000,
+  "createUser" : 744090,
+  "updateDate" : 1397404800000,
+  "updateUser" : 744090,
+  "effectiveDate" : null,
+  "transactionCurrencyOption" : null
+}

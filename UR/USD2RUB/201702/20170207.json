@@ -1,0 +1,13 @@
+{
+  "exchangeRateId" : 80563,
+  "curDate" : 1486396800000,
+  "baseCurrency" : "USD",
+  "transactionCurrency" : "RUB",
+  "exchangeRate" : 0.017050074,
+  "createDate" : 1486396800000,
+  "createUser" : 55,
+  "updateDate" : 1486396800000,
+  "updateUser" : 55,
+  "effectiveDate" : null,
+  "transactionCurrencyOption" : null
+}
