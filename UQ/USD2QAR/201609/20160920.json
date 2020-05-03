@@ -1,0 +1,13 @@
+{
+  "exchangeRateId" : 2017342689,
+  "curDate" : 1474300800000,
+  "baseCurrency" : "USD",
+  "transactionCurrency" : "QAR",
+  "exchangeRate" : 0.2754,
+  "createDate" : 1474300800000,
+  "createUser" : 55,
+  "updateDate" : 1474300800000,
+  "updateUser" : 55,
+  "effectiveDate" : null,
+  "transactionCurrencyOption" : null
+}
