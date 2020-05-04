@@ -1,0 +1,13 @@
+{
+  "exchangeRateId" : 1731850,
+  "curDate" : 1568822400000,
+  "baseCurrency" : "USD",
+  "transactionCurrency" : "EGP",
+  "exchangeRate" : 0.061346118,
+  "createDate" : 1568822400000,
+  "createUser" : 55,
+  "updateDate" : 1568822400000,
+  "updateUser" : 55,
+  "effectiveDate" : 1568881606000,
+  "transactionCurrencyOption" : null
+}

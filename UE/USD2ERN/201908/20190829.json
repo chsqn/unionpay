@@ -1,0 +1,13 @@
+{
+  "exchangeRateId" : 1703211,
+  "curDate" : 1567008000000,
+  "baseCurrency" : "USD",
+  "transactionCurrency" : "ERN",
+  "exchangeRate" : 0.066534595,
+  "createDate" : 1567008000000,
+  "createUser" : 55,
+  "updateDate" : 1567008000000,
+  "updateUser" : 55,
+  "effectiveDate" : 1567067207000,
+  "transactionCurrencyOption" : null
+}

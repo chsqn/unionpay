@@ -1,0 +1,13 @@
+{
+  "exchangeRateId" : 960505,
+  "curDate" : 1519833600000,
+  "baseCurrency" : "USD",
+  "transactionCurrency" : "ETB",
+  "exchangeRate" : 0.036588275,
+  "createDate" : 1519833600000,
+  "createUser" : 55,
+  "updateDate" : 1519833600000,
+  "updateUser" : 55,
+  "effectiveDate" : 1519892675000,
+  "transactionCurrencyOption" : null
+}

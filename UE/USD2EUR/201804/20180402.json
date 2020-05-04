@@ -1,0 +1,13 @@
+{
+  "exchangeRateId" : 1002238,
+  "curDate" : 1522598400000,
+  "baseCurrency" : "USD",
+  "transactionCurrency" : "EUR",
+  "exchangeRate" : 1.236359077,
+  "createDate" : 1522598400000,
+  "createUser" : 55,
+  "updateDate" : 1522598400000,
+  "updateUser" : 55,
+  "effectiveDate" : 1522657412000,
+  "transactionCurrencyOption" : null
+}
