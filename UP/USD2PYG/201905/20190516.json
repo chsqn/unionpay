@@ -1,0 +1,13 @@
+{
+  "exchangeRateId" : 1560181,
+  "curDate" : 1557936000000,
+  "baseCurrency" : "USD",
+  "transactionCurrency" : "PYG",
+  "exchangeRate" : 1.57113E-4,
+  "createDate" : 1557936000000,
+  "createUser" : 55,
+  "updateDate" : 1557936000000,
+  "updateUser" : 55,
+  "effectiveDate" : 1557995527000,
+  "transactionCurrencyOption" : null
+}

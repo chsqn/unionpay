@@ -1,0 +1,13 @@
+{
+  "exchangeRateId" : 843124,
+  "curDate" : 1512403200000,
+  "baseCurrency" : "USD",
+  "transactionCurrency" : "PAB",
+  "exchangeRate" : 1.003009027,
+  "createDate" : 1512403200000,
+  "createUser" : 55,
+  "updateDate" : 1512403200000,
+  "updateUser" : 55,
+  "effectiveDate" : 1512462288000,
+  "transactionCurrencyOption" : null
+}

@@ -1,0 +1,13 @@
+{
+  "exchangeRateId" : 2015913409,
+  "curDate" : 1438876800000,
+  "baseCurrency" : "USD",
+  "transactionCurrency" : "PGK",
+  "exchangeRate" : 0.3627,
+  "createDate" : 1438876800000,
+  "createUser" : 55,
+  "updateDate" : 1438876800000,
+  "updateUser" : 55,
+  "effectiveDate" : null,
+  "transactionCurrencyOption" : null
+}

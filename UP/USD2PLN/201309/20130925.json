@@ -1,0 +1,13 @@
+{
+  "exchangeRateId" : 2014033985,
+  "curDate" : 1380038400000,
+  "baseCurrency" : "USD",
+  "transactionCurrency" : "PLN",
+  "exchangeRate" : 0.3214,
+  "createDate" : 1386086400000,
+  "createUser" : 1,
+  "updateDate" : 1386086400000,
+  "updateUser" : 1,
+  "effectiveDate" : null,
+  "transactionCurrencyOption" : null
+}

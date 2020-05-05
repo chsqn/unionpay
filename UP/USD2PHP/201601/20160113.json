@@ -1,0 +1,13 @@
+{
+  "exchangeRateId" : 2016327080,
+  "curDate" : 1452614400000,
+  "baseCurrency" : "USD",
+  "transactionCurrency" : "PHP",
+  "exchangeRate" : 0.0212,
+  "createDate" : 1452614400000,
+  "createUser" : 55,
+  "updateDate" : 1452614400000,
+  "updateUser" : 55,
+  "effectiveDate" : null,
+  "transactionCurrencyOption" : null
+}

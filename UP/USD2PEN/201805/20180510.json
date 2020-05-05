@@ -1,0 +1,13 @@
+{
+  "exchangeRateId" : 1055389,
+  "curDate" : 1525881600000,
+  "baseCurrency" : "USD",
+  "transactionCurrency" : "PEN",
+  "exchangeRate" : 0.304551232,
+  "createDate" : 1525881600000,
+  "createUser" : 55,
+  "updateDate" : 1525881600000,
+  "updateUser" : 55,
+  "effectiveDate" : 1525940970000,
+  "transactionCurrencyOption" : null
+}
