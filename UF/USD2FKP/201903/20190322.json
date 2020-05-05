@@ -1,0 +1,13 @@
+{
+  "exchangeRateId" : 1485687,
+  "curDate" : 1553184000000,
+  "baseCurrency" : "USD",
+  "transactionCurrency" : "FKP",
+  "exchangeRate" : 1.325977934,
+  "createDate" : 1553184000000,
+  "createUser" : 55,
+  "updateDate" : 1553184000000,
+  "updateUser" : 55,
+  "effectiveDate" : 1553243402000,
+  "transactionCurrencyOption" : null
+}

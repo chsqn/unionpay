@@ -1,0 +1,13 @@
+{
+  "exchangeRateId" : 2016964196,
+  "curDate" : 1461686400000,
+  "baseCurrency" : "USD",
+  "transactionCurrency" : "FJD",
+  "exchangeRate" : 0.4877,
+  "createDate" : 1461686400000,
+  "createUser" : 55,
+  "updateDate" : 1461686400000,
+  "updateUser" : 55,
+  "effectiveDate" : null,
+  "transactionCurrencyOption" : null
+}
