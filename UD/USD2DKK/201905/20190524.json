@@ -1,0 +1,13 @@
+{
+  "exchangeRateId" : 1571555,
+  "curDate" : 1558627200000,
+  "baseCurrency" : "USD",
+  "transactionCurrency" : "DKK",
+  "exchangeRate" : 0.150175782,
+  "createDate" : 1558627200000,
+  "createUser" : 55,
+  "updateDate" : 1558627200000,
+  "updateUser" : 55,
+  "effectiveDate" : 1558686874000,
+  "transactionCurrencyOption" : null
+}

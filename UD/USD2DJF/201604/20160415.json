@@ -1,0 +1,13 @@
+{
+  "exchangeRateId" : 2016938397,
+  "curDate" : 1460649600000,
+  "baseCurrency" : "USD",
+  "transactionCurrency" : "DJF",
+  "exchangeRate" : 0.0056,
+  "createDate" : 1460649600000,
+  "createUser" : 55,
+  "updateDate" : 1460736000000,
+  "updateUser" : 55,
+  "effectiveDate" : null,
+  "transactionCurrencyOption" : null
+}

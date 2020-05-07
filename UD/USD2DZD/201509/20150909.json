@@ -1,0 +1,13 @@
+{
+  "exchangeRateId" : 2016022344,
+  "curDate" : 1441728000000,
+  "baseCurrency" : "USD",
+  "transactionCurrency" : "DZD",
+  "exchangeRate" : 0.0095,
+  "createDate" : 1441728000000,
+  "createUser" : 55,
+  "updateDate" : 1441728000000,
+  "updateUser" : 55,
+  "effectiveDate" : null,
+  "transactionCurrencyOption" : null
+}

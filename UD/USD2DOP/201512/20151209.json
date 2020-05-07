@@ -1,0 +1,13 @@
+{
+  "exchangeRateId" : 2016246386,
+  "curDate" : 1449590400000,
+  "baseCurrency" : "USD",
+  "transactionCurrency" : "DOP",
+  "exchangeRate" : 0.0221,
+  "createDate" : 1449590400000,
+  "createUser" : 55,
+  "updateDate" : 1449590400000,
+  "updateUser" : 55,
+  "effectiveDate" : null,
+  "transactionCurrencyOption" : null
+}

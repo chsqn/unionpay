@@ -1,0 +1,13 @@
+{
+  "exchangeRateId" : 85079,
+  "curDate" : 1486483200000,
+  "baseCurrency" : "USD",
+  "transactionCurrency" : "DOP",
+  "exchangeRate" : 0.021503034,
+  "createDate" : 1486483200000,
+  "createUser" : 55,
+  "updateDate" : 1486483200000,
+  "updateUser" : 55,
+  "effectiveDate" : null,
+  "transactionCurrencyOption" : null
+}
