@@ -1,0 +1,13 @@
+{
+  "exchangeRateId" : 2041047,
+  "curDate" : 1588262400000,
+  "baseCurrency" : "USD",
+  "transactionCurrency" : "CLP",
+  "exchangeRate" : 0.00120164,
+  "createDate" : 1588262400000,
+  "createUser" : 2,
+  "updateDate" : 1588262400000,
+  "updateUser" : 2,
+  "effectiveDate" : 1588329000000,
+  "transactionCurrencyOption" : null
+}

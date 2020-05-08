@@ -1,0 +1,13 @@
+{
+  "exchangeRateId" : 1026870,
+  "curDate" : 1524067200000,
+  "baseCurrency" : "USD",
+  "transactionCurrency" : "CDF",
+  "exchangeRate" : 6.2415E-4,
+  "createDate" : 1524067200000,
+  "createUser" : 55,
+  "updateDate" : 1524067200000,
+  "updateUser" : 55,
+  "effectiveDate" : 1524126925000,
+  "transactionCurrencyOption" : null
+}

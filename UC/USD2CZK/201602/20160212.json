@@ -1,0 +1,13 @@
+{
+  "exchangeRateId" : 2016704099,
+  "curDate" : 1455206400000,
+  "baseCurrency" : "USD",
+  "transactionCurrency" : "CZK",
+  "exchangeRate" : 0.042,
+  "createDate" : 1455206400000,
+  "createUser" : 744090,
+  "updateDate" : 1455206400000,
+  "updateUser" : 744090,
+  "effectiveDate" : null,
+  "transactionCurrencyOption" : null
+}

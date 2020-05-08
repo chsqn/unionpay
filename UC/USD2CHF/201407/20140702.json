@@ -1,0 +1,13 @@
+{
+  "exchangeRateId" : 2014530885,
+  "curDate" : 1404230400000,
+  "baseCurrency" : "USD",
+  "transactionCurrency" : "CHF",
+  "exchangeRate" : 1.1318,
+  "createDate" : 1404230400000,
+  "createUser" : 744090,
+  "updateDate" : 1404230400000,
+  "updateUser" : 744090,
+  "effectiveDate" : null,
+  "transactionCurrencyOption" : null
+}

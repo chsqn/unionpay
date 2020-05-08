@@ -1,0 +1,13 @@
+{
+  "exchangeRateId" : 455035,
+  "curDate" : 1499184000000,
+  "baseCurrency" : "USD",
+  "transactionCurrency" : "COP",
+  "exchangeRate" : 3.28747E-4,
+  "createDate" : 1499184000000,
+  "createUser" : 55,
+  "updateDate" : 1499184000000,
+  "updateUser" : 55,
+  "effectiveDate" : null,
+  "transactionCurrencyOption" : null
+}

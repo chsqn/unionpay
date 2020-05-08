@@ -1,0 +1,13 @@
+{
+  "exchangeRateId" : 2017114634,
+  "curDate" : 1466697600000,
+  "baseCurrency" : "USD",
+  "transactionCurrency" : "CUC",
+  "exchangeRate" : 1.03,
+  "createDate" : 1466697600000,
+  "createUser" : 55,
+  "updateDate" : 1466697600000,
+  "updateUser" : 55,
+  "effectiveDate" : null,
+  "transactionCurrencyOption" : null
+}
