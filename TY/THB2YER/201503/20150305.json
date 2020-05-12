@@ -1,0 +1,13 @@
+{
+  "exchangeRateId" : 2015437632,
+  "curDate" : 1425484800000,
+  "baseCurrency" : "THB",
+  "transactionCurrency" : "YER",
+  "exchangeRate" : 0.1517,
+  "createDate" : 1425484800000,
+  "createUser" : 55,
+  "updateDate" : 1425484800000,
+  "updateUser" : 55,
+  "effectiveDate" : null,
+  "transactionCurrencyOption" : null
+}
