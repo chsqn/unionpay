@@ -1,0 +1,13 @@
+{
+  "exchangeRateId" : 374232,
+  "curDate" : 1496592000000,
+  "baseCurrency" : "USD",
+  "transactionCurrency" : "BDT",
+  "exchangeRate" : 0.012413478,
+  "createDate" : 1496592000000,
+  "createUser" : 55,
+  "updateDate" : 1496592000000,
+  "updateUser" : 55,
+  "effectiveDate" : null,
+  "transactionCurrencyOption" : null
+}

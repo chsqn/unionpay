@@ -1,0 +1,13 @@
+{
+  "exchangeRateId" : 2039128,
+  "curDate" : 1588176000000,
+  "baseCurrency" : "USD",
+  "transactionCurrency" : "BOB",
+  "exchangeRate" : 0.14546904,
+  "createDate" : 1588176000000,
+  "createUser" : 55,
+  "updateDate" : 1588176000000,
+  "updateUser" : 55,
+  "effectiveDate" : 1588235370000,
+  "transactionCurrencyOption" : null
+}

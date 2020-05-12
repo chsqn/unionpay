@@ -1,0 +1,13 @@
+{
+  "exchangeRateId" : 2017151367,
+  "curDate" : 1468166400000,
+  "baseCurrency" : "USD",
+  "transactionCurrency" : "BMD",
+  "exchangeRate" : 1.003,
+  "createDate" : 1468166400000,
+  "createUser" : 55,
+  "updateDate" : 1468166400000,
+  "updateUser" : 55,
+  "effectiveDate" : null,
+  "transactionCurrencyOption" : null
+}

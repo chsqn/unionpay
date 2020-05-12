@@ -1,0 +1,13 @@
+{
+  "exchangeRateId" : 1231877,
+  "curDate" : 1537200000000,
+  "baseCurrency" : "USD",
+  "transactionCurrency" : "BYN",
+  "exchangeRate" : 0.471179149,
+  "createDate" : 1537200000000,
+  "createUser" : 55,
+  "updateDate" : 1537200000000,
+  "updateUser" : 55,
+  "effectiveDate" : 1537259607000,
+  "transactionCurrencyOption" : null
+}

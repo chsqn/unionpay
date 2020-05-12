@@ -1,0 +1,13 @@
+{
+  "exchangeRateId" : 2017290633,
+  "curDate" : 1472400000000,
+  "baseCurrency" : "USD",
+  "transactionCurrency" : "BHD",
+  "exchangeRate" : 2.6604,
+  "createDate" : 1472400000000,
+  "createUser" : 55,
+  "updateDate" : 1472400000000,
+  "updateUser" : 55,
+  "effectiveDate" : null,
+  "transactionCurrencyOption" : null
+}

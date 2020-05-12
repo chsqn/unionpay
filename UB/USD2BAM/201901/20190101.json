@@ -1,0 +1,13 @@
+{
+  "exchangeRateId" : 1373064,
+  "curDate" : 1546272000000,
+  "baseCurrency" : "USD",
+  "transactionCurrency" : "BAM",
+  "exchangeRate" : 0.588036946,
+  "createDate" : 1546272000000,
+  "createUser" : 55,
+  "updateDate" : 1546272000000,
+  "updateUser" : 55,
+  "effectiveDate" : 1546329333000,
+  "transactionCurrencyOption" : null
+}

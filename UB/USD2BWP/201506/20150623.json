@@ -1,0 +1,13 @@
+{
+  "exchangeRateId" : 2015782050,
+  "curDate" : 1434988800000,
+  "baseCurrency" : "USD",
+  "transactionCurrency" : "BWP",
+  "exchangeRate" : 0.1012,
+  "createDate" : 1434988800000,
+  "createUser" : 55,
+  "updateDate" : 1434988800000,
+  "updateUser" : 55,
+  "effectiveDate" : null,
+  "transactionCurrencyOption" : null
+}

@@ -1,0 +1,13 @@
+{
+  "exchangeRateId" : 2016314936,
+  "curDate" : 1452096000000,
+  "baseCurrency" : "USD",
+  "transactionCurrency" : "BRL",
+  "exchangeRate" : 0.2493,
+  "createDate" : 1452096000000,
+  "createUser" : 55,
+  "updateDate" : 1452096000000,
+  "updateUser" : 55,
+  "effectiveDate" : null,
+  "transactionCurrencyOption" : null
+}

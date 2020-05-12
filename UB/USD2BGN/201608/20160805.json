@@ -1,0 +1,13 @@
+{
+  "exchangeRateId" : 2017214318,
+  "curDate" : 1470326400000,
+  "baseCurrency" : "USD",
+  "transactionCurrency" : "BGN",
+  "exchangeRate" : 0.5709,
+  "createDate" : 1470326400000,
+  "createUser" : 55,
+  "updateDate" : 1470326400000,
+  "updateUser" : 55,
+  "effectiveDate" : null,
+  "transactionCurrencyOption" : null
+}

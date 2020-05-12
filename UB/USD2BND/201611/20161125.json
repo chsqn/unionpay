@@ -1,0 +1,13 @@
+{
+  "exchangeRateId" : 2017498758,
+  "curDate" : 1480003200000,
+  "baseCurrency" : "USD",
+  "transactionCurrency" : "BND",
+  "exchangeRate" : 0.7003,
+  "createDate" : 1480003200000,
+  "createUser" : 55,
+  "updateDate" : 1480003200000,
+  "updateUser" : 55,
+  "effectiveDate" : null,
+  "transactionCurrencyOption" : null
+}

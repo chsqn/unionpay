@@ -1,0 +1,13 @@
+{
+  "exchangeRateId" : 521111,
+  "curDate" : 1501430400000,
+  "baseCurrency" : "USD",
+  "transactionCurrency" : "BBD",
+  "exchangeRate" : 0.501103631,
+  "createDate" : 1501430400000,
+  "createUser" : 55,
+  "updateDate" : 1501430400000,
+  "updateUser" : 55,
+  "effectiveDate" : null,
+  "transactionCurrencyOption" : null
+}

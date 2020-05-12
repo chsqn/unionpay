@@ -1,0 +1,13 @@
+{
+  "exchangeRateId" : 1241418,
+  "curDate" : 1537804800000,
+  "baseCurrency" : "USD",
+  "transactionCurrency" : "BYR",
+  "exchangeRate" : 5.1303E-5,
+  "createDate" : 1537804800000,
+  "createUser" : 55,
+  "updateDate" : 1537804800000,
+  "updateUser" : 55,
+  "effectiveDate" : 1537864414000,
+  "transactionCurrencyOption" : null
+}

@@ -1,0 +1,13 @@
+{
+  "exchangeRateId" : 1951351,
+  "curDate" : 1582646400000,
+  "baseCurrency" : "USD",
+  "transactionCurrency" : "BTN",
+  "exchangeRate" : 0.01395336,
+  "createDate" : 1582646400000,
+  "createUser" : 55,
+  "updateDate" : 1582646400000,
+  "updateUser" : 55,
+  "effectiveDate" : 1582705641000,
+  "transactionCurrencyOption" : null
+}
