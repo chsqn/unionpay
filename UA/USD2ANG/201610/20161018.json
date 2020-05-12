@@ -1,0 +1,13 @@
+{
+  "exchangeRateId" : 2017406603,
+  "curDate" : 1476720000000,
+  "baseCurrency" : "USD",
+  "transactionCurrency" : "ANG",
+  "exchangeRate" : 0.5635,
+  "createDate" : 1476720000000,
+  "createUser" : 55,
+  "updateDate" : 1476720000000,
+  "updateUser" : 55,
+  "effectiveDate" : null,
+  "transactionCurrencyOption" : null
+}

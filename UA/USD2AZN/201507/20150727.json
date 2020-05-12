@@ -1,0 +1,13 @@
+{
+  "exchangeRateId" : 2015853807,
+  "curDate" : 1437926400000,
+  "baseCurrency" : "USD",
+  "transactionCurrency" : "AZN",
+  "exchangeRate" : 0.9583,
+  "createDate" : 1437926400000,
+  "createUser" : 55,
+  "updateDate" : 1437926400000,
+  "updateUser" : 55,
+  "effectiveDate" : null,
+  "transactionCurrencyOption" : null
+}

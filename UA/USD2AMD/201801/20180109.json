@@ -1,0 +1,13 @@
+{
+  "exchangeRateId" : 890266,
+  "curDate" : 1515427200000,
+  "baseCurrency" : "USD",
+  "transactionCurrency" : "AMD",
+  "exchangeRate" : 0.002068486,
+  "createDate" : 1515427200000,
+  "createUser" : 55,
+  "updateDate" : 1515427200000,
+  "updateUser" : 55,
+  "effectiveDate" : 1515486388000,
+  "transactionCurrencyOption" : null
+}

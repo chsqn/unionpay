@@ -1,0 +1,13 @@
+{
+  "exchangeRateId" : 77398,
+  "curDate" : 1486310400000,
+  "baseCurrency" : "USD",
+  "transactionCurrency" : "AUD",
+  "exchangeRate" : 0.770301508,
+  "createDate" : 1486310400000,
+  "createUser" : 55,
+  "updateDate" : 1486310400000,
+  "updateUser" : 55,
+  "effectiveDate" : null,
+  "transactionCurrencyOption" : null
+}

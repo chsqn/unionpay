@@ -1,0 +1,13 @@
+{
+  "exchangeRateId" : 2050566,
+  "curDate" : 1588867200000,
+  "baseCurrency" : "USD",
+  "transactionCurrency" : "AWG",
+  "exchangeRate" : 0.55414863,
+  "createDate" : 1588867200000,
+  "createUser" : 55,
+  "updateDate" : 1588867200000,
+  "updateUser" : 55,
+  "effectiveDate" : 1588926208000,
+  "transactionCurrencyOption" : null
+}

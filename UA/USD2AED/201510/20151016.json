@@ -1,0 +1,13 @@
+{
+  "exchangeRateId" : 2016118582,
+  "curDate" : 1444924800000,
+  "baseCurrency" : "USD",
+  "transactionCurrency" : "AED",
+  "exchangeRate" : 0.2731,
+  "createDate" : 1444924800000,
+  "createUser" : 55,
+  "updateDate" : 1444924800000,
+  "updateUser" : 55,
+  "effectiveDate" : null,
+  "transactionCurrencyOption" : null
+}

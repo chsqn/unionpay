@@ -1,0 +1,13 @@
+{
+  "exchangeRateId" : 2016240357,
+  "curDate" : 1449417600000,
+  "baseCurrency" : "USD",
+  "transactionCurrency" : "AFN",
+  "exchangeRate" : 0.015,
+  "createDate" : 1449417600000,
+  "createUser" : 55,
+  "updateDate" : 1449417600000,
+  "updateUser" : 55,
+  "effectiveDate" : null,
+  "transactionCurrencyOption" : null
+}

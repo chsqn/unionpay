@@ -1,0 +1,13 @@
+{
+  "exchangeRateId" : 2016726960,
+  "curDate" : 1456156800000,
+  "baseCurrency" : "USD",
+  "transactionCurrency" : "ARS",
+  "exchangeRate" : 0.0656,
+  "createDate" : 1456156800000,
+  "createUser" : 55,
+  "updateDate" : 1456156800000,
+  "updateUser" : 55,
+  "effectiveDate" : null,
+  "transactionCurrencyOption" : null
+}

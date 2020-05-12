@@ -1,0 +1,13 @@
+{
+  "exchangeRateId" : 2035298,
+  "curDate" : 1588003200000,
+  "baseCurrency" : "USD",
+  "transactionCurrency" : "ANG",
+  "exchangeRate" : 0.5587794,
+  "createDate" : 1588003200000,
+  "createUser" : 55,
+  "updateDate" : 1588003200000,
+  "updateUser" : 55,
+  "effectiveDate" : 1588062394000,
+  "transactionCurrencyOption" : null
+}

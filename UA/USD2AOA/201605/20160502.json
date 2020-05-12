@@ -1,0 +1,13 @@
+{
+  "exchangeRateId" : 2016973384,
+  "curDate" : 1462118400000,
+  "baseCurrency" : "USD",
+  "transactionCurrency" : "AOA",
+  "exchangeRate" : 0.0061,
+  "createDate" : 1462118400000,
+  "createUser" : 55,
+  "updateDate" : 1462118400000,
+  "updateUser" : 55,
+  "effectiveDate" : null,
+  "transactionCurrencyOption" : null
+}
