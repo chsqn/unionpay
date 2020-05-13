@@ -1,0 +1,13 @@
+{
+  "exchangeRateId" : 2015711131,
+  "curDate" : 1432224000000,
+  "baseCurrency" : "THB",
+  "transactionCurrency" : "ZMK",
+  "exchangeRate" : 0.0065,
+  "createDate" : 1432224000000,
+  "createUser" : 55,
+  "updateDate" : 1432224000000,
+  "updateUser" : 55,
+  "effectiveDate" : null,
+  "transactionCurrencyOption" : null
+}

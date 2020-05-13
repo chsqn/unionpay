@@ -1,0 +1,13 @@
+{
+  "exchangeRateId" : 100338,
+  "curDate" : 1487088000000,
+  "baseCurrency" : "THB",
+  "transactionCurrency" : "ZAR",
+  "exchangeRate" : 2.690534838,
+  "createDate" : 1487088000000,
+  "createUser" : 55,
+  "updateDate" : 1487088000000,
+  "updateUser" : 55,
+  "effectiveDate" : null,
+  "transactionCurrencyOption" : null
+}
