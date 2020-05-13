@@ -1,0 +1,13 @@
+{
+  "exchangeRateId" : 2017070870,
+  "curDate" : 1465228800000,
+  "baseCurrency" : "THB",
+  "transactionCurrency" : "WST",
+  "exchangeRate" : 13.8925,
+  "createDate" : 1465228800000,
+  "createUser" : 55,
+  "updateDate" : 1465228800000,
+  "updateUser" : 55,
+  "effectiveDate" : null,
+  "transactionCurrencyOption" : null
+}
