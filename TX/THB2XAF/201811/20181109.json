@@ -1,0 +1,13 @@
+{
+  "exchangeRateId" : 1302450,
+  "curDate" : 1541692800000,
+  "baseCurrency" : "THB",
+  "transactionCurrency" : "XAF",
+  "exchangeRate" : 0.054645137,
+  "createDate" : 1541692800000,
+  "createUser" : 55,
+  "updateDate" : 1541692800000,
+  "updateUser" : 55,
+  "effectiveDate" : 1541752310000,
+  "transactionCurrencyOption" : null
+}

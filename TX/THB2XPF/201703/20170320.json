@@ -1,0 +1,13 @@
+{
+  "exchangeRateId" : 172253,
+  "curDate" : 1489939200000,
+  "baseCurrency" : "THB",
+  "transactionCurrency" : "XPF",
+  "exchangeRate" : 0.314428085,
+  "createDate" : 1489939200000,
+  "createUser" : 55,
+  "updateDate" : 1489939200000,
+  "updateUser" : 55,
+  "effectiveDate" : null,
+  "transactionCurrencyOption" : null
+}

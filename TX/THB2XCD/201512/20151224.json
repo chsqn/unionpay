@@ -1,0 +1,13 @@
+{
+  "exchangeRateId" : 2016280980,
+  "curDate" : 1450886400000,
+  "baseCurrency" : "THB",
+  "transactionCurrency" : "XCD",
+  "exchangeRate" : 13.4833,
+  "createDate" : 1450886400000,
+  "createUser" : 55,
+  "updateDate" : 1450886400000,
+  "updateUser" : 55,
+  "effectiveDate" : null,
+  "transactionCurrencyOption" : null
+}
