@@ -1,0 +1,13 @@
+{
+  "exchangeRateId" : 1224212,
+  "curDate" : 1536681600000,
+  "baseCurrency" : "THB",
+  "transactionCurrency" : "VUV",
+  "exchangeRate" : 0.291712794,
+  "createDate" : 1536681600000,
+  "createUser" : 55,
+  "updateDate" : 1536681600000,
+  "updateUser" : 55,
+  "effectiveDate" : 1536741031000,
+  "transactionCurrencyOption" : null
+}

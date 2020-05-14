@@ -1,0 +1,13 @@
+{
+  "exchangeRateId" : 1575322,
+  "curDate" : 1558972800000,
+  "baseCurrency" : "THB",
+  "transactionCurrency" : "VES",
+  "exchangeRate" : 0.005553827,
+  "createDate" : 1558972800000,
+  "createUser" : 55,
+  "updateDate" : 1558972800000,
+  "updateUser" : 55,
+  "effectiveDate" : 1559031894000,
+  "transactionCurrencyOption" : null
+}

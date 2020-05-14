@@ -1,0 +1,13 @@
+{
+  "exchangeRateId" : 1682171,
+  "curDate" : 1565712000000,
+  "baseCurrency" : "THB",
+  "transactionCurrency" : "VND",
+  "exchangeRate" : 0.001336082,
+  "createDate" : 1565712000000,
+  "createUser" : 55,
+  "updateDate" : 1565712000000,
+  "updateUser" : 55,
+  "effectiveDate" : 1565770966000,
+  "transactionCurrencyOption" : null
+}

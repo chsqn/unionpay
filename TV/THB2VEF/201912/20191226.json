@@ -1,0 +1,13 @@
+{
+  "exchangeRateId" : 1865457,
+  "curDate" : 1577289600000,
+  "baseCurrency" : "THB",
+  "transactionCurrency" : "VEF",
+  "exchangeRate" : 1.2195E-4,
+  "createDate" : 1577289600000,
+  "createUser" : 55,
+  "updateDate" : 1577289600000,
+  "updateUser" : 55,
+  "effectiveDate" : 1577348615000,
+  "transactionCurrencyOption" : null
+}
